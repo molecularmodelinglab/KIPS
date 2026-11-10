@@ -1,3 +1,7 @@
+# BindingDB Raw Data Files
+BindingDB_All_*.tsv
+BindingDB_All_*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

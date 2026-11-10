@@ -1,0 +1,16 @@
+Compound ID,SMILES_standardized,InChI_Key,Binding_Type
+AKI00000040a,N#Cc1c(O)c2c(-c3ccc(-c4ccccc4O)cc3)csc2[nH]c1=O,CTESJDQKVOEUOY-UHFFFAOYSA-N,Allosteric
+AZKI-47,C=CC(=O)Nc1cnccc1Nc1nc(NC2CCOCC2)ncc1Cl,JEQVYDMONHXBKT-UHFFFAOYSA-N,Covalent
+Gefitinib,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,XGALLCVXEZPNRQ-UHFFFAOYSA-N,Allosteric
+M4K2009A01,COc1cc(-c2cncc(-c3ccc(N4CCNCC4)cc3)c2C)cc(OC)c1OC,RKBYYWVZFBATHQ-UHFFFAOYSA-N,Allosteric
+MRKI-15,C[C@@H]1CN(c2cc(-c3n[nH]c4ccc(OC5(C)CC5)cc34)ncn2)C[C@H](C)O1,ATUUNJCZCOMUKD-OKILXGFUSA-N,Allosteric
+NG52,CC(C)n1cnc2c(Nc3cccc(Cl)c3)nc(NCCO)nc21,XZEFMZCNXDQXOZ-UHFFFAOYSA-N,Allosteric
+PF-04457845,O=C(Nc1cccnn1)N1CCC(=Cc2cccc(Oc3ccc(C(F)(F)F)cn3)c2)CC1,BATCTBJIJJEPHM-UHFFFAOYSA-N,Covalent
+PFE-PKIS 25,C[C@@H]1CCN(C(=O)CC#N)C[C@@H]1N(C)c1ncnc2[nH]ccc12,UJLAWZDWDVHWOW-YPMHNXCESA-N,Covalent
+Selumetinib,Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21,CYOHGALHFOKKQC-UHFFFAOYSA-N,Allosteric
+TH300,CCCN(Cc1ccccc1)C(=O)c1ccc(S(=O)(=O)Nc2cccc(Cl)c2)cc1,VMGWOAVOASXXIH-UHFFFAOYSA-N,Allosteric
+TPKI-48,CCc1ccc(-c2ccc3c(c2)-c2n[nH]cc2S(=O)(=O)N3C)cc1,ISXAVIPPPMJTPN-UHFFFAOYSA-N,Allosteric
+Trametinib,CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1,LIRYPHYGHXZJBZ-UHFFFAOYSA-N,Allosteric
+UNC10126563B,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,OMZCMEYTWSXEPZ-UHFFFAOYSA-N,Covalent
+ibrutinib,C=CC(=O)N1CCCC(n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,XYFPWWZEPKGCCK-UHFFFAOYSA-N,Allosteric
+imbrutinib,C=CC(=O)N1CCC[C@@H](n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1,XYFPWWZEPKGCCK-GOSISDBHSA-N,Allosteric + Covalent

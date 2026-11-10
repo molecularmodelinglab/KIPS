@@ -1,0 +1,13 @@
+Metric,SI50,SI65,SI90
+Train Size,1230,1230,1230
+Train Prevalence,0.115,0.115,0.096
+Test Size,308,308,308
+Test Prevalence,0.114,0.114,0.097
+Kneedle Threshold,0.192,0.142,0.082
+OOF MCC-defined Threshold,0.575,0.375,0.475
+ROC-AUC,0.877,0.856,0.783
+PR-AUC,0.670,0.631,0.497
+Precision,0.677,0.528,0.600
+Recall,0.600,0.543,0.400
+F1,0.636,0.535,0.480
+MCC,0.594,0.475,0.447

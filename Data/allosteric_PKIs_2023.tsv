@@ -1,0 +1,365 @@
+PDB ID	Ligand ID	Inhibitor type	Pocket	CHEMBL ID (Inhibitor)	Uniprot ID	Protein kinase	Kinase group	SMILES	Mechanism	Privileged substructures
+4AW1	21O	Activator	C		O15530	PDPK1	AGC	O=C(CC(c1ccccc1)C(C(=O)O)C(=O)O)c1ccc(C(F)(F)F)cc1	Allosteric	
+3ORZ	2A2	Activator	C		O15530	PDPK1	AGC	O=C(CCCS)N1CCN(c2cccc(Cl)c2)CC1	Allosteric	
+4A06	A06	Activator	C		O15530	PDPK1	AGC	O=C(O)CC(Cc1nc2cc(Cl)ccc2[nH]1)c1ccc(Cl)cc1	Allosteric	
+3OTU	J30	Activator	C		O15530	PDPK1	AGC	O=C(CCCS)N1CCN(Cc2cccc3ccccc23)CC1	Allosteric	
+4AW0	MJF	Activator	C		O15530	PDPK1	AGC	O=C(CC(c1ccccc1)C(C(=O)O)C(=O)O)c1ccc(Cl)cc1	Allosteric	
+3HRF	P47	Activator	C		O15530	PDPK1	AGC	O=C(O)C=C(CCc1ccc(Cl)cc1)c1ccccc1	Allosteric	
+4E6C	0O8	Activator	D		Q16539	MAPK14	CMGC	CCCCCCCCCCCCCCCCCCOP(=O)(O)OC1CC[N+](C)(C)CC1	Allosteric	
+4E6A	0O9	Activator	D		Q16539	MAPK14	CMGC	CCCCCCCCCCCCCCCCCCOCC(COP(=O)(O)OC1C(OCC(C)C)CC(O)C(O)C1O)OC	Allosteric	
+4E8A	0OA	Activator	D		Q16539	MAPK14	CMGC	CCCCCCCCCCCCCCCCCCOCC(COP(=O)(O)OC1C(OCC2CCCCC2)CC(O)C(O)C1O)OC	Allosteric	
+5N66	BW1	Activator	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NCc3cc(CC4CC4)co3)nc(-c3ccccc3)nc2c1	Allosteric	
+3PYY	3YY	Activator	E		P00519	ABL1	TK	O=C1NC(=O)C(c2cn(-c3ccccc3)nc2-c2ccc(F)cc2)N1	Allosteric	
+6NPE	KWD	Activator	E		P00519	ABL1	TK	N#CCC(=O)Nc1nc(-c2ccc(Cl)c(Cl)c2)cs1	Allosteric	
+6NPV	KWP	Activator	E		P00519	ABL1	TK	O=C(NC1=NN(c2ccc(Cl)c(Cl)c2)CC1CCO)c1ccncc1	Allosteric	
+6NPU	KWV	Activator	E		P00519	ABL1	TK	CC(=O)NC1=NN(c2ccc(Cl)c(Cl)c2)CC1	Allosteric	
+4CFE	992	Activator	F		P54646	PRKAA2	CAMK	Cc1ccc(Oc2nc3cc(-c4ccc5c(ccn5C)c4)c(Cl)cc3[nH]2)cc1C(=O)O	Allosteric	
+5ISO	992	Activator	F		P54646	PRKAA2	CAMK	Cc1ccc(Oc2nc3cc(-c4ccc5c(ccn5C)c4)c(Cl)cc3[nH]2)cc1C(=O)O	Allosteric	
+4ZHX	C1V	Activator	F		P54646	PRKAA2	CAMK	N#Cc1c(O)c2c(-c3ccc(-c4ccccc4O)cc3)csc2[nH]c1=O	Allosteric	
+5EZV	C1V	Activator	F		P54646	PRKAA2	CAMK	N#Cc1c(O)c2c(-c3ccc(-c4ccccc4O)cc3)csc2[nH]c1=O	Allosteric	
+6B1U	CG7	Activator	F		P54646	PRKAA2	CAMK	Cc1ccc(Oc2nc3nc(-c4ccc(-c5ccccc5O)cc4)c(Cl)cc3[nH]2)cc1C(=O)O	Allosteric	
+6C9F	R34	Activator	F		Q13131	PRKAA1	CAMK	Cc1ccc(Oc2nc3cc(-c4ccc5c(ccn5C)c4)c(Cl)cc3[nH]2)cc1C(=O)NO	Allosteric	
+6C9H	R34	Activator	F		Q13131	PRKAA1	CAMK	Cc1ccc(Oc2nc3cc(-c4ccc5c(ccn5C)c4)c(Cl)cc3[nH]2)cc1C(=O)NO	Allosteric	
+6C9J	R34	Activator	F		Q13131	PRKAA1	CAMK	Cc1ccc(Oc2nc3cc(-c4ccc5c(ccn5C)c4)c(Cl)cc3[nH]2)cc1C(=O)NO	Allosteric	
+6C9G	R93	Activator	F		Q13131	PRKAA1	CAMK	Cc1ccc(Oc2nc3cc(-c4ccc(-c5ccccc5O)cc4)c(Cl)cc3[nH]2)cc1C(=O)NO	Allosteric	
+4EBV	0O7	Type III	B		Q05397	PTK2	TK	CCc1ccc(-c2ccc3c(c2)-c2n[nH]cc2S(=O)(=O)N3C)cc1	Allosteric	
+4EH9	0OQ	Type III	B		Q16539	MAPK14	CMGC	O=C(c1ccc(C(F)(F)F)cc1)N1CC2CC(C1)c1cccc(=O)n1C2	Allosteric	
+4EBW	0PF	Type III	B	CHEMBL2333436	Q05397	PTK2	TK	CCc1ccc(-c2ccc3c(c2)-c2c(cnn2CC)S(=O)(=O)N3C)cc1	Allosteric	
+4EJN	0R4	Type III	B	CHEMBL2177836	P31749	AKT1	AGC	CC(=O)Nc1cccc(-c2ccc3nc(-c4cccnc4N)n(-c4ccc(CNC(=O)c5cccc(F)c5)cc4)c3n2)c1	Allosteric	
+4EHV	0SJ	Type III	B		Q16539	MAPK14	CMGC	O=C(c1ccc(Cl)cc1)N1CC2CC(C1)c1cccc(=O)n1C2	Allosteric	
+4I4F	1BR	Type III	B		Q05397	PTK2	TK	CN1c2ccc(NCc3ccc(C(C)(C)C)cc3)cc2-c2c(cnn2C)S1(=O)=O	Allosteric	
+3DY7	1CX	Type III	B		Q02750	MAP2K1	STE	O=C(NOCCO)C1=CC=C(F)C(F)C1=Nc1ccc(I)cc1F	Allosteric	
+4M13	1E0	Type III	B		Q08881	ITK	TK	CCCOc1ccc2cccc(-n3cc(NC(N)=O)c(C(N)=O)n3)c2c1	Allosteric	
+4ITI	1HW	Type III	B		Q13546	RIPK1	TKL	COc1ccc2c(c1)C1=NN(C(=O)CO)C(c3ccc(OC(F)(F)F)c(F)c3)C1CC2	Allosteric	
+4ITJ	1HX	Type III	B		Q13546	RIPK1	TKL	CC(NC(=O)c1ccc(C#N)n1C)c1c(F)cccc1Cl	Allosteric	
+4M12	1YZ	Type III	B		Q08881	ITK	TK	CCOc1ccc2cccc(-n3cc(NC(N)=O)c(C(N)=O)n3)c2c1	Allosteric	
+3PXF	2AN	Type III	B		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+3PXQ	2AN	Type III	B		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+3PXZ	2AN	Type III	B		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+3PY1	2AN	Type III	B		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+4EZ7	2AN	Type III	B		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+4AN9	2P7	Type III	B		Q02750	MAP2K1	STE	O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)C1	Allosteric	
+4TPT	35H	Type III	B		P53671	LIMK2	TKL	CN(Cc1ccc(C(O)CO)cc1)C(=O)c1ccc(S(=O)(=O)Nc2ccccc2)cc1	Allosteric	
+3EQC	3BM	Type III	B		Q02750	MAP2K1	STE	O=C(NOCC(O)CO)c1ccc(F)c(F)c1Nc1ccc(I)cc1Cl	Allosteric	
+4U7Z	3EW	Type III	B		Q02750	MAP2K1	STE	Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21	Allosteric	
+7JUT	3EW	Type III	B		Q6VAB6	KSR2	TKL	Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21	Allosteric	
+7JUZ	3EW	Type III	B		Q8IVT5	KSR1	TKL	Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21	Allosteric	
+4U80	3EX	Type III	B		Q02750	MAP2K1	STE	O=C(NOCCO)c1oc2ccncc2c1Nc1ccc(C2CC2)cc1F	Allosteric	
+4U81	3EY	Type III	B		Q02750	MAP2K1	STE	O=C(NOCCO)c1ccn2cncc2c1Nc1ccc(C2CC2)cc1F	Allosteric	
+3ORN	3OR	Type III	B	CHEMBL1614766	Q02750	MAP2K1	STE	O=C(NOCCO)c1cc(CN2OCCCC2=O)c(F)c(F)c1Nc1ccc(I)cc1F	Allosteric	
+3OS3	3OS	Type III	B		Q02750	MAP2K1	STE	C#Cc1ccc(Nc2c(C(=O)NOCCO)cc(C=NOCCO)c(F)c2F)c(F)c1	Allosteric	
+3V01	3V0	Type III	B		Q02750	MAP2K1	STE	O=C(NOCC(O)CO)c1oc2ccncc2c1Nc1ccc(I)cc1F	Allosteric	
+3EQG	4BM	Type III	B		Q02750	MAP2K1	STE	O=C(NOCC(O)CO)c1ccc(F)c(F)c1Nc1ccc(I)cc1F	Allosteric	
+3VVH	4BM	Type III	B		Q02750	MAP2K1	STE	O=C(NOCC(O)CO)c1ccc(F)c(F)c1Nc1ccc(I)cc1F	Allosteric	
+7JUU	4BM	Type III	B		Q6VAB6	KSR2	TKL	O=C(NOCC(O)CO)c1ccc(F)c(F)c1Nc1ccc(I)cc1F	Allosteric	
+4YZ9	4K7	Type III	B		O75460	ERN1	Other	Cc1ccc(CNC(=O)N2CCCC3(CCN(Cc4ccc(Cl)c(Cl)c4)C3)C2)cc1	Allosteric	
+4ZJI	4OQ	Type III	B	CHEMBL3609330	Q13153	PAK1	STE	CCN1c2ccc(F)cc2N=C(N2CCN(C)CC2)c2cc(Cl)ccc21	Allosteric	
+4ZJJ	4OR	Type III	B		Q13153	PAK1	STE	CCN1c2ccc(F)cc2N=C(NC2CCN(C(=O)NC(C)(C)C)C2)c2cc(Cl)ccc21	Allosteric	
+4ZLO	4PV	Type III	B	CHEMBL3609328	Q13153	PAK1	STE	CN1CCN(C2=Nc3cc(F)ccc3Nc3ccc(F)cc32)CC1	Allosteric	
+4ZSG	4QX	Type III	B		Q13164	MAPK7	CMGC	CC(C)NC(=O)n1nc(N)nc1Nc1ccc(Cl)cc1	Allosteric	
+4ZSL	4QZ	Type III	B		Q13164	MAPK7	CMGC	CC(NC(=O)n1nc(N)nc1Nc1ccc(Cl)cc1)c1ccccc1	Allosteric	
+4ZSJ	4R0	Type III	B		Q13164	MAPK7	CMGC	Cc1cc(Nc2nc(N)nn2C(=O)NC(C)C)ccc1Cl	Allosteric	
+4MNE	573	Type III	B		Q02750	MAP2K1	STE	CC(O)CONC(=O)c1oc2c(F)cncc2c1Nc1ccc(I)cc1F	Allosteric	
+5D41	57N	Type III	B		P00533	EGFR	TK	O=C(Nc1nccs1)C(c1ccccc1)N1Cc2ccccc2C1=O	Allosteric	
+3EQH	5BM	Type III	B		Q02750	MAP2K1	STE	N#CC(=C(N)Sc1ccccc1N)C(C#N)=C(N)Sc1ccccc1N	Allosteric	
+1S9I	5EA	Type III	B		P36507	MAP2K2	STE	Fc1cc(I)ccc1Nc1c(-c2nnc(NCCN3CCOCC3)o2)ccc(F)c1F	Allosteric	
+4AN3	5Y0	Type III	B		Q02750	MAP2K1	STE	O=C(NOCC(O)CO)c1ccc(F)c(F)c1Nc1ccc(I)cc1F	Allosteric	
+7W5O	6GI	Type III	B		P28482	MAPK1	CMGC	NC1=Nc2nc3cc4c(cc3n2C(c2ccc(OCc3cn5ccccc5n3)cc2)N1)OCCCO4	Allosteric	
+5KCV	6S1	Type III	B		P31749	AKT1	AGC	Nc1ncccc1-c1nc2ccc(-c3ccccc3)nc2n1-c1ccc(C2(N)CCC2)cc1	Allosteric	
+5KMI	6UE	Type III	B		P04629	NTRK1	TK	Cc1ncc(NC(=O)NC2c3ccccc3-c3ccccc32)c(-c2ccccc2)n1	Allosteric	
+5KMJ	6UF	Type III	B	CHEMBL4085721	P04629	NTRK1	TK	O=C(Cn1c(-c2cccs2)cc2ccccc21)NCc1ccccn1	Allosteric	
+5KMK	6UG	Type III	B		P04629	NTRK1	TK	Cc1ccc(NC(=O)c2ccc(C(F)(F)F)cc2F)c(-c2ccc(F)cc2)n1	Allosteric	
+5KML	6UH	Type III	B		P04629	NTRK1	TK	Cc1onc(-c2ccccc2)c1NC(=O)NCc1ccccc1C(F)(F)F	Allosteric	
+5KMM	6UJ	Type III	B		P04629	NTRK1	TK	Cc1ncc(NC(=O)Nc2cccc3ccccc23)c(-c2ccccc2)n1	Allosteric	
+5KMN	6UK	Type III	B		P04629	NTRK1	TK	Cc1ncc(NC(=O)NCc2ccccc2C(F)(F)F)c(-c2ccccc2)n1	Allosteric	
+3SLS	77D	Type III	B		Q02750	MAP2K1	STE	CC1(C)CNC(=O)c2sc(Nc3ccc(I)cc3F)c(C(=O)NC3CCCNC3)c2C1	Allosteric	
+5TF9	7AV	Type III	B	CHEMBL4100485	Q9H4A3	WNK1	Other	CNc1nc(-c2ccc3c(c2)CCN3C(=O)c2ccccc2OCc2ccc(Cl)cc2)cs1	Allosteric	
+5H3Q	7HF	Type III	B		P04629	NTRK1	TK	CCOc1nn(-c2ccccc2)c(NC(=O)NC2CN(CCOC)CC2c2ccc(F)c(F)c2)c1C	Allosteric	
+5TX5	7MJ	Type III	B		Q13546	RIPK1	TKL	CN1C(=O)C(NC(=O)c2nc(Cc3ccccc3)n[nH]2)COc2ccccc21	Allosteric	
+5NXD	9D8	Type III	B		P53671	LIMK2	TKL	CCCN(Cc1ccccc1)C(=O)c1ccc(S(=O)(=O)Nc2cccc(Cl)c2)cc1	Allosteric	
+3QRK	9DP	Type III	B		P00519	ABL1	TK	CC(C)(C)c1cc(NC(=O)Nc2cccc(Cl)c2Cl)n(-c2ccc3c(c2)CC(C(=O)O)NC3)n1	Allosteric	
+5ZWJ	9LL	Type III	B		P00533	EGFR	TK	O=C(Nc1nccs1)C(c1cc(F)ccc1O)N1Cc2ccccc2C1=O	Allosteric	
+6P1L	9LL	Type III	B		P00533	EGFR	TK	O=C(Nc1nccs1)C(c1cc(F)ccc1O)N1Cc2ccccc2C1=O	Allosteric	
+5WDY	A6S	Type III	B	CHEMBL4091128	Q9H4A3	WNK1	Other	COc1cccc(-c2cc(-n3cc(CNCC4CCCCC4)c4ccc(F)cc43)ccn2)c1	Allosteric	
+5WE8	A7Y	Type III	B		Q9H4A3	WNK1	Other	COc1cccc(-c2cc(C(=O)N(C)C3CCN(Cc4ccc(Cl)cc4)C3)c3ccccc3n2)c1	Allosteric	
+1S9J	BBM	Type III	B		Q02750	MAP2K1	STE	O=C(NOCC(O)CO)c1cc(Br)c(F)c(F)c1Nc1ccc(I)cc1F	Allosteric	
+3LW0	CCX	Type III	B		P08069	IGF1R	TK	N#Cc1ccc2[nH]cc(CCCCN3CCC(NC(=O)c4cccc5c(C#N)c[nH]c45)CC3)c2c1	Allosteric	
+3WIG	CHU	Type III	B	CHEMBL3264002, CHEMBL3264004	Q02750	MAP2K1	STE	CNS(=O)(=O)Nc1nccc(Cc2c(C)c3ccc(Oc4ncccn4)cc3oc2=O)c1F	Allosteric	
+6C4D	EJP	Type III	B		Q13546	RIPK1	TKL	CN1C(=O)C(N2CCc3c(nn(Cc4ccccc4)c3Cl)C2=O)COc2cc(C#N)ccc21	Allosteric	
+6C3E	EJY	Type III	B	CHEMBL4077039	Q13546	RIPK1	TKL	O=[N+]([O-])c1ccc2[nH]c(Cc3ccccc3)nc2c1	Allosteric	
+6G8X	EQT	Type III	B		P28482	MAPK1	CMGC	Nc1n[nH]c2cccc(Cl)c12	Allosteric	
+4AN2	EUI	Type III	B		Q02750	MAP2K1	STE	O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)(C2CCCCN2)C1	Allosteric	
+4LMN	EUI	Type III	B		Q02750	MAP2K1	STE	O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)(C2CCCCN2)C1	Allosteric	
+7JUY	EUI	Type III	B		Q8IVT5	KSR1	TKL	O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)(C2CCCCN2)C1	Allosteric	
+3K3J	F4C	Type III	B		Q16539	MAPK14	CMGC	O=C(NCc1ccccc1C(F)(F)F)c1cc(-c2ccncc2)nn(-c2ccc(F)cc2)c1=O	Allosteric	
+6D20	FQG	Type III	B		P04629	NTRK1	TK	CC(C)(O)CNC(=O)c1cc(NC(=O)c2cc(-c3ccccn3)c(Cl)cc2Cl)n(-c2ccccc2)n1	Allosteric	
+6D1Y	FQJ	Type III	B		P04629	NTRK1	TK	Cc1cc(NC(=O)c2ccc(Cl)cc2Cl)n(-c2ccccc2)n1	Allosteric	
+6D1Z	FQM	Type III	B		P04629	NTRK1	TK	NC(=O)c1cc(NC(=O)c2cc(-c3cccc(N)n3)ccc2Cl)n(-c2ccccc2)n1	Allosteric	
+6HHO	G4W	Type III	B		Q13546	RIPK1	TKL	N#Cc1cc(N2CCC(C(=O)N3NCCC3c3cc(F)cc(F)c3)CC2)ncn1	Allosteric	
+6YPK	GDP	Type III	B		P68400	CSNK2A1	CMGC	Nc1nc2c(ncn2C2OC(COP(=O)(O)OP(=O)(O)O)C(O)C2O)c(=O)[nH]1	Allosteric	
+6QAQ	HVQ	Type III	B		P28482	MAPK1	CMGC	[NH3+]Cc1ccsc1	Allosteric	
+3O96	IQO	Type III	B	CHEMBL258844, CHEMBL3819449	P31749	AKT1	AGC	O=c1[nH]c2ccccc2n1C1CCN(Cc2ccc(-c3nc4cc5[nH]cnc5cc4nc3-c3ccccc3)cc2)CC1	Allosteric	
+3PP1	IZG	Type III	B		Q02750	MAP2K1	STE	Cn1c(=O)c(F)c(Nc2ccc(I)cc2F)c2c(=O)n(CC(O)CO)cnc21	Allosteric	
+6DUK	JBJ	Type III	B		P00533	EGFR	TK	O=C(Nc1nccs1)C(c1cc(F)ccc1O)N1Cc2ccc(-c3ccc(N4CCNCC4)cc3)cc2C1=O	Allosteric	
+3K3I	JZJ	Type III	B		Q16539	MAPK14	CMGC	Brc1ccc(-c2c[nH]c(C3Cc4ccccc4CN3)n2)cc1	Allosteric	
+6NPT	KWY	Type III	B		P04629	NTRK1	TK	CC(C)(C)c1ccc(C(=O)Nc2cc(-c3ccccc3)nn2-c2ccccc2)cc1	Allosteric	
+8A2D	KXY	Type III	B		P00533	EGFR	TK	Cc1c(C#Cc2ccc(CN3CCC(CO)CC3)cc2)cc(C(F)F)c2cn(C(C(=O)Nc3nccs3)c3ncn4c3CCC43CC3)nc12	Allosteric	
+8A27	KY9	Type III	B		P00533	EGFR	TK	O=C(Nc1nccs1)C(c1ncn2c1CCC2)N1Cc2c(cc(C#Cc3ccc(CN4CCC(CO)CC4)cc3)cc2C(F)(F)F)C1=O	Allosteric	
+8A2A	KY9	Type III	B		P00533	EGFR	TK	O=C(Nc1nccs1)C(c1ncn2c1CCC2)N1Cc2c(cc(C#Cc3ccc(CN4CCC(CO)CC4)cc3)cc2C(F)(F)F)C1=O	Allosteric	
+8A2B	KY9	Type III	B		P00533	EGFR	TK	O=C(Nc1nccs1)C(c1ncn2c1CCC2)N1Cc2c(cc(C#Cc3ccc(CN4CCC(CO)CC4)cc3)cc2C(F)(F)F)C1=O	Allosteric	
+6NSS	L0M	Type III	B		P04629	NTRK1	TK	Cc1nccn2c(NC(=O)CN3c4ccccc4Oc4ccccc43)c(-c3ccccc3)nc12	Allosteric	
+6NSP	L0P	Type III	B		P04629	NTRK1	TK	Cc1cccn2c(NC(=O)CN3C(=O)CSc4ccccc43)c(-c3ccccc3)nc12	Allosteric	
+6PP9	LCJ	Type III	B	CHEMBL3330650	Q02750	MAP2K1	STE	O=C(NOCCO)c1ccc2cncn2c1Nc1ccc(I)cc1F	Allosteric	
+3MBL	LSG	Type III	B		Q02750	MAP2K1	STE	CC(=O)c1cc(C(=O)NOCCO)c(Nc2ccc(I)cc2F)n1C	Allosteric	
+3EQB	LUG	Type III	B		Q02750	MAP2K1	STE	NCCNc1nnc(-c2ccc(F)c(F)c2Nc2ccc(I)cc2F)o1	Allosteric	
+4M0Z	M0Z	Type III	B		Q08881	ITK	TK	COc1ccc2cccc(-n3cc(NC(N)=O)c(C(N)=O)n3)c2c1	Allosteric	
+4ARK	M3K	Type III	B		Q02750	MAP2K1	STE	NC(=O)c1c(Nc2ccc(I)cc2F)cc(F)cc1OCCC(O)CO	Allosteric	
+6OCQ	M5J	Type III	B		Q13546	RIPK1	TKL	CC(C)(C)C(=O)N1CCCC1c1cccc(F)c1	Allosteric	
+3DV3	MEK	Type III	B	CHEMBL464238	Q02750	MAP2K1	STE	O=C(NOCCO)c1cc(COCCO)c(F)c(F)c1Nc1ccc(I)cc1F	Allosteric	
+2P55	MRA	Type III	B		Q02750	MAP2K1	STE	C#Cc1ccc(Nc2c(C(=O)NOCCO)ccc(F)c2F)c(F)c1	Allosteric	
+6P1D	NQ1	Type III	B		P00533	EGFR	TK	O=C1c2ccccc2Nc2ccc(F)cc2N1Cc1ccccc1	Allosteric	
+6P8Q	O57	Type III	B		P00533	EGFR	TK	O=C1c2cc(F)ccc2Nc2ccccc2N1Cc1ccccc1	Allosteric	
+6PL4	OO7	Type III	B		P04629	NTRK1	TK	COCc1ccc(OC(F)(F)F)c(CNC(=O)Nc2c(-c3ccccc3)nc3c(C)nccn23)c1	Allosteric	
+8BFM	QI6	Type III	B		Q8IU85	CAMK1D	CAMK	Nc1nn2nccc2c2ccccc12	Allosteric	
+7JUR	QOM	Type III	B		Q6VAB6	KSR2	TKL	CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1	Allosteric	
+7JUX	QOM	Type III	B		Q8IVT5	KSR1	TKL	CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1	Allosteric	
+4M14	QWS	Type III	B		Q08881	ITK	TK	CC(C)Oc1ccc2cccc(-n3cc(NC(N)=O)c(C(N)=O)n3)c2c1	Allosteric	
+4M15	QWS	Type III	B		Q08881	ITK	TK	CC(C)Oc1ccc2cccc(-n3cc(NC(N)=O)c(C(N)=O)n3)c2c1	Allosteric	
+4ITH	RCM	Type III	B		Q13546	RIPK1	TKL	CN1C(=O)NC(Cc2c[nH]c3c(Cl)cccc23)C1=O	Allosteric	
+3V04	V04	Type III	B		Q02750	MAP2K1	STE	O=C(NOCCO)c1ccc2[nH]ncc2c1Nc1ccc(I)cc1F	Allosteric	
+7JUS	VKD	Type III	B		Q6VAB6	KSR2	TKL	O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)(C2CCCCN2)C1	Allosteric	
+7JUV	VKG	Type III	B		Q6VAB6	KSR2	TKL	CNS(=O)(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1	Allosteric	
+7JXQ	VNS	Type III	B		P00533	EGFR	TK	CN1CCC(c2ccc(-c3ccc4c(c3)C(=O)N(C(C(=O)Nc3nccs3)c3cc(F)ccc3O)C4)cc2)CC1	Allosteric	
+7K1H	VNS	Type III	B		P00533	EGFR	TK	CN1CCC(c2ccc(-c3ccc4c(c3)C(=O)N(C(C(=O)Nc3nccs3)c3cc(F)ccc3O)C4)cc2)CC1	Allosteric	
+7K1I	VNS	Type III	B		P00533	EGFR	TK	CN1CCC(c2ccc(-c3ccc4c(c3)C(=O)N(C(C(=O)Nc3nccs3)c3cc(F)ccc3O)C4)cc2)CC1	Allosteric	
+7LG8	VNS	Type III	B		P00533	EGFR	TK	CN1CCC(c2ccc(-c3ccc4c(c3)C(=O)N(C(C(=O)Nc3nccs3)c3cc(F)ccc3O)C4)cc2)CC1	Allosteric	
+3E8N	VRA	Type III	B		Q02750	MAP2K1	STE	COc1cc(F)c(F)c(Nc2ccc(I)cc2F)c1NS(=O)(=O)C1(CC(O)CO)CC1	Allosteric	
+7LTX	YFA	Type III	B		P00533	EGFR	TK	CN1CCC(c2ccc(-c3ccc4ncn(C(C(=O)Nc5nccs5)c5ccccc5)c(=O)c4c3F)cc2)CC1	Allosteric	
+4ANB	YQY	Type III	B		Q02750	MAP2K1	STE	NCC1(O)CN(C(=O)c2ccc(F)c(F)c2Nc2ccc(I)cc2F)C1	Allosteric	
+3PXF	2AN	Type IV	C		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+3PXQ	2AN	Type IV	C		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+3PXZ	2AN	Type IV	C		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+3PY1	2AN	Type IV	C		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+4EZ7	2AN	Type IV	C		P24941	CDK2	CMGC	O=S(=O)(O)c1cccc2cccc(Nc3ccccc3)c12	Allosteric	
+4CT1	31S	Type IV	C		O15530	PDPK1	AGC	O=C(O)C=C(CCc1ccc(Cl)cc1)c1ccc(-c2ccccc2)cc1	Allosteric	
+5DN3	5DN	Type IV	C		O14965	AURKA	Other	O=C(O)c1cc(-c2cccc(Br)c2)nc2c(F)cccc12	Allosteric	
+5DOS	5DN	Type IV	C		O14965	AURKA	Other	O=C(O)c1cc(-c2cccc(Br)c2)nc2c(F)cccc12	Allosteric	
+5DPV	5DN	Type IV	C		O14965	AURKA	Other	O=C(O)c1cc(-c2cccc(Br)c2)nc2c(F)cccc12	Allosteric	
+5DT4	5DN	Type IV	C		O14965	AURKA	Other	O=C(O)c1cc(-c2cccc(Br)c2)nc2c(F)cccc12	Allosteric	
+5DR2	5E1	Type IV	C		O14965	AURKA	Other	O=C(O)c1cc(-c2cccc(Br)c2)nc2ccccc12	Allosteric	
+5DR6	5E1	Type IV	C		O14965	AURKA	Other	O=C(O)c1cc(-c2cccc(Br)c2)nc2ccccc12	Allosteric	
+5DR9	5E2	Type IV	C		O14965	AURKA	Other	O=C(O)c1cc(-c2cccc(Br)c2)nc2ccc(Cl)cc12	Allosteric	
+5LVO	78W	Type IV	C		O15530	PDPK1	AGC	CC(=O)CSC(=Nc1ccc(Cl)cc1)NC(=O)c1c(F)cccc1Cl	Allosteric	
+5OBJ	9QK	Type IV	C		O14965	AURKA	Other	O=C(O)c1cc(-c2cccc(F)c2)nc2ccccc12	Allosteric	
+5OBR	9QT	Type IV	C		O14965	AURKA	Other	O=C(O)c1cc(-c2cc(F)cc(Cl)c2)nc2ccccc12	Allosteric	
+5ORR	A5Q	Type IV	C		O14965	AURKA	Other	Nc1snnc1-c1ccc(C(F)(F)F)cc1	Allosteric	
+5ORS	A5W	Type IV	C		O14965	AURKA	Other	COc1ccccc1C1CCN(C(=O)C2CCC2)CC1	Allosteric	
+5ORT	A5Z	Type IV	C		O14965	AURKA	Other	Cc1onc(-c2c(Cl)cccc2Cl)c1CO	Allosteric	
+5ORV	A65	Type IV	C		O14965	AURKA	Other	CSc1nsc(SC)c1CO	Allosteric	
+5ORW	A6E	Type IV	C		O14965	AURKA	Other	O=C(CCOc1ccc(F)cc1)N1CCSCC1	Allosteric	
+5ORX	A6H	Type IV	C		O14965	AURKA	Other	Nc1ccc(Oc2c(Cl)cccc2Cl)nc1	Allosteric	
+5ORZ	A6W	Type IV	C		O14965	AURKA	Other	COC(=O)c1sc(-c2cccs2)cc1N	Allosteric	
+5OS0	A6Z	Type IV	C		O14965	AURKA	Other	N#CC[NH+]1CCN(c2cccc(Cl)c2)CC1	Allosteric	
+5OS1	A7H	Type IV	C		O14965	AURKA	Other	CCOc1ccc2nc(C)sc2c1	Allosteric	
+5OS2	A7K	Type IV	C		O14965	AURKA	Other	[NH3+]Cc1ccccc1N1CCC(CO)CC1	Allosteric	
+5OS3	A7N	Type IV	C		O14965	AURKA	Other	CCOc1ccc(C(C)N)cc1	Allosteric	
+5OS6	A7Q	Type IV	C		O14965	AURKA	Other	OCc1ccc(Oc2ccccc2)nc1	Allosteric	
+5OS4	A8H	Type IV	C		O14965	AURKA	Other	O=C1NC(=O)C2CC(c3ccccc3)CCC12	Allosteric	
+5OS5	A8K	Type IV	C		O14965	AURKA	Other	Oc1ccc(Sc2ccc(O)cc2)cc1	Allosteric	
+5ORY	AY4	Type IV	C		O14965	AURKA	Other	Oc1c(F)cc(F)cc1-c1cc[nH]n1	Allosteric	
+4A07	AZ7	Type IV	C		O15530	PDPK1	AGC	O=C(O)CC(Cc1nc2cc(Cl)cc(Cl)c2[nH]1)c1ccc(Cl)cc1	Allosteric	
+6R4C	JRQ	Type IV	C		O14965	AURKA	Other	CCOC(=O)CC1C(=O)NCCN1Cc1ccc(C)cc1	Allosteric	
+6R4A	JRT	Type IV	C		O14965	AURKA	Other	O=C(Cn1cnc2ccccc21)NCCc1ccccc1	Allosteric	
+6R4D	JRW	Type IV	C		O14965	AURKA	Other	Cc1ccc2c(c1)CNC1(C(C)C)CC2(O)N(C2CCC2)C1=O	Allosteric	
+6R49	JSB	Type IV	C		O14965	AURKA	Other	CC(C)C12CC(O)(c3ccccc3CN1)N(C1CC1)C2=O	Allosteric	
+6R4B	JSN	Type IV	C		O14965	AURKA	Other	CC1=NC(=O)NC(c2ccc(F)cc2F)C1C(=O)N(C)C	Allosteric	
+4RQK	R1S	Type IV	C		O15530	PDPK1	AGC	O=S(=O)(Nc1nc2ccc(Cl)cc2s1)c1csc2ccccc12	Allosteric	
+4RQV	R2S	Type IV	C		O15530	PDPK1	AGC	O=S(=O)(Nc1nc2ccc(Cl)cc2s1)c1cc2ccccc2s1	Allosteric	
+4XX9	RF4	Type IV	C		O15530	PDPK1	AGC	Cc1cccc(C)c1OCCSc1nc2ccccc2n1CC(=O)O	Allosteric	
+5MRD	S26	Type IV	C		O15530	PDPK1	AGC	CCOC(=O)C1=C(O)C(=O)N(c2nc3ccc(Cl)cc3s2)C1c1cccs1	Allosteric	
+5ACK	SVQ	Type IV	C		O15530	PDPK1	AGC	O=C(O)C1CCC(=O)N(CCc2ccc(Cl)cc2)C1c1ccccc1Cl	Allosteric	
+3ROC	29B	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccncc2)cc1	Allosteric	
+3NEW	3NE	Type IV	D		Q16539	MAPK14	CMGC	O=c1cc(C(F)(F)F)c2c(-c3cccc(C(F)(F)F)c3)n[nH]c2[nH]1	Allosteric	
+3O2M	46A	Type IV	D		P45983	MAPK8	CMGC	CCCCN(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)c1nc(C)cc(C)n1	Allosteric	
+4DLJ	6RG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NCCc3ccccc3)nc(-c3ccccc3)nc2c1	Allosteric	
+5N64	8OH	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NCc3cccs3)nc(-c3ccccc3)nc2c1	Allosteric	
+5N68	8OK	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NCCc3ccccc3)nc(-c3ccc(N4CCOCC4)cc3)nc2c1	Allosteric	
+5N67	8ON	Type IV	D		Q16539	MAPK14	CMGC	CC(=O)N1CCN(c2ccc(-c3nc(NCCc4ccccc4)c4ccc(N)cc4n3)cc2)CC1	Allosteric	
+5N65	8OT	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NCCc3cccs3)nc(-c3ccccc3)nc2c1	Allosteric	
+5N63	8OW	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NCc3ccc(F)cc3)nc(-c3ccccc3)nc2c1	Allosteric	
+5OSZ	AHK	Type IV	D		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(C[NH2+]CCc2nc3ccccc3[nH]2)cc1Cl	Allosteric	
+5OTS	AU2	Type IV	D		P68400	CSNK2A1	CMGC	Clc1cc(C[NH2+]CCc2nc3ccccc3[nH]2)cc(Cl)c1-c1ccccc1	Allosteric	
+6EHU	B5E	Type IV	D		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3ccccc3[nH]2)cc1C(F)(F)F	Allosteric	
+3GCU	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+3HV4	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+3HV5	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+3LFB	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+3MH1	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+3MH3	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+3O8P	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+3OD6	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+3ODY	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+3ZSI	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+5MTY	BOG	Type IV	D		Q16539	MAPK14	CMGC	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Allosteric	
+6EMH	C15	Type IV	D		P53779	MAPK10	CMGC	CCCCCCCCCCCC[N+](C)(C)CCCS(=O)(=O)O	Allosteric	
+6EQ9	C15	Type IV	D		P53779	MAPK10	CMGC	CCCCCCCCCCCC[N+](C)(C)CCCS(=O)(=O)O	Allosteric	
+3HVC	GG5	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2n[nH]cc2-c2ccncc2)cc1	Allosteric	
+4EWQ	GG5	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2n[nH]cc2-c2ccncc2)cc1	Allosteric	
+4F9W	GG5	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2n[nH]cc2-c2ccncc2)cc1	Allosteric	
+4F9Y	GG5	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2n[nH]cc2-c2ccncc2)cc1	Allosteric	
+4FA2	GG5	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2n[nH]cc2-c2ccncc2)cc1	Allosteric	
+4R3C	GG5	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2n[nH]cc2-c2ccncc2)cc1	Allosteric	
+4ZTH	GG5	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2n[nH]cc2-c2ccncc2)cc1	Allosteric	
+2YIS	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+2YIW	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+3HL7	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+3HLL	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+3HP2	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+3HP5	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+3K3I	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+3K3J	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+6QDZ	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+6QE1	I46	Type IV	D		Q16539	MAPK14	CMGC	Fc1ccc(-c2c[nH]nc2-c2ccnc(F)c2)cc1	Allosteric	
+4DLI	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+4EH2	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+4EH3	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+4EH4	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+4EH5	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+4EH6	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+4EH7	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+4EH8	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+4EH9	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+4EHV	IRG	Type IV	D		Q16539	MAPK14	CMGC	Nc1ccc2c(NC3CC3)nc(-c3ccccc3)nc2c1	Allosteric	
+3C5U	P41	Type IV	D		Q16539	MAPK14	CMGC	CC(C)Nc1nc2ccc(-c3ocnc3-c3ccccc3F)cc2s1	Allosteric	
+5MO4	AY7	Type IV	E		P00519	ABL1	TK	O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CCC(O)C2)c(-c2ccn[nH]2)c1	Allosteric	
+6Q4K	HHW	Type IV	E		P24941	CDK2	CMGC	O=C(O)C=Cc1cccc(C(=O)Nc2ccc(Cl)cc2)c1	Allosteric	
+1OPL	MYR	Type IV	E		P00519	ABL1	TK	CCCCCCCCCCCCCC(=O)O	Allosteric	
+2FO0	MYR	Type IV	E		P00519	ABL1	TK	CCCCCCCCCCCCCC(=O)O	Allosteric	
+3GVU	STI	Type IV	E		P42684	ABL2	TK	Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1	Allosteric	
+6YG2	1E8	Type IV	F		O14733	MAP2K7	STE	C=CC(=O)N1CCCC(n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1	Allosteric	
+6YZ4	1E8	Type IV	F		O14733	MAP2K7	STE	C=CC(=O)N1CCCC(n2nc(-c3ccc(Oc4ccccc4)cc3)c3c(N)ncnc32)C1	Allosteric	
+6DKG	22L	Type IV	F		P04629	NTRK1	TK	O=c1[nH]cnc2scc(-c3ccccc3)c12	Allosteric	
+6DKI	22L	Type IV	F		P04629	NTRK1	TK	O=c1[nH]cnc2scc(-c3ccccc3)c12	Allosteric	
+6FVF	503	Type IV	F		P68400	CSNK2A1	CMGC	COc1[nH]c2ccc(F)cc2c1C(=O)OCC1CCN(CCNS(=O)(=O)c2ccccc2)CC1	Allosteric	
+5CSH	54E	Type IV	F		P68400	CSNK2A1	CMGC	NCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CU0	54R	Type IV	F		P68400	CSNK2A1	CMGC	CC(=O)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CU2	551	Type IV	F		P68400	CSNK2A1	CMGC	COC(=O)CC(=O)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CX9	551	Type IV	F		P68400	CSNK2A1	CMGC	COC(=O)CC(=O)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+7X4H	8BH	Type IV	F		P68400	CSNK2A1	CMGC	N#CC(=Cc1c[nH]c2ccccc12)c1n[nH]c(N)c1C#N	Allosteric	
+5ORH	A4N	Type IV	F		P68400	CSNK2A1	CMGC	Cc1ccccc1-c1ccc(CN)cc1Cl	Allosteric	
+5ORJ	A4Q	Type IV	F		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CN)cc1Cl	Allosteric	
+5OS7	A8Q	Type IV	F		P68400	CSNK2A1	CMGC	CC(C)c1ccccc1-c1ccc(C[NH3+])cc1Cl	Allosteric	
+6GMD	A8Q	Type IV	F		P68400	CSNK2A1	CMGC	CC(C)c1ccccc1-c1ccc(C[NH3+])cc1Cl	Allosteric	
+5OSL	A9K	Type IV	F		P68400	CSNK2A1	CMGC	NCc1ccc(-c2ccccc2O)c(Cl)c1	Allosteric	
+5OSZ	AHK	Type IV	F		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(C[NH2+]CCc2nc3ccccc3[nH]2)cc1Cl	Allosteric	
+5OTS	AU2	Type IV	F		P68400	CSNK2A1	CMGC	Clc1cc(C[NH2+]CCc2nc3ccccc3[nH]2)cc(Cl)c1-c1ccccc1	Allosteric	
+5OTQ	AUH	Type IV	F		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3ccccc3[nH]2)cc1OC	Allosteric	
+5OUL	AWE	Type IV	F		P68400	CSNK2A1	CMGC	NCc1ccc(-c2cccc(F)c2)c(Cl)c1	Allosteric	
+5OYF	B4Q	Type IV	F		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3ccccc3[nH]2)cc1C	Allosteric	
+6EHU	B5E	Type IV	F		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3ccccc3[nH]2)cc1C(F)(F)F	Allosteric	
+6FVG	E8K	Type IV	F		P68400	CSNK2A1	CMGC	O=C(OCC1CCN(CCNS(=O)(=O)c2ccccc2)CC1)c1c[nH]c2ccccc12	Allosteric	
+6GIH	EZN	Type IV	F		P68400	CSNK2A1	CMGC	NCc1cc(Cl)cc(-c2cccc3[nH]ccc23)c1	Allosteric	
+5MMR	H83	Type IV	F		P68400	CSNK2A1	CMGC	NCCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5OS8	J27	Type IV	F		P68400	CSNK2A1	CMGC	Cc1cc(F)ccc1-c1ccc(C[NH3+])cc1Cl	Allosteric	
+5MOE	OQC	Type IV	F		P68400	CSNK2A1	CMGC	NCc1ccc(-c2ccoc2)c(Cl)c1	Allosteric	
+7UXI	WHL	Type IV	F		P24941	CDK2	CMGC	CC(=O)Nc1ccc(NC(C)=O)cc1	Allosteric	
+7MYJ	ZQV	Activator	F		P54646	PRKAA2	CAMK	CC(=O)NC1CC=C(c2ccc(-c3nc4nc(Oc5ccc(C)c(C(=O)O)c5)[nH]c4cc3Cl)cc2)CC1	Allosteric	
+3F9N	38M	Type IV	G		O14757	CHEK1	CAMK	CCCCC(Sc1nc2ccccc2c(=O)n1-c1cccc(Cl)c1)C(=O)N1CCCC2(CCCNC2)C1	Allosteric	
+3JVR	AGX	Type IV	G		O14757	CHEK1	CAMK	CC(OC(=O)Nc1ccc(Cl)c(Cl)c1)c1nc2ccccc2[nH]1	Allosteric	
+3JVS	AGY	Type IV	G		O14757	CHEK1	CAMK	CC(C)(C)c1ccc(C(=O)NNC(=O)Nc2cccc3ccccc23)cc1[N+](=O)[O-]	Allosteric	
+4A07	AZ7	Type IV	G		O15530	PDPK1	AGC	O=C(O)CC(Cc1nc2cc(Cl)cc(Cl)c2[nH]1)c1ccc(Cl)cc1	Allosteric	
+4RQK	EPE	Type IV	G		O15530	PDPK1	AGC	O=S(=O)(O)CCN1CCN(CCO)CC1	Allosteric	
+5OQ5	MES	Type IV	G		O14757	CHEK1	CAMK	O=S(=O)([O-])CC[NH+]1CCOCC1	Allosteric	
+3A2C	PDY	Type IV	G		P49137	MAPKAPK2	CAMK	CCOc1ccc(Nc2c(C)c(NC3CCCNC3)nc3ccnn23)cc1	Allosteric	
+5CSH	54E	Type IV	H		P68400	CSNK2A1	CMGC	NCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CT0	54P	Type IV	H		P68400	CSNK2A1	CMGC	OCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CVF	54Z	Type IV	H		P68400	CSNK2A1	CMGC	NCc1ccc(OC(F)(F)F)c(Cl)c1	Allosteric	
+5MOD	86L	Type IV	H		P68400	CSNK2A1	CMGC	CC(C)Oc1ccc(CN)cc1Cl	Allosteric	
+7X4U	8DK	Type IV	H		P28482	MAPK1	CMGC	Cc1ccc(-n2nnc3c(=O)n(CC(=O)NCc4ccc5c(c4)OCO5)cnc32)cc1C	Allosteric	
+7X4U	8DK	Type IV	H		P28482	MAPK1	CMGC	Cc1ccc(-n2nnc3c(=O)n(CC(=O)NCc4ccc5c(c4)OCO5)cnc32)cc1C	Allosteric	
+5OQU	A4B	Type IV	H		P68400	CSNK2A1	CMGC	COc1ccccc1-c1ccc(CN)cc1Cl	Allosteric	
+5ORH	A4N	Type IV	H		P68400	CSNK2A1	CMGC	Cc1ccccc1-c1ccc(CN)cc1Cl	Allosteric	
+5ORJ	A4Q	Type IV	H		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CN)cc1Cl	Allosteric	
+5ORK	A4T	Type IV	H		P68400	CSNK2A1	CMGC	NCc1ccc(-c2ccccc2F)c(Cl)c1	Allosteric	
+5OS7	A8Q	Type IV	H		P68400	CSNK2A1	CMGC	CC(C)c1ccccc1-c1ccc(C[NH3+])cc1Cl	Allosteric	
+6GMD	A8Q	Type IV	H		P68400	CSNK2A1	CMGC	CC(C)c1ccccc1-c1ccc(C[NH3+])cc1Cl	Allosteric	
+5OSL	A9K	Type IV	H		P68400	CSNK2A1	CMGC	NCc1ccc(-c2ccccc2O)c(Cl)c1	Allosteric	
+5OSP	A9W	Type IV	H		P68400	CSNK2A1	CMGC	Cc1ccc(O)c(-c2ccc(C[NH3+])cc2Cl)c1	Allosteric	
+5OSR	AFK	Type IV	H		P68400	CSNK2A1	CMGC	COc1ccc(C)cc1-c1ccc(CN)cc1Cl	Allosteric	
+5OSU	AFW	Type IV	H		P68400	CSNK2A1	CMGC	COc1ccc(C(F)(F)F)cc1-c1ccc(CN)cc1Cl	Allosteric	
+5OTR	AU8	Type IV	H		P68400	CSNK2A1	CMGC	[NH3+]Cc1cc(Cl)c(-c2ccccc2)c(Cl)c1	Allosteric	
+5OTZ	AUT	Type IV	H		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1c(Cl)cc(CN)cc1Cl	Allosteric	
+5OUE	AVZ	Type IV	H		P68400	CSNK2A1	CMGC	Clc1cc(C[NH2+]CCc2c[nH]cn2)ccc1-c1ccccc1	Allosteric	
+5OUL	AWE	Type IV	H		P68400	CSNK2A1	CMGC	NCc1ccc(-c2cccc(F)c2)c(Cl)c1	Allosteric	
+7XC1	B8Z	Type IV	H		P28482	MAPK1	CMGC	COc1cc2nc(NC(=O)c3csc(COc4ccc(F)cc4)n3)sc2cc1OC	Allosteric	
+7XC1	B8Z	Type IV	H		P28482	MAPK1	CMGC	COc1cc2nc(NC(=O)c3csc(COc4ccc(F)cc4)n3)sc2cc1OC	Allosteric	
+7ZY2	H4N	Type IV	H		P68400	CSNK2A1	CMGC	Brc1ccc2[nH]ccc2c1	Allosteric	
+5OS8	J27	Type IV	H		P68400	CSNK2A1	CMGC	Cc1cc(F)ccc1-c1ccc(C[NH3+])cc1Cl	Allosteric	
+5MPJ	J2P	Type IV	H		P68400	CSNK2A1	CMGC	CC[NH2+]Cc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5MMF	JMB	Type IV	H		P68400	CSNK2A1	CMGC	CCC[NH2+]Cc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CS6	K82	Type IV	H		P68400	CSNK2A1	CMGC	CCCOc1ccc(CN)cc1Cl	Allosteric	
+7ZY0	KC0	Type IV	H		P68400	CSNK2A1	CMGC	N#CCc1c[nH]c2ccc(Br)cc12	Allosteric	
+7ZYD	KD6	Type IV	H		P68400	CSNK2A1	CMGC	Clc1cc2[nH]ccc2cc1Br	Allosteric	
+7ZY8	KE0	Type IV	H		P68400	CSNK2A1	CMGC	NCCCc1cc(Cl)cc(Cl)c1	Allosteric	
+7ZYK	KEC	Type IV	H		P68400	CSNK2A1	CMGC	N#CCc1c[nH]c2cc(Cl)c(Br)cc12	Allosteric	
+7ZYO	KEX	Type IV	H		P68400	CSNK2A1	CMGC	Clc1cc2[nH]cc(Cc3nnn[nH]3)c2cc1Br	Allosteric	
+7ZYR	KF6	Type IV	H		P68400	CSNK2A1	CMGC	Clc1cc2[nH]cc(Cc3ccc[nH]3)c2cc1Br	Allosteric	
+5MO6	KXZ	Type IV	H		P68400	CSNK2A1	CMGC	O=C(O)CC(=O)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+8AEK	LVL	Type IV	H		P68400	CSNK2A1	CMGC	N#CCc1c[nH]c2ccc(C(F)(F)F)cc12	Allosteric	
+8AEC	LW3	Type IV	H		P68400	CSNK2A1	CMGC	N#CCc1n[nH]c2cc(Cl)c(Br)cc12	Allosteric	
+5MOE	OQC	Type IV	H		P68400	CSNK2A1	CMGC	NCc1ccc(-c2ccoc2)c(Cl)c1	Allosteric	
+5MP8	RKN	Type IV	H		P68400	CSNK2A1	CMGC	C[NH2+]Cc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+7UXK	WHL	Type IV	H		P24941	CDK2	CMGC	CC(=O)Nc1ccc(NC(C)=O)cc1	Allosteric	
+5MO7	YRA	Type IV	H		P68400	CSNK2A1	CMGC	NC(=O)CCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+6X3N	5WE	Type IV	J		Q06187	BTK	TK	CN(C)CCCC(=O)N1CCCC1c1nc(-c2ccc(C(=O)Nc3nccs3)cc2)c2c(N)nccn12	Allosteric	
+6X3O	5WE	Type IV	J		Q06187	BTK	TK	CN(C)CCCC(=O)N1CCCC1c1nc(-c2ccc(C(=O)Nc3nccs3)cc2)c2c(N)nccn12	Allosteric	
+5ORN	A5E	Type IV	J		O14965	AURKA	Other	O=C1CCC(c2cccs2)=NN1	Allosteric	
+5ORO	A5H	Type IV	J		O14965	AURKA	Other	Clc1ccc(C2=CSC3=NCCN23)cc1	Allosteric	
+5ORP	A5K	Type IV	J		O14965	AURKA	Other	FC(F)(F)c1cnc(N2CCCNCC2)c(Cl)c1	Allosteric	
+5OSE	A98	Type IV	J		O14965	AURKA	Other	CCSc1nnc(NC(=O)OC)s1	Allosteric	
+5OSD	A9B	Type IV	J		O14965	AURKA	Other	NNC(=O)c1ccc(-c2ccc(Cl)cc2)o1	Allosteric	
+5OSF	A9E	Type IV	J		O14965	AURKA	Other	CCc1ccc(OCC(=O)N2CCCCC2)cc1	Allosteric	
+6BKW	FPZ	Type IV	J		Q06187	BTK	TK	c1ccc(P(c2ccccc2)c2ccccc2)cc1	Allosteric	
+5LXM	MES	Type IV	K		O14965	AURKA	Other	O=S(=O)([O-])CC[NH+]1CCOCC1	Allosteric	
+6D1Z	FQD	Type IV	L		P04629	NTRK1	TK	O=c1[nH]cnc2scc(-c3ccc(F)cc3)c12	Allosteric	
+6D20	FQD	Type IV	L		P04629	NTRK1	TK	O=c1[nH]cnc2scc(-c3ccc(F)cc3)c12	Allosteric	
+5MO5	4IH	Type V	H+A		P68400	CSNK2A1	CMGC	CS(=O)(=O)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CTP	54R	Type V	H+A		P68400	CSNK2A1	CMGC	CC(=O)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CU0	54R	Type V	H+A		P68400	CSNK2A1	CMGC	CC(=O)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CU3	54S	Type V	H+A		P68400	CSNK2A1	CMGC	O=C(CCNCc1ccc(-c2ccccc2)c(Cl)c1)NCCC(=O)Nc1cccc(C(=O)O)c1	Allosteric	
+5CU4	54S	Type V	H+A		P68400	CSNK2A1	CMGC	O=C(CCNCc1ccc(-c2ccccc2)c(Cl)c1)NCCC(=O)Nc1cccc(C(=O)O)c1	Allosteric	
+5CU2	551	Type V	H+A		P68400	CSNK2A1	CMGC	COC(=O)CC(=O)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5CX9	551	Type V	H+A		P68400	CSNK2A1	CMGC	COC(=O)CC(=O)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5OSZ	AHK	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(C[NH2+]CCc2nc3ccccc3[nH]2)cc1Cl	Allosteric	
+5OT6	AJK	Type V	H+A		P68400	CSNK2A1	CMGC	Clc1cc(C[NH2+]CCc2ccc[nH]2)ccc1-c1ccccc1	Allosteric	
+5OTI	AOK	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3cc(C)ccc3[nH]2)cc1Cl	Allosteric	
+5OTD	AOW	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3cccc([N+](=O)O)c3[nH]2)cc1Cl	Allosteric	
+5OTH	AQ8	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3c(OC)cccc3[nH]2)cc1Cl	Allosteric	
+5OTL	AQT	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3cc(OC)ccc3[nH]2)cc1Cl	Allosteric	
+5OTO	AQW	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3cc(Cl)ccc3[nH]2)cc1Cl	Allosteric	
+5OTP	AT8	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3cc(Cl)c(Cl)cc3[nH]2)cc1Cl	Allosteric	
+5OTS	AU2	Type V	H+A		P68400	CSNK2A1	CMGC	Clc1cc(C[NH2+]CCc2nc3ccccc3[nH]2)cc(Cl)c1-c1ccccc1	Allosteric	
+5OTQ	AUH	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3ccccc3[nH]2)cc1OC	Allosteric	
+5OTY	AUW	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1c(Cl)cc(CNCCc2nc3ccccc3[nH]2)cc1Cl	Allosteric	
+6EHK	AUW	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1c(Cl)cc(CNCCc2nc3ccccc3[nH]2)cc1Cl	Allosteric	
+5OUM	AVK	Type V	H+A		P68400	CSNK2A1	CMGC	Clc1cc(CNCCc2ncc[nH]2)ccc1-c1ccccc1	Allosteric	
+5OT5	AWK	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3cccc(C)c3[nH]2)cc1Cl	Allosteric	
+5OUU	AWN	Type V	H+A		P68400	CSNK2A1	CMGC	Clc1cc(CNCCc2nc3ccccc3[nH]2)ccc1-c1ccccc1	Allosteric	
+5OYF	B4Q	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3ccccc3[nH]2)cc1C	Allosteric	
+6EHU	B5E	Type V	H+A		P68400	CSNK2A1	CMGC	CCc1ccccc1-c1ccc(CNCCc2nc3ccccc3[nH]2)cc1C(F)(F)F	Allosteric	
+6EII	B5W	Type V	H+A		P68400	CSNK2A1	CMGC	Clc1cc(C[NH2+]CCCc2ccccc2)ccc1-c1ccccc1	Allosteric	
+5MO8	C98	Type V	H+A		P68400	CSNK2A1	CMGC	O=C(CC(=O)Nc1cccc(C(=O)O)c1)NCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+5MMR	H83	Type V	H+A		P68400	CSNK2A1	CMGC	NCCCCNCc1ccc(-c2ccccc2)c(Cl)c1	Allosteric	
+6HHJ	G4H	Type VI	B		P31749	AKT1	AGC	CCC(=O)Nc1ccc2c(c1)n(C1CCN(Cc3ccc(-c4nc5cc[nH]c(=O)c5cc4-c4ccccc4)cc3)CC1)c(=O)n2C	Allosteric	
+6HHF	G4K	Type VI	B		P31749	AKT1	AGC	CCC(=O)Nc1ccc2[nH]c(=O)n(C3CCN(Cc4ccc(-c5nc6cc[nH]c(=O)c6cc5-c5ccccc5)cc4)CC3)c2c1	Allosteric	
+6HHI	G4N	Type VI	B		P31749	AKT1	AGC	CCC(=O)Nc1cccc(C(=O)NC2CCN(Cc3ccc(-c4nc5cc[nH]c(=O)c5cc4-c4ccccc4)cc3)CC2)c1	Allosteric	
+6HHH	G4Q	Type VI	B		P31749	AKT1	AGC	CCC(=O)Nc1ccc(N2CCN(Cc3ccc(-c4nc5cc[nH]c(=O)c5cc4-c4ccccc4)cc3)CC2)cc1	Allosteric	
+6HHG	G4T	Type VI	B		P31749	AKT1	AGC	CCC(=O)Nc1cc(NC(=O)NC2CCN(Cc3ccc(-c4nc5cc[nH]c(=O)c5cc4-c4ccccc4)cc3)CC2)ccc1Cl	Allosteric	
+6S9X	L1W	Type VI	B		P31749	AKT1	AGC	CCC(=O)Nc1ccc2[nH]c(=O)n(C3CCN(Cc4ccc(-c5nc(Cc6ccc(O)cc6)c(=O)[nH]c5-c5ccccc5)cc4)CC3)c2c1	Allosteric	
+6S9W	L1Z	Type VI	B		P31749	AKT1	AGC	CCC(=O)Nc1ccc2[nH]c(=O)n(C3CCN(Cc4ccc(-c5[nH]c(=O)c(C)nc5-c5ccccc5)cc4)CC3)c2c1	Allosteric	
+3ORX	1F8	Type VI	C		O15530	PDPK1	AGC	Cc1oc2ccccc2c1C(=O)NCCS	Allosteric	
+5O8V	9O2	Type VI	D		Q16539	MAPK14	CMGC	CCC(=O)Nc1cccc(-c2nc(NCCc3ccccc3)c3ccc(N)cc3n2)c1	Allosteric	
+5O8U	9O5	Type VI	D		Q16539	MAPK14	CMGC	CC(=O)CCc1cccc(-c2nc(NCCc3ccccc3)c3ccc(N)cc3n2)c1	Allosteric	
+5OO0	9YZ	Type VI	I		P24941	CDK2	CMGC	CCC(=O)N1CCN(C(=O)OC)c2ccccc21	Allosteric	
+5OSJ	AAK	Type VI	I		P24941	CDK2	CMGC	CCC(=O)N1CCN(C(=O)OC(C)(C)C)c2ccccc21	Allosteric	
+5ORL	A4W	Type VI	K		O14965	AURKA	Other	O=C(CCS)Nc1cccc(Cl)c1F	Allosteric	

@@ -1,0 +1,5 @@
+Class,Feature_Status,Mean,Median,Std,Min,Max,Q1,Q3,IQR,N,Unit
+Selective,Present features,1.035,0.825,1.225,-1.358,5.511,0.203,1.661,1.458,273,log-odds
+Selective,Absent features,-1.632,-1.716,0.816,-3.825,1.249,-2.236,-1.103,1.133,273,log-odds
+Promiscuous,Present features,3.674,3.697,2.090,-0.096,7.619,1.988,5.156,3.168,35,log-odds
+Promiscuous,Absent features,-0.162,-0.006,1.186,-2.796,1.938,-0.998,0.663,1.661,35,log-odds

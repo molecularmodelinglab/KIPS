@@ -1,0 +1,35 @@
+{
+  "model": "XGBoost",
+  "fingerprint": {
+    "FP_Type": "ECFP",
+    "Radius": 2,
+    "nBits": 1024,
+    "useChirality": true
+  },
+  "params": {
+    "n_estimators": 1000,
+    "max_depth": 7,
+    "learning_rate": 0.026485155893961176,
+    "min_child_weight": 0.7752793531246763,
+    "subsample": 0.8096766377809104,
+    "colsample_bynode": 0.9115303174461776,
+    "gamma": 0.056559554107113344,
+    "reg_alpha": 1.3221195537933887,
+    "reg_lambda": 6.717556806719541
+  },
+  "prediction_threshold": 0.37499999999999994,
+  "seed": 2026,
+  "optuna_trials": 500,
+  "CV_folds": 5,
+  "test_size": 0.2,
+  "standardization": [
+    "ChargeParent",
+    "Uncharger",
+    "canonical isomeric SMILES"
+  ],
+  "input": "Output/Intermediate/KIPS_Curated/KIPS_Curated_SI65.csv",
+  "train_n": 1230,
+  "test_n": 308,
+  "rdkit_version": "2024.03.2",
+  "xgboost_version": "2.1.4"
+}

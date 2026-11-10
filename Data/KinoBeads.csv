@@ -1,0 +1,1184 @@
+"Compound ID","SMILES","Library","Chemotype","Designated Target"
+"AH20685XX","C1(N=CC=NN12)=NC=C2C3=CC=CC=C3","PKIS2","imidazotriazine fragment",
+"AH2635","NC1=NC=NC2=C1N=CN2C3=CC=C(Cl)C=C3","PKIS2","6-aminopurines and related",
+"AH5015_KCGS","Nc1ncnc2[nH]c(nc12)-c1ccccc1","KCGS","6-aminopurines and related","PIK4"
+"BI00007366","N1(CCC(CC1)Oc3c(cc2ncnc(c2c3)Nc4cc(ccc4)C#C)OC)C","KCGS","4-anilino-quinazoline","EGFR"
+"BI00009348","S(=O)(=O)(CCN1CCOCC1)c2cc(ccc2)Nc3nc4c(cn3)N(C(=O)CN4C(C)C)C","KCGS","2-amino-dihydropteridinone","PI3K"
+"BI00036838","N2c1c(cc(cc1)C(=O)C)C(=C(NN(C)C)CC)C2=O","KCGS","oxindoles","GSK3"
+"BI00047804","Clc1c(cccc1)-c2nc-3c(cn2)CCc4nc(sc4-3)NC(=O)N5C[C@@H](CC5)NC(=O)C(C)C","KCGS","2-amino-thiazole","PI3K"
+"BI00113608","Fc1c(cccc1Nc2ncnc3c2cc(c(c3)OC)O[C@@H]5CC[C@@]4(NCCNC4=O)CC5)Cl","KCGS","4-anilino-quinazoline","EGFR"
+"BI00133844","Fc1c(cccc1Nc2ncnc3c2cc(c(c3)OC)O[C@@H]4CC[C@H](CC4)[C@@H]5NCCNC5=O)Cl","KCGS","4-anilino-quinazoline","EGFR"
+"BI00601000","Fc1c(ccc(c1)F)Nc2cc3c(cc2)N(C(=O)N3)CC4CCCCC4","KCGS","imidazolone","cytokine inhibitors"
+"BI00604564","s2c1nc(cc(c1c3ncnc(c32)N)CCC)N4CCN(CCC4)C","KCGS","fused amino-pyrimidine","IKBKB"
+"BI00614644","O=C(C1=CC2=C(C=C1)C=C3N2CC(CN)CNC3=O)NC4=CC=CN=C4","KCGS","amide hinge binder","MAPKAPK2"
+"BI00645435","O=C(C1=CC2=C(C=C1)C=C3N2[C@H](C)CCNC3=O)NC4=NC5=CC=CC=C5N4CCCN(C)C","KCGS","amide hinge binder","RPS6KA3"
+"BI00801818","Brc1c(ccc(c1)C(=O)NCCC)Nc2nc(c(cn2)C(F)(F)F)Nc3c(cccc3)C(=O)C","KCGS","2,4-dianilino-pyrimidine",
+"BI00865461","Fc1c(c(ccc1NS(=O)(=O)CCC)F)-n2nnc(c2)-c3cncc(c3)OC","KCGS","3-aryl-pyridine","BRAF"
+"BI01125081","N1(CCOCC1)c2ncc(cc2)-c4cc3ncccc3c(c4)OCc5ncccc5C(=O)N","KCGS","5,7-disub-quinoline","SYK"
+"BI2536","O=C1[C@H](N(C2=C(N1C)C=NC(NC3=CC=C(C(NC4CCN(C)CC4)=O)C=C3OC)=N2)C5CCCC5)CC","KCGS","2-amino-dihydropteridinone","PLK1"
+"BIBF0846CL","N4c1c(cc(c(c1)OC)OC)C(=C(Nc2ccccc2)c3cc(ccc3)CN)C4=O","KCGS","oxindoles","tyrosine kinases"
+"BIBW3133BS","Fc1c(cc(cc1)Nc2ncnc3c2cc(c(c3)OC)O[C@@H]4CC[C@H](CC4)N)Cl","KCGS","4-anilino-quinazoline","tyrosine kinases"
+"BIRB0876BS","n1(nc(cc1NC(=O)Nc2ccc(cc2)OCCN3CCOCC3)C(C)(C)C)-c4ccc(cc4)C","KCGS","type II urea","MAPK14"
+"BIRZ0518XX","FC(F)(F)OC1=CC=CC=C1CNC2=NC=C([N+]([O-])=O)C(NCC3CCC(CN)CC3)=N2","KCGS","2,4-di-alkylamino-pyrimidine","PRKCQ"
+"BMX-IN-1","CS(NC1=CC=C(C2=CC=C(N=CC(C=C3)=C4N(C5=CC(NC(C=C)=O)=C(C)C=C5)C3=O)C4=C2)C=C1)(=O)=O","KCGS","6-sub-quinoline","BMX"
+"CA93.0","COC1=C(OC)C(OC)=CC(NC2=C3C(C=CC(Br)=C3)=NC=C2)=C1","KCGS","4-anilino-quinoline","GAK"
+"CCT241533","FC1=CC(C3=NC2=CC(OC)=C(OC)C=C2C(N[C@H]4[C@H]([C@](C)(O)C)CNC4)=N3)=C(O)C=C1.Cl.Cl","KCGS","ortho-quinazololinyl-phenol","CHEK2"
+"CCT244747","C[C@](OC1=NC(NC(C=C2OC)=NC=C2C(C=N3)=CN3C)=CN=C1C#N)([H])CN(C)C","KCGS","2-alkyl or aryl amino-5-Ar-pyridine","CHEK1"
+"CCT251545","O=C(NCC1)C1(CC2)CCN2C3=C(C4=CC=C(C5=CN(C)N=C5)C=C4)C=NC=C3Cl","KCGS","3-aryl-pyridine","phenotypic screen WNT signaling"
+"CCT251921","O=C1NCCC12CCN(C3=C(Cl)C(N)=NC=C3C4=CC5=C(N(C)N=C5)C=C4)CC2","KCGS","2-amino-5-Ar-pyridine",
+"D2202-1","Cc1cn(cn1)c1cc(cc(c1)NC(c1ccc2c(CN(C[C@@H]2C)c2cncnc2)c1)=O)C(F)(F)F","KCGS","5-amino-pyrimidine",
+"DDR1-in-1","CC1=C(OC4=CC(CC(N5)=O)=C5C=C4)C=C(NC(C2=CC=C(CN3CCN(CC)CC3)C(C(F)(F)F)=C2)=O)C=C1.Cl.Cl","KCGS","oxindoles","DDR1"
+"ERK5-IN-1","O=C1C2=CC=CC=C2N(C3CCCC3)C4=NC(NC5=CC=C(C(N6CCC(N7CCN(C)CC7)CC6)=O)C=C5OCC)=NC=C4N1C","KCGS","2-amino-pyrimido-diazepin-6-one","MAPK7"
+"FM-381","N(C)(C)C(C(\C#N)=C\C(=CC=C1C2N(C(C(N=2)=C2)=C(C(=N2)N2)C=C2)C(C2)CCCC2)O1)=O","KCGS","fused pyrrolo-pyrid(az)ine","JAK"
+"GI230329A","COC1=CC2=NC=NC(NC3=CC=CC(Br)=C3)=C2C=C1OC.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GI261520A","Cl.COc1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GI261590A","COC1=CC2=C(C=C1OC)C(NC3=CC=C(C(Cl)=C3)OCC4=CC=CC=C4Br)=NC=N2.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GI261656A","COC1=C(OC)C=C2C(N=CC=C2NC3=CC=C(OC4=CC=CC=C4)C=C3)=C1.Cl","PKIS2","4-anilinoquinoline",
+"GI262866A","OC1=CC2=C(N=CN=C2NC3=CC=C(C=C3)OCC4=CC=CC=C4)C=C1.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GI98581X","FC1=CC=C(C=C1)C2=C(C3=CC=NC=C3)N(CCS4)C4=N2","PKIS2","4-pyridyl_ortho-aryl_azoles",
+"GNF-5","C1=CC(=CC(=C1)C(=O)NCCO)C2=CC(=NC=N2)NC3=CC=C(C=C3)OC(F)(F)F","KCGS","4-amino-6-Ar-pyrimidine","ABL1"
+"GR105659X","Oc1ccc2c(CC\C2=C2\C(=O)Nc3ccccc23)c1","PKIS","Oxindoles","NTRK1"
+"GR269666A_KCGS","Cl.C(c1nc2ccc(Nc3ncnc4ccccc34)cc2[nH]1)c1ccccc1","KCGS","4-anilino_quinazolines_and_related","ERBB2"
+"GSK1000163A","CCn1c(nc2c(nc(CN3CCCC3)cc12)C#CC(C)(C)O)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"GSK1007102B","OC(=O)C(F)(F)F.CCn1c(nc2c(nc(O[C@@H](CN)c3ccccc3)cc12)C#CC(C)(C)O)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"GSK1010829B","O=C(C1=C(F)C=CC=C1F)NC2=CC=CC(C(N=C3N4C=CC=C3)=C4C5=CC=NC(NC6=CC=C(CCN(C)C7)C7=C6)=N5)=C2.Cl","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK1014915A","O=C(NC(C=C1)=CC=C1C)NC2=CC(C(C)(C)C)=NN2C3=CC=CC=C3","PKIS2","diarylurea",
+"GSK1023156A","NC(=O)c1sc(cc1OCc1ccccc1Br)-n1cnc2ccccc12","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK1024304A","NC(C(S1)=C(C=C1N2C=NC3=C2C=CC=C3)OCC4=CC=C(OC)C=C4)=O","PKIS2","benzimidazole_N-thiophenes",
+"GSK1024306A","NC(C(S1)=C(C=C1N2C=NC3=C2C=CC=C3)OCC4=CC=CC=C4F)=O","PKIS2","benzimidazole_N-thiophenes",
+"GSK1030058A","COC(=O)c1sc(cc1OCc1ccccc1C(F)(F)F)-n1cnc2cc(OC)c(OC)cc12","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK1030059A","COc1cc2ncn(-c3cc(OCc4ccccc4C(F)(F)F)c(s3)C(C)=O)c2cc1OC","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK1030061A","CNC(=O)c1sc(cc1OCc1ccccc1C(F)(F)F)-n1cnc2cc(OC)c(OC)cc12","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK1030062A","COc1cc2ncn(-c3cc(OCc4ccccc4C(F)(F)F)c(s3)C(=O)N(C)C)c2cc1OC","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK1033723A","O=C1NC=C(C2=CC=C(O)C=C2)C3=C1C=C(C4=CC=NC=C4)S3","PKIS2","thienopyridinone",
+"GSK1034945A","NC1=NNC2=CC(C3=NC(N)=NC=C3)=CC=C21","PKIS2","3-Amino-6-aryl-indazole",
+"GSK1070916","CCN1C=C(C(=N1)C2=CC=C(C=C2)NC(=O)N(C)C)C3=C4C=C(NC4=NC=C3)C5=CC(=CC=C5)CN(C)C","KCGS","2,4-disub-7-azaindole","AURKB"
+"GSK1122999D","C1(C2=CC=CC=C2)=C(OC3CCNCC3)C=C(C=NC=C4)C4=C1.C5(C6=CC=CC=C6)=C(OC7CCNCC7)C=C(C=NC=C8)C8=C5.Cl.Cl","PKIS2","isoquinoline","IKBKA,IKBKB"
+"GSK114","COC1=CC2=NC=NC(N(C3=C(N(C)C)C=CC(S(=O)(N(C)[H])=O)=C3)[H])=C2C=C1OC","KCGS","4-anilino-quinazoline","TNNI3K"
+"GSK1173862A","CCCN1CCCC(C1)c1ccc(Nc2nc(Nc3cc(F)ccc3C(N)=O)c3cc[nH]c3n2)c(OC)c1","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK1220512A","COc1cc(ccc1Nc1nc(Nc2ccc(F)cc2C(N)=O)c2cc[nH]c2n1)N1CCN(CC1)C(C)C","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK1229496A","O=C(NC1=CC=C(C=C1)C2=NC(NC(C=C3)=CC=C3OC)=NC=C2)C4=CC5=CC(F)=CC=C5N4","PKIS2","2-anilino-4-aryl-pyrimidine",
+"GSK1229782A","O=C(NC1=CC=CC(C2=NC(NC(C=C3)=CC=C3OC)=NC=C2)=C1)C4=CC5=CC(F)=CC=C5N4","PKIS2","2-anilino-4-aryl-pyrimidine",
+"GSK1229959A","O=C(NC(CN)C1=CC=CC=C1)C2=CC(C3=C4C=CNC4=NC=C3)=CS2.O=C(NC(CN)C5=CC=CC=C5)C6=CC(C7=C8C=CNC8=NC=C7)=CS6.Cl.Cl","PKIS2","carboxamide thiophene",
+"GSK1269851A","O=C(NC(S1)=CC(Br)=C1C2=C(C=CN3)C3=NC=C2)C(CN)C4=CC=CC=C4.O=C(NC(S5)=CC(Br)=C5C6=C(C=CN7)C7=NC=C6)C(CN)C8=CC=CC=C8.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1287544A","O=C(NC(C1=CC=CC=C1)CCCN)C(S2)=CC(Br)=C2C3=C(C=CN4)C4=NC=C3.OC(C(F)(F)F)=O.O=C(NC(C5=CC=CC=C5)CCCN)C(S6)=CC(Br)=C6C7=C(C=CN8)C8=NC=C7.OC(C(F)(F)F)=O","PKIS2","4-aryl-7-azaindole",
+"GSK1292139B","NCCNC1=NC=C(C(N)=O)C(NC2=CC(C)=CC=C2)=N1","PKIS2","carboxamide pyrimidine",
+"GSK1307810A","NCCC(NC(C1=CC(Br)=C(C2=C(C=CN3)C3=NC=C2)S1)=O)C4=CC=CC=C4.OC(C(F)(F)F)=O.NCCC(NC(C5=CC(Br)=C(C6=C(C=CN7)C7=NC=C6)S5)=O)C8=CC=CC=C8.OC(C(F)(F)F)=O","PKIS2","4-aryl-7-azaindole",
+"GSK1321565A","NCC(C1=CC=CC=C1)NCC2=CC=C(C3=C4C=CNC4=NC=C3)S2.NCC(C5=CC=CC=C5)NCC6=CC=C(C7=C8C=CNC8=NC=C7)S6.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1322949A","O=C(NCC(C1=CC=CC=C1)N)C2=CC(Br)=C(C3=C4C=CNC4=NC=C3)S2.O=C(NCC(C5=CC=CC=C5)N)C6=CC(Br)=C(C7=C8C=CNC8=NC=C7)S6.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1323434A","NCC(C1=CC=CC=C1)NC(C2=CC(C3=CN=CC=C3)=C(C4=CC=NC5=C4C=CN5)S2)=O.NCC(C6=CC=CC=C6)NC(C7=CC(C8=CN=CC=C8)=C(C9=CC=NC%10=C9C=CN%10)S7)=O.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1325775A","NCC(C1=CC=CC=C1)NC(C(S2)=CC(C3=CNN=C3)=C2C4=CC=NC5=C4C=CN5)=O.OC(C(F)(F)F)=O.NCC(C6=CC=CC=C6)NC(C(S7)=CC(C8=CNN=C8)=C7C9=CC=NC%10=C9C=CN%10)=O.OC(C(F)(F)F)=O","PKIS2","4-aryl-7-azaindole",
+"GSK1326180A","O=C(C1=C(F)C=CC=C1)C2=CNC(C(NC3=C(F)C=CC=C3F)=O)=C2","PKIS2","pyrrole-2-carboxamide",
+"GSK1326255A","CCCN1CCC(CC1)c1ccc(Nc2nc(Nc3cc(F)ccc3C(N)=O)c3cc[nH]c3n2)c(OC)c1","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK1379706A","O=C(NCC1=CC=C(OC)C=C1)NC2CN(CC2)C3=NC(NC(C=C4)=CC=C4F)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379708A","O=C(C1=CC(C#N)=CC=C1)NC2CN(CC2)C3=NC(NC4=CC=C(F)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379710A","O=C(NC1=CC=CC(C(C)=O)=C1)NC2CN(CC2)C3=NC(NC(C=C4)=CC=C4F)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379712_KCGS","COC(=O)C(NC(=O)NC1CCN(C1)c1ccnc(Nc2ccc(F)cc2)n1)c1ccccc1","KCGS","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379713A","O=C(C(C)C1=CC=C(Cl)C=C1)NC2CN(CC2)C3=NC(NC(C=C4)=CC=C4F)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379714A","O=C(NC(CC1=CC=CC=C1)C(OC)=O)NC2CN(CC2)C3=NC(NC4=CC=C(F)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379715A","O=S(NC1CN(CC1)C2=NC(NC3=CC=C(F)C=C3)=NC=C2)(C(C=C4)=CC=C4CCC)=O","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379716A","O=C(NC1CN(CC1)C2=NC(NC3=CC=C(F)C=C3)=NC=C2)C4=CC5=CC=CC=C5S4","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379717A","O=C(NC1CN(CC1)C2=NC(NC3=CC=C(F)C=C3)=NC=C2)C4=CN=CN4C","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379720A","O=C(NC1=C(C)C=CC(C)=C1)NC2CN(CC2)C3=NC(NC4=CC=C(F)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379721A","O=C(NC1=CC(OC)=CC=C1)NC2CN(CC2)C3=NC(NC(C=C4)=CC=C4F)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379722A","O=C(NC1=CC=CC=C1F)NC2CN(CC2)C3=NC(NC(C=C4)=CC=C4F)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379723A","O=C(NCC1=CC=CC(OC)=C1)NC2CN(CC2)C3=NC(NC4=CC=C(F)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379724A","O=C(NC1=CC=C2OCOC2=C1)NC3CN(CC3)C4=NC(NC(C=C5)=CC=C5F)=NC=C4","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379725A","O=C(NC1=CC=CC(C(OC)=O)=C1)NC2CN(CC2)C3=NC(NC4=CC=C(F)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379727A","O=C(NCC1=CC=C(OC)C=C1)NC2CN(CC2)C3=NC(NC4=CC=C(OC)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379729A","O=S(NC1CN(CC1)C2=NC(NC3=CC=C(OC)C=C3)=NC=C2)(C(C=C4)=CC=C4NC(C)=O)=O","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379730A","O=C(C1=CC(C#N)=CC=C1)NC2CN(CC2)C3=NC(NC(C=C4)=CC=C4OC)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379731A","O=C(NC1=CC=CC(C(C)=O)=C1)NC2CN(CC2)C3=NC(NC4=CC=C(OC)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379732A","O=C(C1=CC(NC(C)=O)=CC=C1)NC2CN(CC2)C3=NC(NC4=CC=C(OC)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379735A","O=C(C(C)C1=CC=C(Cl)C=C1)NC2CN(CC2)C3=NC(NC4=CC=C(OC)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379737A","O=S(NC1CN(CC1)C2=NC(NC(C=C3)=CC=C3OC)=NC=C2)(C(C=C4)=CC=C4CCC)=O","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379738A","O=C(NC1CN(CC1)C2=NC(NC(C=C3)=CC=C3OC)=NC=C2)C4=CC5=CC=CC=C5S4","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379741A","O=C(NC1=C(C)C=CC(C)=C1)NC2CN(CC2)C3=NC(NC(C=C4)=CC=C4OC)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379742A","O=C(NC1=CC(OC)=CC=C1)NC2CN(CC2)C3=NC(NC4=CC=C(OC)C=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379745A","O=C(NC1=CC=C2OCOC2=C1)NC3CN(CC3)C4=NC(NC5=CC=C(OC)C=C5)=NC=C4","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379746A","O=C(NC1=CC=CC(C(OC)=O)=C1)NC2CN(CC2)C3=NC(NC(C=C4)=CC=C4OC)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379748A","O=C(NCC1=CC=C(OC)C=C1)NC2CN(CC2)C3=NC(NC4=CC(OC)=C(OC)C(OC)=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379751A","O=C(C1=CC(C#N)=CC=C1)NC2CN(CC2)C3=NC(NC4=CC(OC)=C(C(OC)=C4)OC)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379753A","O=C(NC1=CC=CC(C(C)=O)=C1)NC2CN(CC2)C3=NC(NC4=CC(OC)=C(OC)C(OC)=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379754A","O=C(C1=CC(NC(C)=O)=CC=C1)NC2CN(CC2)C3=NC(NC4=CC(OC)=C(OC)C(OC)=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379757A","O=C(C(C)C1=CC=C(Cl)C=C1)NC2CN(CC2)C3=NC(NC4=CC(OC)=C(OC)C(OC)=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379760A","O=C(NC1CN(CC1)C2=NC(NC3=CC(OC)=C(C(OC)=C3)OC)=NC=C2)C4=CC5=CC=CC=C5S4","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379761A","O=C(NC1CN(CC1)C2=NC(NC3=CC(OC)=C(OC)C(OC)=C3)=NC=C2)C4OC5=CC=CC=C5OC4","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379762_KCGS","COc1cc(Nc2nccc(n2)N2CCC(C2)NC(=O)Nc2cc(C)ccc2C)cc(OC)c1OC","KCGS","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379763A","O=C(NC1=CC(OC)=CC=C1)NC2CN(CC2)C3=NC(NC4=CC(OC)=C(OC)C(OC)=C4)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379766A","O=C(NC1=CC=C2OCOC2=C1)NC3CN(CC3)C4=NC(NC5=CC(OC)=C(C(OC)=C5)OC)=NC=C4","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379767A","O=C(NC1=CC=CC(C(OC)=O)=C1)NC2CN(CC2)C3=NC(NC4=CC(OC)=C(C(OC)=C4)OC)=NC=C3","PKIS2","2-anilino-4-pyrrolidinopyrimidine",
+"GSK1379788A","O=C(NCC1=CC=C(OC)C=C1)NC2CCN(CC2)C3=NC(NC(C=C4)=CC=C4F)=NC=C3","PKIS2","2-anilino-4-piperidinopyrimidine",
+"GSK1379800A","O=C(NC1=CC=CC=C1F)NC2CCN(CC2)C3=NC(NC(C=C4)=CC=C4F)=NC=C3","PKIS2","2-anilino-4-piperidinopyrimidine",
+"GSK1379812A","O=C(C(C)C1=CC=C(Cl)C=C1)NC2CCN(CC2)C3=NC(NC4=CC=C(OC)C=C4)=NC=C3","PKIS2","2-anilino-4-piperidinopyrimidine",
+"GSK1379825A","O=S(NC1CCN(CC1)C2=NC(NC3=CC(OC)=C(C(OC)=C3)OC)=NC=C2)(C(C=C4)=CC=C4NC(C)=O)=O","PKIS2","2-anilino-4-piperidinopyrimidine",
+"GSK1379859A","O=C(NC1=CC=C2OCOC2=C1)NC3CCN(CC3)C4=NC(NCC5=CC=C(C=C5)F)=NC=C4","PKIS2","2-amino-4-piperidinopyrimidine",
+"GSK1379860A","O=C(NC1=CC=CC(C(OC)=O)=C1)NC2CCN(CC2)C3=NC(NCC4=CC=C(F)C=C4)=NC=C3","PKIS2","2-amino-4-piperidinopyrimidine",
+"GSK1379874A","O=C(NCCNC1=NC(NC2=CC=C(F)C=C2)=NC=C1)C3=CC4=CC=CC=C4S3","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1379878A","FC1=CC=C(C=C1)NC2=NC=CC(NCCNC(NC3=C(C)C=CC(C)=C3)=O)=N2","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1379879A","FC1=CC=C(C=C1)NC2=NC=CC(NCCNC(NC3=CC(OC)=CC=C3)=O)=N2","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1379880A","FC1=CC=C(C=C1)NC2=NC=CC(NCCNC(NC3=CC=CC=C3F)=O)=N2","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1379882A","FC1=CC=C(C=C1)NC2=NC=CC(NCCNC(NC3=CC=C4OCOC4=C3)=O)=N2","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1379883A","FC1=CC=C(C=C1)NC2=NC=CC(NCCNC(NC3=CC=CC(C(OC)=O)=C3)=O)=N2","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1379896A","O=C(NCCNC1=NC(NC(C=C2)=CC=C2OC)=NC=C1)C3=CC4=CC=CC=C4S3","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1379899A","O=C(NC1=C(C)C=CC(C)=C1)NCCNC2=NC(NC(C=C3)=CC=C3OC)=NC=C2","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1379901A","O=C(NC1=CC=CC=C1F)NCCNC2=NC(NC3=CC=C(OC)C=C3)=NC=C2","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1379944A","O=C(NCCNC1=NC(NCC2=CC=C(F)C=C2)=NC=C1)C3=CC4=CC=CC=C4S3","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1383280A","BrC1=C(C2=C3C=CNC3=NC=C2)SC(C(NC(CNCC)CC4=CC=CC=C4)=O)=C1.BrC5=C(C6=C7C=CNC7=NC=C6)SC(C(NC(CNCC)CC8=CC=CC=C8)=O)=C5.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1383281A","BrC1=C(C2=C3C=CNC3=NC=C2)SC(C(NC(CNC(C)C)CC4=CC=CC=C4)=O)=C1.BrC5=C(C6=C7C=CNC7=NC=C6)SC(C(NC(CNC(C)C)CC8=CC=CC=C8)=O)=C5.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1389063A","O=C(N[C@H](CN)CC1=CC=C(OC)C=C1)C2=CC(Br)=C(C3=C4C=CNC4=NC=C3)S2.O=C(N[C@H](CN)CC5=CC=C(OC)C=C5)C6=CC(Br)=C(C7=C8C=CNC8=NC=C7)S6.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1392956A","COc1cc(ccc1Nc1nc(Nc2ccc(F)cc2C(=O)NC[C@@H](O)CO)c2cc[nH]c2n1)N1CCN(CC1)C(C)C","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK1398460A","O=C(NC1=CC=NC=C1)C(C=C2)=CC=C2C3=C(C)C=CC(NC(C4=CC=C(C(Cl)=C4)Cl)=O)=C3","PKIS2","Biphenylamide",
+"GSK1398463A","O=C(NC1=CC=NC=C1)C(C=C2)=CC=C2C3=C(C)C=CC(NC(C4=CC(C#N)=CC=C4)=O)=C3","PKIS2","Biphenylamide",
+"GSK1398467A","O=C(NC1=CC=NC=C1)C(C=C2)=CC=C2C3=C(C)C=CC(NC(C4=CC=C(Cl)C=C4)=O)=C3","PKIS2","Biphenylamide",
+"GSK1398468A","O=C(NC1=CC=NC=C1)C(C=C2)=CC=C2C3=C(C)C=CC(NC(NC4=CC=CC(Cl)=C4)=O)=C3","PKIS2","Biphenylamide",
+"GSK1398470A","O=C(NC1=CC(C2=CC=C(C=C2)C(NC3=CC=NC=C3)=O)=C(C)C=C1)NC4=CC(C(F)(F)F)=C(Cl)C=C4","PKIS2","Biphenylamide",
+"GSK1398471A","O=C(NC1=CC=NC=C1)C(C=C2)=CC=C2C3=C(C)C=CC(NC(NC4=CC=CC=C4)=O)=C3","PKIS2","Biphenylamide",
+"GSK1398472A","O=C(NC1=CC=NC=C1)C(C=C2)=CC=C2C3=C(C)C=CC(NC(NC(C=C4)=CC=C4Cl)=O)=C3","PKIS2","Biphenylamide",
+"GSK1398473A","O=C(NC1=CC=NC=C1)C(C=C2)=CC=C2C3=C(C)C=CC(NC(NC4=C(C)C=CC(C)=C4)=O)=C3","PKIS2","Biphenylamide",
+"GSK1398474A","O=C(NC1=CC=NC=C1)C(C=C2)=CC=C2C3=C(C)C=CC(NC(NC4=CC(OC)=CC=C4)=O)=C3","PKIS2","Biphenylamide",
+"GSK1398475A","O=C(NC1=CC=NC=C1)C(C=C2)=CC=C2C3=C(C)C=CC(NC(NC4=CC=C(OC)C=C4)=O)=C3","PKIS2","Biphenylamide",
+"GSK1398477_KCGS","Cc1ccc(NC(=O)Nc2ccccc2F)cc1-c1ccc(cc1)C(=O)Nc1ccncc1","KCGS","Biphenylamide",
+"GSK1440913A","N#CC1=CC=CC(NC2=NC=CC(C3=CC(C)=C(C(C)=C3)O)=N2)=C1","PKIS2","2-anilino-4-aryl-pyrimidine",
+"GSK1487252A","O=C(N[C@H](CN)CC1=CC=C(C(F)(F)F)C=C1)C2=CC(Br)=C(C3=C(C=CN4)C4=NC=C3)S2.O=C(N[C@H](CN)CC5=CC=C(C(F)(F)F)C=C5)C6=CC(Br)=C(C7=C(C=CN8)C8=NC=C7)S6.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1511931A","COc1cc(ccc1Nc1nc(Nc2cccc3ncccc23)c2cc[nH]c2n1)N1CCN(CC1)C(C)C","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK1520489A","CNC(C1=CC=CC=C1NC2=NC(NC3=CC=CC(CS(=O)(C)=O)=C3)=NC=C2C)=O.OC=O","PKIS2","2,4-dianilinopyrimidine",
+"GSK1535721A","O=S(C1=CC=CC(C2=CC=C(N=CC(N3CCOCC3)=N4)C4=C2)=C1)(N)=O","PKIS2","3-amino-6-aryl-quinoxaline",
+"GSK1558669A","N#CC1=CN=C(N=C1NC2=CC=CC=C2C(N)=O)NC3=CC(N4CCN(C)CC4)=C(OC)C=C3.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GSK1576028A","O=C(NC)C1=CC=CC=C1NC2=NC(NC3=CC=C(N4CCOCC4)C=C3)=NC=C2Cl.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GSK1581427A","O=C(N[C@H](CN)CC1CCCCC1)C2=CC(Br)=C(C3=C4C(NC=C4)=NC=C3)S2.O=C(N[C@H](CN)CC5CCCCC5)C6=CC(Br)=C(C7=C8C(NC=C8)=NC=C7)S6.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1581428A","O=C(N[C@H](CN)CC1CCCCC1)C2=CC=C(C3=C4C(NC=C4)=NC=C3)S2.O=C(N[C@H](CN)CC5CCCCC5)C6=CC=C(C7=C8C(NC=C8)=NC=C7)S6.Cl.Cl","PKIS2","4-aryl-7-azaindole",
+"GSK1627798A","NC1=NC=C(C2=CC3=C(N=CC=C3C4=CC=NC=C4)C=C2)C=C1S(N5CCOCC5)(=O)=O","PKIS2","4-6-di-Ar-quinoline",
+"GSK1645872A","CC(N(CC1)CCN1C2=NC=C(NC3=NC(C(SC(C(C)C)=N4)=C4C5=CC(NS(C6=CC=CC=C6)(=O)=O)=CC=C5)=CC=N3)C=C2)=O","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK1645895A","O=S(N(C)C1=CC=CC(C2=C(C3=CC=NC(NC4=CC=C(N5CCN(C(C)=O)CC5)N=C4)=N3)SC(CC)=N2)=C1)(C6=CC=CC=C6)=O","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK1649598A","O=S(C1=CC=CC=C1)(NC2=CC=CC(C3=C(SC(C(C)C)=N3)C4=CC=NC(NC5=CC=C6C(CN(C)CC6)=C5)=N4)=C2)=O","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK1653537A","CC1=NC(NC2=CC(C#N)=CC=C2)=NC(N3CCC(NS(=O)(C4=CC=C(F)C=C4)=O)CC3)=C1.OC(C(F)(F)F)=O","PKIS2","2-anilino-4-piperidinopyrimidine",
+"GSK1653539A","COC1=CC=C(S(=O)(NC2CCN(C3=NC(NC4=CC(C#N)=CC=C4)=NC(C)=C3)CC2)=O)C=C1.OC(C(F)(F)F)=O","PKIS2","2-anilino-4-piperidinopyrimidine",
+"GSK1660437A","O=S(NC1=CC=CC(C2=C(C3=CC=NC(NC4=CC=C(N5CCN(C(C)=O)CC5)N=C4)=N3)SC(C(C)C)=N2)=C1)(C6=CC=CC(Cl)=C6)=O","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK1660450B","NC1=C(OC[C@H](CC2=CNC3=C2C=CC=C3)N)C=C(C4=CC(C(C)=NN5)=C5C=N4)C(C6=C(C)OC=C6)=N1","PKIS2","5-Ar-indazole",
+"GSK1669917A","O=S(N1CCOCC1)(C(C=C2)=CC=C2NC3=NC(C)=CC(N4CC5=C(C=CC=C5)C4)=N3)=O.Cl","PKIS2","2-anilino-4-aminopyrimidine",
+"GSK1669921A","NC1=NC=C(C=C1S(=O)(N(C)C)=O)C(C=C23)=CC=C3N=CC=C2C4=CC(S(N)(=O)=O)=CC=C4","PKIS2","4-6-di-Ar-quinoline",
+"GSK1693850A","NC1=NC=C(C2=CC3=C(N=CC=C3C4=CC=NC=C4)C=C2)C=C1S(N5CCCCC5)(=O)=O","PKIS2","4-6-di-Ar-quinoline",
+"GSK1713088A","CCCN1CCC(CC1)Oc1cc(Nc2nc(Nc3cccc(F)c3C(N)=O)c3cc[nH]c3n2)c(OC)cc1Cl","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK1723980B","O=S(NC1=CC=CC(C2=C(C3=CC=NC(NC4=CC=C(N5CCOCC5)N=C4)=N3)SC(C(C)C)=N2)=C1)(C6=C(F)C=CC=C6F)=O.Cl","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK1751853A","COc1cc2CCN(C(=O)CN3CCN(CC3)C(C)C)c2cc1Nc1nc(Nc2cccc(F)c2C(N)=O)c2cc[nH]c2n1","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK175726A","ClC1=CC(Cl)=CC(NC2=CC=NC(NC3=CC(Cl)=CC(Cl)=C3)=N2)=C1","PKIS2","2,4-dianilinopyrimidine",
+"GSK1804250A","O=S(NC1=C(F)C=CC(C2=C(C3=CC=NC(NC4=CC=C(N5CCOCC5)N=C4)=N3)SC(C(C)C)=N2)=C1)(C6=C(F)C=CC=C6F)=O","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK180736A","CC1=C(C(NC(=O)N1)c1ccc(F)cc1)C(=O)Nc1ccc2[nH]ncc2c1","PKIS","Indazole-5-carboxamides","RHO"
+"GSK1819799A","COc1cc(ccc1Nc1nc(Nc2cccc(F)c2C(O)=O)c2cc[nH]c2n1)N1CCN(CC1)C(C)C","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK182497A","CN(C)C(=O)O[C@H]1CN[C@@H](C1)C#Cc1cc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2s1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GSK1838705","CNC(C1=C(NC2=NC(NC3=C(OC)C=C4CCN(C(CN(C)C)=O)C4=C3)=NC5=C2C=CN5)C=CC=C1F)=O","KCGS","2,4-dianilino-pyrrolopyrimidine","IGF1R"
+"GSK189015A","CC(S1)=CC=C1C2=NC3=CC=CC=C3C(NC4=CC=NC=C4)=N2","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GSK1904529","O=C(NC1=C(F)C=CC=C1F)C2=CC(C3=C(C4=NC(NC5=CC(CC)=C(N6CCC(N7CCN(S(=O)(C)=O)CC7)CC6)C=C5OC)=NC=C4)N8C=CC=CC8=N3)=CC=C2OC","KCGS","2-anilino-4-(ortho-aryl)-heteroaryl-pyrimidine","IGF1R"
+"GSK190937A","O=C(NCCC1=C(Cl)C=C(Cl)C=C1)C2=CN=CC(/C=C/C3=C(N)N=CC(C)=C3)=C2.Cl","PKIS2","3-vinyl_pyridines",
+"GSK1917008A","O=C(C1=CC(N2CCCCC2)=CC=C1)NC3=CC(C(C=C4)=CC=C4C(NCC5CC5)=O)=C(C=C3)C","PKIS2","Biphenylamide",
+"GSK192082A","CCNC(=O)O[C@H]1CN[C@@H](C1)C#Cc1cc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2s1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GSK198271A","O=C(C1=C(F)C=CC=C1F)NC2=CC=CC(C3=NN4N=CC=CC4=C3C5=CC=NC(NC6=CC=CC=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK200398A_KCGS","Cl.O=C(O[C@H]1CN[C@@H](C1)C#Cc1cc2ncnc(Nc3ccc4n(Cc5ccccc5)ncc4c3)c2s1)N1CCOCC1","KCGS","Anilino_thienopyrimidines","EGFR/ErbB2"
+"GSK2008607A","O=S(NC1=CC=CC(C2=C(C3=CC=NC(NC4=CN=C(N5CCOCC5)C=C4)=N3)SC(C(C)C)=N2)=C1F)(C6=C(F)C=CC=C6F)=O","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK204559A","NC(C1=C(OCC2CCCCC2)C=C(S1)N3C=NC(C=C4OC)=C3C=C4OC)=O","PKIS2","benzimidazole_N-thiophenes",
+"GSK204607A","NC(C(SC(N1C=NC(C=C2OC)=C1C=C2OC)=C3)=C3OCC4CCCO4)=O","PKIS2","benzimidazole_N-thiophenes","IKBKE"
+"GSK204919_KCGS","COc1ccc2nc(nc(Nc3ccncc3)c2c1)-c1cccc(C)n1","KCGS","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GSK204925A","COc1cc2ncn(-c3cc(OCCc4ccccc4)c(s3)C(N)=O)c2cc1OC","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK205189A","NC(C1=C(OCCCC2=CC=CC=C2)C=C(N3C=NC(C=C4OC)=C3C=C4OC)S1)=O","PKIS2","benzimidazole_N-thiophenes",
+"GSK2110236A","COc1cc2CCCN(C(=O)CN(C)C)c2cc1Nc1nc(Nc2ccsc2C(N)=O)c2cc[nH]c2n1","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK2137462A","N#CC1=CC=C(C=C1)CCNC2=NC=CC(C3=CC=CC(CN4CCNCC4)=C3)=N2.N#CC5=CC=C(C=C5)CCNC6=NC=CC(C7=CC=CC(CN8CCNCC8)=C7)=N6.Cl.Cl.Cl","PKIS2","2-amino-4-aryl-pyrimidine",
+"GSK2163632A","COc1cc2c(cc1Nc1nc(Nc3ccsc3C(N)=O)c3cc[nH]c3n1)N(CCC2(C)C)C(=O)CN(C)C","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK2177277A","O=C1C2=C(NC3=CC=C(S(N4CCOCC4)(=O)=O)C=C3)N=C(N[C@H]5CNCCC5)N=C2C=CN1.OC(C(F)(F)F)=O.O=C6C7=C(NC8=CC=C(S(N9CCOCC9)(=O)=O)C=C8)N=C(N[C@H]%10CNCCC%10)N=C7C=CN6.OC(C(F)(F)F)=O","PKIS2","fused carboxamide pyrimidine",
+"GSK2181306A","O=C1C2=C(NC3=CC=C(CCS4(=O)=O)C4=C3)N=C(N[C@@H]5CCNC5)N=C2C=CN1.OC(C(F)(F)F)=O","PKIS2","fused carboxamide pyrimidine",
+"GSK2186269A","COc1cc2CCN(C(=O)CN(C)C)c2cc1Nc1nc(N2CCc3ccccc23)c2cc[nH]c2n1","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK2188764A","O=C1C2=C(C=CN1)N=C(N[C@H]3CNCC3)N=C2NC4=CC(Cl)=CC(Cl)=C4.OC(C(F)(F)F)=O","PKIS2","fused carboxamide pyrimidine",
+"GSK2189892A","NC1=NNC2=CC(C3=CC=CC=N3)=CC=C21.Cl","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2192730A","NC1=NNC2=CC(C3=CC=CC(N)=N3)=CC=C21","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2193613A","NC1=NNC2=CC(C3=CC=CC(N)=C3)=CC=C21","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2197149A","CC1=CC(NC2=C(C(N)=O)C=NC(N[C@H]3CCNC3)=N2)=CC=C1.Cl","PKIS2","carboxamide pyrimidine",
+"GSK2206003A","NC1=NNC2=C1C=CC(C3=CC=NC(NC)=N3)=C2","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2213727A","COc1cc(C)c(NC(=O)CN(C)C)cc1Nc1nc(Nc2cccc(F)c2C(N)=O)c2cc[nH]c2n1","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK2219329A","NC1=NC(C2=CC3=C(C=C2)C(N)=NN3)=CC(N(C)C)=N1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2219385_KCGS","COc1cc(C)c(cc1Nc1nc(Nc2cccc(F)c2C(N)=O)c2cc[nH]c2n1)N(C)C(=O)CN(C)C","KCGS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK2220400A","CNC(=O)c1ncccc1Nc1nc(Nc2cc3N(CCCc3cc2OC)C(=O)CN(C)C)nc2[nH]ccc12","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GSK2221681A","NC1=NC(C2=CC3=C(C=C2)C(N)=NN3)=CC(NC(C)C)=N1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2224810A","NC1=NC(C2=CC3=C(C=C2)C(N)=NN3)=CC(NC)=N1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2225749A","NC1=NC(C2=CC(NN=C3N)=C3C=C2)=CC(NC4=CC=CC=C4)=N1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2227430A","NC1=NC(C2=CC3=C(C=C2)C(N)=NN3)=CC(N4CCCC4)=N1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2228768A","NC1=NC(C2=CC3=C(C=C2)C(N)=NN3)=CC(N4CCCCC4)=N1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK223675A","CC1=NC(C2=NC3=CC=CC=C3C(NC4=CC=NC=C4)=C2)=CC=C1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GSK223810A","COC(C(OCCCN1CCOCC1)=C2)=CC3=C2N=CN=C3NC4=CC(NC(C5=CC=CC=C5)=O)=CC=C4","PKIS2","4-anilino-quinazoline and analogues",
+"GSK2250882A","CC(C)C1=NC(N)=NC(C2=CC(NN=C3N)=C3C=C2)=C1","PKIS2","3-Amino-6-aryl-indazole","PDK1"
+"GSK2258759A","C[C@H](CCCC1)N1C2=NC(N)=NC(C3=CC(NN=C4N)=C4C=C3)=C2","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2269557","CC(C)N1CCN(Cc2cnc(o2)-c2cc(cc3[nH]ncc23)-c2cccc3[nH]ccc23)CC1","KCGS","6-Ar-indazole","PIK3CD"
+"GSK2269905A","CC1=CC=CC=C1CN2C=CN3C(C=C(N4CCOCC4)N=C32)=O","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2276055A","O=C1NC=C(C2=CC=C(N3CCOCC3)C=C2)C4=C1C=C(C5=CNN=C5)S4","PKIS2","thienopyridinone",
+"GSK2283293_KCGS","C[C@H]1CC[C@H](CN1c1cc(nc(N)n1)-c1ccc2c(N)n[nH]c2c1)C(=O)Nc1ccccc1","KCGS","3-Amino-6-aryl-indazole","PDK1"
+"GSK2286062A","NC1=NC(C2=CC(NN=C3N)=C3C=C2)=CC(N4[C@H](C)CC[C@@H](C(NC5=CC=CC=C5)=O)C4)=N1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2286096A","O=C(OC(C)(C)C)NC1CN(C2=NC(N)=NC(C3=CC=C4C(NN=C4N)=C3)=C2)CCC1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2286295A","O=C1N(C=CN2CC3=CC=CC(Cl)=C3Cl)C2=NC(N4CCOCC4)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2286775B","NC1=NC(C2=CC=C3C(NN=C3N)=C2)=CC(N4CC(NC(C5=CC=CC=C5)=O)CCC4)=N1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2288359A","O=C(NC1=CC=CC=C1)[C@H]2CN(C3=NC(N)=NC(C4=CC(NN=C5N)=C5C=C4)=C3)CCC2.OC(C(F)(F)F)=O.O=C(NC6=CC=CC=C6)[C@H]7CN(C8=NC(N)=NC(C9=CC(NN=C%10N)=C%10C=C9)=C8)CCC7.OC(C(F)(F)F)=O","PKIS2","3-Amino-6-aryl-indazole","PDK1"
+"GSK2289044B","O=C1C=C(N2CCOCC2)N=C3N1C=CN3C([2H])([2H])C4=C(C)C(C(F)(F)F)=CC=C4","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2291363A","NC1=NC(C2=CC(NN=C3N)=C3C=C2)=CC(N4[C@H](C)CC[C@H](C(NC5CCCCC5)=O)C4)=N1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2292767","COc1ncc(cc1NS(C)(=O)=O)-c1cc(-c2ncc(CN3C[C@H](C)O[C@H](C)C3)o2)c2cn[nH]c2c1","KCGS","6-Ar-indazole","PIK3CD"
+"GSK2296823A","O=C1N(C=CN2CC3=CC=CC(Cl)=C3)C2=NC(N4CCOCC4)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2297099A","O=C1N(C=CN2CC3=CC=C(F)C(Cl)=C3)C2=NC(N4CCOCC4)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2297428A","O=C1N(C=CN2CC3=CC=CC=C3F)C2=NC(N4CCOCC4)=C1","PKIS2","morpholino-imidazo-pyrimidinones","PIK3CB"
+"GSK2297430A","O=C1N(C=CN2CC3=CC=CC(F)=C3)C2=NC(N4CCOCC4)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2297542A","O=C1N(C=CN2CC3=CC=CC(C)=C3)C2=NC(N4CCOCC4)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2297543A","O=C1N(C=CN2CC3=CC=CC(C(F)(F)F)=C3)C2=NC(N4CCOCC4)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2298859A","C[C@H]1N(C2=NC(NC)=NC(C3=CC(NN=C4N)=C4C=C3)=C2)C[C@@H](C(NC5=CC=CC=C5)=O)CC1","PKIS2","3-Amino-6-aryl-indazole","PDK1"
+"GSK2299009A","O=C1N(C2=C(C=CC=C2)N3CC4=CC=CC(Cl)=C4Cl)C3=NC(N5CCOCC5)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2306394A","O=C1N(C2=C(C=CC=C2)N3CC4=CC=CC(C(F)(F)F)=C4C)C3=NC(N5CCOCC5)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2328680_KCGS","Cc1c(C)n2c(nc(cc2=O)N2CCOCC2)n1Cc1cccc(c1C)C(F)(F)F","KCGS","morpholino-imidazo-pyrimidinones","PIK3CB"
+"GSK2333389A","O=C1N(C=CN2CC3=CC=CC4=CC=CC=C34)C2=NC(N5CCOCC5)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2334006A","O=C1N(C=C(C)N2CC3=CC=CC(Cl)=C3Cl)C2=NC(N4CCOCC4)=C1","PKIS2","morpholino-imidazo-pyrimidinones",
+"GSK2334470","O=C([C@@H]1CN(C2=NC(NC)=NC(C3=CC4=C(C=C3)C(N)=NN4)=C2)[C@H](C)CC1)NC5CCCCC5","KCGS","6-Ar-indazole","PDK1"
+"GSK2336394A","O=C1N2C(N(CC3=C(C)C(C(F)(F)F)=CC=C3)C=C2)=CC(N4CCOCC4)=N1","PKIS2","morpholino-imidazo-pyrimidinones","PIK3CB"
+"GSK2342769A","O=C1N(N=C(C)N2CC3=CC=CC(Cl)=C3Cl)C2=NC(N4CCOCC4)=C1","PKIS2","morpholino-triazolo-pyrimidinones",
+"GSK2344444A","O=C1N2C(N(CC3=CC=CC(C(F)(F)F)=C3C)C(C)=N2)=NC(N4CCOC(C)C4)=C1","PKIS2","morpholino-triazolo-pyrimidinones",
+"GSK2347225A","O=C1C=C(N2CCOCC2)N=C3N1N=C(SC)N3CC4=CC=CC(Cl)=C4Cl","PKIS2","morpholino-triazolo-pyrimidinones",
+"GSK2358994A","O=C1N(N=C(C2CC2)N3CC4=CC=CC(Cl)=C4Cl)C3=NC(N5CCOCC5)=C1","PKIS2","morpholino-triazolo-pyrimidinones",
+"GSK2363608B","O=C1C=C(N2CCOCC2)N=C3N1N=C(SC)N3C([2H])([2H])C4=CC=CC(C(F)(F)F)=C4C.OC(C(F)(F)F)=O","PKIS2","morpholino-triazolo-pyrimidinones",
+"GSK2373690A","O=C1N2C(N(CC3=CC=CC(C(F)(F)F)=C3C)C(C)=N2)=NC(N4CCO[C@H](C)C4)=C1","PKIS2","morpholino-triazolo-pyrimidinones","PIK3CA, PIK3CB, PIK3CG, PIK3CD"
+"GSK2373693A","O=C1N2C(N(CC3=CC=CC(Cl)=C3Cl)C(C)=N2)=NC(N4CCO[C@H](C)C4)=C1","PKIS2","morpholino-triazolo-pyrimidinones",
+"GSK2375584A","C[C@H]1N(C2=NC(NC)=NC(C3=CC(NN=C4N)=C4C=C3)=C2)C[C@@H](C(NC5CCCCC5)=O)OC1","PKIS2","3-Amino-6-aryl-indazole",
+"GSK2376236A","CNC1=NC(C2=CC=C3C(NN=C3N)=C2)=CC(N4[C@H](CC)CO[C@H](C(NC5=CC=CC=C5)=O)C4)=N1","PKIS2","3-Amino-6-aryl-indazole","PDK1"
+"GSK237700A","COc1cc2ncn(-c3cc(O[C@@H](C)c4ccccc4Cl)c(s3)C(N)=O)c2cc1OC","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK237701A","COc1cc2ncn(-c3cc(O[C@H](C)c4ccccc4Cl)c(s3)C(N)=O)c2cc1OC","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK238063A","CN(C)C(=O)O[C@@H]1CN[C@H](C1)C#Cc1cc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2s1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GSK238583A","OC(=O)C(F)(F)F.O=C(O[C@H]1CN[C@@H](C1)C#Cc1cc2ncnc(Nc3ccc(Cc4ccccc4)cc3)c2s1)N1CCOCC1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GSK248233A","CCn1c(nc2cnc(Oc3cccc(NC(=O)c4ccc(cc4)N(C)C)c3)cc12)-c1nonc1N","PKIS","Furazan_benzimidazoles","RHO"
+"GSK2576924A","NC1=C2C(SC=C2C3=CC(CCN4C(CC5=CC=CC=C5)=O)=C4C=C3)=CC=N1","PKIS2","4-amino-3-aryl-thienopyridine and analogues",
+"GSK2578215","FC1=NC=CC(C2=CC=C(OCC3=CC=CC=C3)C(C(NC4=CC=CN=C4)=O)=C2)=C1","KCGS","amide hinge binder","LRRK2"
+"GSK257997A","CC1=CC(NC2=CC=NC=C2)=NC(C3=CC=CC(C)=N3)=N1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GSK2587663A","NC1=C2C(SC=C2C3=CC(CCN4C(CC5=C(F)C=CC(F)=C5)=O)=C4C=C3)=CC=N1","PKIS2","4-amino-3-aryl-thienopyridine and analogues",
+"GSK259178A","OC(=O)C(F)(F)F.Fc1ccc(F)c(Cn2ccc3cc(Nc4ncnc5cc(sc45)C#C[C@@H]4C[C@H](CN4)OC(=O)N4CCOCC4)ccc23)c1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GSK2592465A","O=C(CC1=CC=CC=C1)N2CCC3=C2C=CC(C4=CSC5=C(C6=CC=NC=C6)C=NC(N)=C54)=C3","PKIS2","4-amino-3-aryl-thienopyridine and analogues",
+"GSK2593067A","O=C(CC1=CC=CC=C1)N2CCC3=C2C=CC(C4=CSC5=C(C6=CNN=C6)C=NC(N)=C54)=C3","PKIS2","4-amino-3-aryl-thienopyridine and analogues",
+"GSK2593074A","O=C(CC1=CC=CC=C1)N2CCC3=C2C=CC(C4=CSC5=C(C6=CN(C)N=C6)C=NC(N)=C54)=C3","PKIS2","4-amino-3-aryl-thienopyridine and analogues",
+"GSK260205A","NC1=NON=C1C2=NC3=C(C4=CC=CC=C4)N=CC(OCCCN)=C3N2CC.OC(C(F)(F)F)=O.NC5=NON=C5C6=NC7=C(C8=CC=CC=C8)N=CC(OCCCN)=C7N6CC.OC(C(F)(F)F)=O","PKIS2","aminofurazan",
+"GSK2603346A","NC1=NC=NC2=C1C(C3=CC(CCN4C(CC5=CC=CC=C5C)=O)=C4C=C3)=CN2C","PKIS2","7-alkyl-5-aryl-4-aminopyrrolopyrimidine",
+"GSK2603358A","NC1=NC=NC2=C1C(C3=CC(CCN4C(CC5=CC=CC(F)=C5)=O)=C4C=C3)=CN2C","PKIS2","7-alkyl-5-aryl-4-aminopyrrolopyrimidine",
+"GSK2606414A","NC1=NC=NC2=C1C(C3=CC(CCN4C(CC5=CC(C(F)(F)F)=CC=C5)=O)=C4C=C3)=CN2C","PKIS2","7-alkyl-5-aryl-4-aminopyrrolopyrimidine","EIF2AK3"
+"GSK2606590A","NC1=NC=NC2=C1C(C3=CC(CCN4C(CC5=CC(Cl)=CC=C5)=O)=C4C=C3)=CN2C","PKIS2","7-alkyl-5-aryl-4-aminopyrrolopyrimidine",
+"GSK2608885A","NC1=NC=NC2=C1C(C3=CC(CCN4C(CC5=CC=CC=C5Cl)=O)=C4C=C3)=CN2C","PKIS2","7-alkyl-5-aryl-4-aminopyrrolopyrimidine",
+"GSK2608899A","NC1=NC=NC2=C1C(C3=CC(CCN4C(CC5=CC(OC)=CC=C5)=O)=C4C=C3)=CN2C","PKIS2","7-alkyl-5-aryl-4-aminopyrrolopyrimidine",
+"GSK2634140A","NC1=NC=NC2=C1C(C3=CC(CCN4C(CC5=CC(F)=CC(F)=C5F)=O)=C4C=C3)=CN2C","PKIS2","7-alkyl-5-aryl-4-aminopyrrolopyrimidine",
+"GSK2634758A","NC1=NC=NC2=C1C(C3=CC(CCN4C(CC5=CC=C(C)C=C5)=O)=C4C=C3)=CN2C","PKIS2","7-alkyl-5-aryl-4-aminopyrrolopyrimidine",
+"GSK2635225A","NC1=NC=NC2=C1C(C3=CC(CCN4C(CC5=CC(C(F)(F)F)=CC(F)=C5)=O)=C4C=C3)=CN2C","PKIS2","7-alkyl-5-aryl-4-aminopyrrolopyrimidine",
+"GSK2645446A","NC1=NC=NC2=C1C(C3=CC=C4C(CCN4C(CC5=CC(F)=CC=C5F)=O)=C3)=CO2","PKIS2","4-amino-3-aryl-thienopyridine and analogues",
+"GSK2656157","NC1=NC=NC2=C1C(C3=CC=C4C(CCN4C(CC5=NC(C)=CC=C5)=O)=C3F)=CN2C","KCGS","fused amino-pyrimidine","EIF2AK3"
+"GSK269962B","Cl.CCn1c(nc2cnc(Oc3cccc(NC(=O)c4ccc(OCCN5CCOCC5)cc4)c3)cc12)-c1nonc1N","PKIS","Furazan_benzimidazoles","RHO"
+"GSK270822A","CC1=C(C(CC(=O)N1)c1ccc2ccccc2c1)C(=O)Nc1ccc2[nH]ncc2c1","PKIS","Indazole-5-carboxamides","RHO"
+"GSK2850163","O=C(N(CCC1)C[C@]21CCN(CC3=CC=C(Cl)C(Cl)=C3)C2)NCC4=CC=C(C)C=C4","KCGS","other","ERN1"
+"GSK292658A","O=C(C1=C(C=CC=C1F)F)NC2=CC=CC(C3=NN4C=CC=CC4=C3C5=CC=NC(NC6=CC(C(F)(F)F)=CC=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK299115A","CC1=C(C(CC(=O)N1)c1ccc(Cl)c(Cl)c1)C(=O)Nc1ccc2[nH]ncc2c1","PKIS","Indazole-5-carboxamides","RHO"
+"GSK299495A","O=C(C1=C(F)C=CC=C1F)NC2=CC=CC(C3=NN4N=CC=CC4=C3C5=CC=NC(NC6=CC=CC(C(F)(F)F)=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK300014A","CS(=O)(=O)CCNCc1cc(cs1)-c1cc2c(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)ncnc2s1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GSK300657X","NS(=O)(=O)c1ccc(N\N=C2/C(=O)Nc3ccc(cc23)C(=O)NCc2ccncc2)cc1","KCGS","oxindoles",
+"GSK301329A","COC(C(OCCCN1CCOCC1)=C2)=CC3=C2N=CN=C3NC4=CC=C(NC(C5=CC=CC=C5)=O)C=C4","PKIS2","4-anilino-quinazoline and analogues",
+"GSK301362A","O=C(N)C1=C(NC=C2C3CCNCC3)C2=CC(C4=CC=CC=C4)=C1","PKIS2","indole carboxamides",
+"GSK306886A","ClC1=C(S(C2=CC(F)=CC=C2)(=O)=O)C=CC(NC3=C(SC(Br)=C4)C4=NC=N3)=C1.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GSK312879A","O=C(C1=C(F)C=CC=C1F)NC2=CC=CC(C3=NN4N=CC=CC4=C3C5=CC=NC(NC6=CN=CC=C6)=N5)=C2.Cl","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK312948A","COc1cc2ncn(-c3cc(OCc4cccs4)c(s3)C(N)=O)c2cc1OC","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK317315A","COc1ccc2ncn(-c3cc(O[C@H](C)c4ccccc4C(F)(F)F)c(s3)C(N)=O)c2c1","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK317354A","CC1=C(C(N=C(N1)c1ccc(nc1)C(F)(F)F)c1ccc(F)cc1)C(=O)Nc1ccc2[nH]ncc2c1","PKIS","Indazole-5-carboxamides","RHO"
+"GSK319347A","COc1cc2ncn(-c3cc(OCc4ccccc4S(C)(=O)=O)c(s3)C#N)c2cc1OC","PKIS","Benzimidazole_N-thiophenes","IKK"
+"GSK323521A","O=C(C1=C(F)C=CC=C1F)NC2=CC=CC(C3=NN(C=CC=C4)C4=C3C5=CC=NC(NC6=CC(OC)=C(OC)C(OC)=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK323543A","O=C(C1=C(F)C=CC=C1F)NC2=CC=CC(C3=NN(C=CC=C4)C4=C3C5=CC=NC(NC6=CC=C(CS(C)(=O)=O)C=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK326090A","C[C@@H](Oc1cc(sc1C(N)=O)-n1cnc2ccc(OCC3CCN(C)CC3)cc12)c1ccccc1C(F)(F)F","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK326180A","O=C(C1=C(F)C=CC=C1F)NC2=CC=CC(C3=NN4C(C=CC=N4)=C3C5=CC=NC(NC6=CC(S(=O)(CC)=O)=CC=C6OC)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK327238A","O=C(C1=C(F)C=CC=C1F)NC2=CC=CC(C3=NN4C(C=CC=N4)=C3C5=CC=NC(NC6=CC(OC)=C(OC)C(OC)=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK336313A","NC(C(SC(N1C=NC(C=C2OC)=C1C=C2OC)=C3)=C3OCC4=CC=NC=C4)=O","PKIS2","benzimidazole_N-thiophenes","PLK1"
+"GSK336735A","O=C(C1=C(F)C=CC=C1F)NC2=CC=CC(C3=NN(C=CC=C4)C4=C3C5=CC=NC(NC6=CC=CC(CCS(=O)(N)=O)=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK346294A","C[C@@H](OC1=C(C(N)=O)SC(N2C=NC3=C2C=C(NC(NC(C)(C)C)=O)C=C3)=C1)C4=CC=CC=C4Cl","PKIS2","benzimidazole_N-thiophenes",
+"GSK350559A","CS(CC1=CC=C(NC2=NC(C3=C4N(N=C3C5=CC(NC(C6CCCCC6)=O)=CC=C5)N=CC=C4)=CC=N2)C=C1)(=O)=O","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK357952A","O=C(C1=C(F)C=CC(F)=C1Cl)NC2=CC=CC(C3=NN4C=CC=CC4=C3C5=CC=NC(NC6=CC(F)=CC=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK361061A","O=C(C1=C(F)C(C)=CC=C1F)NC2=CC=CC(C3=NN4C(C=CC=C4)=C3C5=CC=NC(NC6=CC(F)=CC=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK361065A","O=C(C1=C(OC)C=CC=C1OC)NC2=CC=CC(C3=NN4C(C=CC=C4)=C3C5=CC=NC(NC6=CC(F)=CC=C6)=N5)=C2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GSK364507A","O=C(C(C=CC=C1)=C1C)C2=CNC(C(NCC(C=CC=C3)=C3OC)=O)=C2","PKIS2","pyrrole-2-carboxamide",
+"GSK398099A","O=S(C1=CC=C(NC(/C2=C\NC3=CC(S(=O)(N)=O)=CC=C3)=O)C2=C1)(CC4=C(Cl)C=CC=C4Cl)=O","PKIS2","Oxindoles",
+"GSK429286A","O=C(CC1C2=CC=C(C=C2)C(F)(F)F)NC(C)=C1C(NC3=C(F)C=C(NN=C4)C4=C3)=O","PKIS2","5-acylamino-indazoles",
+"GSK448459A","COC1=C(OC)C=C2N=CN(C3=CC(OCC4=C(Cl)C=CS4)=C(C(N)=O)S3)C2=C1","PKIS2","benzimidazole_N-thiophenes",
+"GSK461364","O=C(C1=C(O[C@@H](C2=CC=CC=C2C(F)(F)F)C)C=C(N3C=NC4=CC=C(CN5CCN(C)CC5)C=C34)S1)N","KCGS","thiophene-benzimidazole","PLK1"
+"GSK466314A","Cc1n[nH]c2ccc(NC(=O)C3=C(C)NC(=O)CC3c3ccc(cc3)C(F)(F)F)cc12","PKIS","Indazole-5-carboxamides","RHO"
+"GSK466317A","CC1=C(C(CC(=O)N1)c1ccc(cc1)C(F)(F)F)C(=O)Nc1cc(Cl)c2[nH]ncc2c1","PKIS","Indazole-5-carboxamides","RHO"
+"GSK479719A","C[C@H](C1=CC=CC=C1Cl)OC2=C(C(N)=O)SC(N3C=NC4=CC(C5=CC=NC=C5)=CC=C43)=C2","PKIS2","benzimidazole_N-thiophenes",
+"GSK481","O=C(C1=NOC(CC2=CC=CC=C2)=C1)N[C@H]3COC4=CC=CC=C4N(C)C3=O","KCGS","other","RIPK1"
+"GSK483724A","C[C@H](C1=CC=CC=C1Cl)OC2=C(C(N)=O)SC(N3C=NC4=CC=C(C5=CC=NC=C5)C=C43)=C2","PKIS2","benzimidazole_N-thiophenes",
+"GSK507274A","NC1=NON=C1C2=NC(C(C#CC(C)(O)C)=NC=C3OCCCCN)=C3N2CC.OC(C(F)(F)F)=O.NC4=NON=C4C5=NC(C(C#CC(C)(O)C)=NC=C6OCCCCN)=C6N5CC.OC(C(F)(F)F)=O","PKIS2","aminofurazan",
+"GSK507358A","CC1=NNC(C=C2)=C1C=C2C3=C(N=CC(OC[C@@H](N)CC4=CC=CC=C4)=C3)C5=COC=C5.OC(C(F)(F)F)=O.CC6=NNC(C=C7)=C6C=C7C8=C(N=CC(OC[C@@H](N)CC9=CC=CC=C9)=C8)C%10=COC=C%10.OC(C(F)(F)F)=O","PKIS2","5-Ar-indazole",
+"GSK534911A","CC1=C(C(C2=C(F)C=C(Cl)C=C2)N=C(C3=CC(OC)=NC=C3)N1)C(NC4=CC=C(NN=C5)C5=C4)=O.OC(C(F)(F)F)=O","PKIS2","5-acylamino-indazoles",
+"GSK534913A","CC(N1)=C(C(C2=C(F)C=C(Cl)C=C2)N=C1C3=CN=C(OC)C=C3)C(NC4=CC=C(NN=C5)C5=C4)=O.OC(C(F)(F)F)=O","PKIS2","5-acylamino-indazoles",
+"GSK554170A","OC(=O)C(F)(F)F.CCn1c(nc2c(ncc(OCC3CCNCC3)c12)C#CC(C)(C)O)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"GSK561866B","OC(=O)C(F)(F)F.CCn1c(nc2c(ncc(OCCCN)c12)C#CCN)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"GSK562689A","N[C@@H](CC1=CNC2=C1C=CC=C2)COC3=CC(C4=CC5=C(C=C4)NN=C5C)=C(N=C3)C6=COC=C6.OC(C(F)(F)F)=O.N[C@@H](CC7=CNC8=C7C=CC=C8)COC9=CC(C%10=CC%11=C(C=C%10)NN=C%11C)=C(N=C9)C%12=COC=C%12.OC(C(F)(F)F)=O.OC(C(F)(F)F)=O","PKIS2","5-Ar-indazole",
+"GSK571989A","C[C@@H](Oc1cc(sc1C(N)=O)-n1cnc2ccc(OCC3CCN(C)CC3)cc12)c1ccccc1Cl","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK579289A","C[C@@H](Oc1cc(sc1C(N)=O)-n1cnc2ccc(OC3CCN(C)CC3)cc12)c1ccccc1Cl","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK580432A","C[C@H](C1=CC=CC=C1Cl)OC2=C(C(N)=O)SC(N3C=NC4=CC(C5=CN(C)N=C5)=CC=C43)=C2","PKIS2","benzimidazole_N-thiophenes",
+"GSK581271A","O=S(NC(C=C1)=CC=C1NC2=NC(NC3=CC=CC4=C3C=NN4)=CC=N2)(C5=CC=C(C)C=C5)=O","PKIS2","2,4-dianilinopyrimidine",
+"GSK583","CC(C)(C)S(=O)(=O)C1=CC2=C(C=CN=C2C=C1)NC3=NNC4=C3C=C(C=C4)F","KCGS","4-anilino-quinoline","RIPK2"
+"GSK586581A","CS(=O)(=O)Nc1ccc(cc1)-c1cc(cc(C(N)=O)c1N)-c1ccccc1","PKIS","Phenyl_carboxamides","IKK"
+"GSK605714A","COc1ccc(cc1C(N)=O)-c1ccncc1","PKIS","Phenyl_carboxamides","IKK"
+"GSK614526A","OC(=O)C(F)(F)F.CCn1c(nc2c(ncc(OC[C@@H]3CCCN3)c12)C#CC(C)(C)O)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"GSK619487A","OC(=O)C(F)(F)F.CCn1c(nc2c(ncc(OC3CCNCC3)c12)C#CC(C)(C)O)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"GSK620503A","NC(=O)c1cc(cc(-c2ccncc2)c1N)-c1ccc(F)cc1","PKIS","Phenyl_carboxamides","IKK"
+"GSK625137A","NC(=O)c1cc(cc(-c2ccccc2)c1N)-c1ccncc1","PKIS","Phenyl_carboxamides","IKK"
+"GSK641502A","C[C@@H](OC1=C(C(N)=O)SC(N2C3=C(C=C(C4=CC=NC(N5CCN(C)CC5)=C4)C=C3)N=C2)=C1)C6=CC=CC=C6Cl","PKIS2","benzimidazole_N-thiophenes",
+"GSK683281A","NC1=C2C(SC=C2C3=CC(CCN4C(CC5=CC=CC=C5)=O)=C4C=C3)=C(C6=CC=CN=C6)C=N1","PKIS2","4-amino-3-aryl-thienopyridine and analogues",
+"GSK711701A","COc1c(cc(cc1-c1ccc(cc1)S(N)(=O)=O)-c1ccc(Cl)cc1)C(N)=O","PKIS","Phenyl_carboxamides","IKK"
+"GSK840","O=C(OC(C)(C)C)CC1=CC=C(N2C3=CC=C(C(NC)=O)C=C3N=C2)C=C1","KCGS","1-aryl-benzimidazole","RIPK3"
+"GSK843","NC1=NC=C(C2=CC(C)=NN2C)C3=C1C(C4=CC=C(SC=N5)C5=C4)=CS3","KCGS","fused amino-pyrimidine","RIPK3"
+"GSK846226A","O=S(C1=CC=C(C=C1)C2=CC=NC3=C2C=CN3)(N4CCCC4)=O","PKIS2","4-aryl-7-azaindole",
+"GSK872","O=S(C1=CC=C2N=CC=C(NC3=CC=C(SC=N4)C4=C3)C2=C1)(C(C)C)=O","KCGS","4-anilino-quinoline","RIPK3"
+"GSK902056A","CCN1C2=CC(OCCN)=NC(C#CC(C)(O)C)=C2N=C1C3=NON=C3N.CCN4C5=CC(OCCN)=NC(C#CC(C)(O)C)=C5N=C4C6=NON=C6N.Cl.Cl","PKIS2","aminofurazan",
+"GSK907232A","C[C@H](C1=CC=CC=C1Cl)OC2=C(C(N)=O)SC(N3C4=C(C=C(C5=CC=NC(NCCS(C)(=O)=O)=C5)C=C4)N=C3)=C2","PKIS2","benzimidazole_N-thiophenes",
+"GSK938890A","CCn1c(nc2c(nc(OC[C@@H](N)c3ccccc3)cc12)C#CC(C)(C)O)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"GSK943949A","CCn1c(nc2c(nc(OC[C@H](N)c3ccccc3)cc12)C#CC(C)(C)O)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"GSK949675A","Cl.CCn1c(nc2c(nc(OCCNC)cc12)C#CC(C)(C)O)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"GSK953913A","NS(=O)(=O)c1ccc(cc1)-c1cc2ccncc2cc1OCc1ccccc1","PKIS","6-phenyl_isoquinolines","IKK"
+"GSK955403A","O=C(NC1=CC=C(C)C=C1)NC2=CC=CC(C(F)(F)F)=C2","PKIS2","diarylurea",
+"GSK969786A","Fc1cccc(COc2ccc(Nc3ncnc4sc(cc34)-c3ccco3)cc2Cl)c1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GSK977617A","O=S(C1=CC=C(C2=CC=NC3=C2C=CN3)C=C1)(NCCN)=O","PKIS2","4-aryl-7-azaindole",
+"GSK977620A","O=S(C1=CC=C(C2=CC=NC3=C2C=CN3)C=C1)(NCCN(C)C)=O","PKIS2","4-aryl-7-azaindole",
+"GSK978744A","C[C@@H](Oc1cc(sc1C(N)=O)-n1cnc2ccc(OC[C@@H](O)CO)cc12)c1ccccc1Cl","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GSK980961A","NS(=O)(=O)c1cccc(c1)-c1cc2ccncc2cc1OCc1ccccc1","PKIS","6-phenyl_isoquinolines","IKK"
+"GSK986310C","O=C(N)C1=C(NC2=CC(C)=CC=C2)N=C(N[C@@H]3[C@H](N)CCCC3)N=C1.Cl","PKIS2","carboxamide pyrimidine",
+"GSK993273A","O=S(NC1=CC=C(C=C1)C2=C3C(NC=C3)=NC=C2)(C)=O","PKIS2","4-aryl-7-azaindole",
+"GSK994854A","CCCN1CCC=C(C1)c1ccc(Nc2nc(Nc3ccccc3C(N)=O)c3cc[nH]c3n2)c(C)c1","PKIS","2,4-dianilino_pyrrolopyrimidines","IGF1R"
+"GW2429374A","Cl.Oc1c(Br)cc(C=C2C(=O)Nc3ccc(cc23)-c2cccnc2)cc1Br","KCGS","Oxindoles",
+"GW271431X","C1(C2=NNC=C2C3=C4C(C=CC=C4)=NC=C3)=CC=CC=N1","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW272142A","C1(CN2C=NC3=C2C=CC(NC4=C5C(C=CC=C5)=NC=N4)=C3)=CC=CC=C1.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GW273749A","C1(CN2N=CC3=C2C=CC(NC4=C5C(C=CC=C5)=NC=N4)=C3)=CC=CC=C1.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GW275568A","C1(CN2C=CC3=CC(NC4=NC=NC5=C4C=CC=C5)=CC=C23)=CC=CC=C1.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GW275616X","NS(=O)(=O)c1cccc(N\C=C2/C(=O)Nc3ccccc23)c1","PKIS","Oxindoles","NTRK1"
+"GW275944X","Cc1ccc2NC(=O)\C(c2c1)=N/Nc1ccc(cc1)S(N)(=O)=O","PKIS","Oxindoles","CDK2"
+"GW276655_KCGS","NS(=O)(=O)c1ccc(N\N=C2/C(=O)Nc3ccc(cc23)-c2cnco2)cc1","KCGS","Oxindoles","CDK2"
+"GW278681X","CS(=O)(=O)Nc1ccc(N\C=C2/C(=O)Nc3ccccc23)cc1","PKIS","Oxindoles","NTRK1"
+"GW279320X","Cc1cc(Cl)cc2C(=NNc3ccc(cc3)S(N)(=O)=O)C(=O)Nc12","PKIS","Oxindoles","CDK2"
+"GW280670X","NS(=O)(=O)c1ccc(N\N=C2/C(=O)Nc3ccc(Cl)cc23)cc1","PKIS","Oxindoles","CDK2"
+"GW281179X","CN1C=NC=C1C2=CC3=C(N=CN=C3C=N2)NC4=CC=C(OCC5=CC=CC=C5)C=C4","PKIS2","4-anilino-quinazoline and analogues",
+"GW282449A","Cl.COc1cc2ncnc(Nc3ccc4n(Cc5ccccc5)ncc4c3)c2cc1OC","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW282450A","COC1=CC2=NC=NC(NC3=CC4=C(N=C(C5=CC=CC=C5)N4)C=C3)=C2C=C1OC.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GW282536X","Cc1cccc2c1NC(=O)\C2=N/Nc1ccc(cc1)S(N)(=O)=O","PKIS","Oxindoles","CDK2"
+"GW282974X","CN(C)c1cc2c(Nc3ccc4n(Cc5ccccc5)ncc4c3)ncnc2cn1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW284372X","C(Oc1ccc(Nc2ncnc3ccc(cc23)-c2ccco2)cc1)c1ccccc1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW284408X","O=C1Nc2ccccc2\C1=C\Nc1ccc2[nH]c(=O)[nH]c2c1","PKIS","Oxindoles","NTRK1"
+"GW284543A","COC1=CC2=C(C=C1OC)C(NC3=CC(OC4=CC=CC=C4)=CC=C3)=CC=N2.Cl","PKIS2","4-anilinoquinoline",
+"GW290597X","NS(=O)(=O)c1ccc(N\N=C2/C(=O)Nc3ccc(cc23)C(=O)NCCCn2ccnc2)cc1","PKIS","Oxindoles","CDK2"
+"GW296115X","COc1ccc2[nH]c3c4[nH]c5ccc(OC)cc5c4c4C(=O)NC(=O)c4c3c2c1","PKIS","Maleimide","PDGFR"
+"GW297361X","NS(=O)(=O)c1ccc(N\C=C2/C(=O)Nc3ccc4ncsc4c23)cc1","PKIS","Oxindoles","CDK2"
+"GW300653X","CC(C)c1ccc2c(NC(=O)\C2=N\Nc2ccc(cc2)S(N)(=O)=O)c1","PKIS","Oxindoles","CDK2"
+"GW300660X","NS(=O)(=O)c1ccc(N\N=C2/C(=O)Nc3ccc(cc23)C(=O)NCCc2c[nH]cn2)cc1","PKIS","Oxindoles","CDK2"
+"GW301784X","CC(C)(CO)CNC(=O)c1ccc2NC(=O)\C(c2c1)=N/Nc1ccc(cc1)S(N)(=O)=O","PKIS","Oxindoles","CDK2"
+"GW301789X","O=C1Nc2ccccc2\C1=C\Nc1ccc(cc1)-n1cncn1","PKIS","Oxindoles","NTRK1"
+"GW301888X","CN(C)c1cc2c(Nc3ccc4nc(Cc5ccccc5)[nH]c4c3)ncnc2cn1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW305074X_KCGS","Oc1c(Br)cc(C=C2C(=O)Nc3ccc(I)cc23)cc1Br","KCGS","Oxindoles",
+"GW305178X","NS(=O)(=O)c1ccc(N\N=C2/C(=O)Nc3ccc4ncccc4c23)cc1","PKIS","Oxindoles","CDK2"
+"GW320571X","CN1C=NC=C1C2=CC3=C(NC4=CC=C(OCC5=CC=CC=C5)C=C4)N=CN=C3C=C2","PKIS2","4-anilino-quinazoline and analogues",
+"GW335962X","C\C(Nc1ccc(cc1)S(N)(=O)=O)=C1\C(=O)Nc2ccccc12","PKIS","Oxindoles","CDK2"
+"GW345098X","CCN1C=NC2=C1N=CN=C2N","PKIS2","6-aminopurines and related",
+"GW352430A","Cl.NS(=O)(=O)c1ccc(N\N=C2/C(=O)Nc3cccc(CCc4ccncc4)c23)cc1","PKIS","Oxindoles","CDK2"
+"GW396574X","CC(C)=Cc1cccc2NC(=O)\C(c12)=N/Nc1ccc(cc1)S(N)(=O)=O","PKIS","Oxindoles","CDK2"
+"GW405841X","COC(=O)c1ccc2NC(=O)C(=Cc3cc(Br)c(O)c(Br)c3)c2c1","PKIS","Oxindoles","RAF"
+"GW406108X","Oc1c(Cl)cc(C=C2C(=O)Nc3ccc(cc23)C(=O)c2ccco2)cc1Cl","PKIS","Oxindoles","RAF"
+"GW406731X","COC(=O)c1cncc(\C=C\c2c(C)cc(O)cc2C)c1","PKIS","3-vinyl_pyridines","RAF"
+"GW407034X","C1(NC2=C3C(C=CC(C4=NC=CC=C4)=C3)=NC=C2)=CC=C(OC5=CC=CC=C5)C=C1","PKIS2","4-anilinoquinoline",
+"GW407323A","Cl.Nc1nc(cs1)-c1ccc2NC(=O)C(=Cc3cc(Br)c(O)c(Br)c3)c2c1","PKIS","Oxindoles","RAF"
+"GW410563A","Cl.COc1cc2ncnc(Nc3ccc(C)c(O)c3)c2cc1OC","PKIS","4-anilino_quinazolines_and_related","VEGFR"
+"GW412617A","C[C@@H](C1=CC=CC=C1)N[C@@H]2CCC3=CC(C4=CN=C(C(C)=C4)N)=CC=C3C2.C[C@@H](C5=CC=CC=C5)N[C@@H]6CCC7=CC(C8=CN=C(C(C)=C8)N)=CC=C7C6.Cl.Cl","PKIS2","2-amino-5-arylpyridine",
+"GW416469X","CN(C)c1ccc2NC(=O)\C(=C/Nc3ccc(cc3)S(N)(=O)=O)c2c1","PKIS","Oxindoles","CDK2"
+"GW416981X","CC(C)COC(=O)c1ccc2NC(=O)\C(=C/Nc3ccc(cc3)S(N)(=O)=O)c2c1","PKIS","Oxindoles","CDK2"
+"GW424170A","FC1=CC=CC=C1COC2=CC=C(C=C2Cl)NC3=C4C(C=CC(C5=NN=C(C(F)(F)F)O5)=C4)=NC=N3.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GW427984X","CN(C)C(=O)c1cncc(\C=C\c2c(C)cc(O)cc2C)c1","PKIS","3-vinyl_pyridines","RAF"
+"GW432441X","CNC(=O)Oc1cc(C)c(\C=C\c2cncc(c2)C(=O)NC)c(C)c1","PKIS","3-vinyl_pyridines","RAF"
+"GW434756X","Fc1ccc(cc1)-c1nn2ccccc2c1-c1ccncc1","PKIS","4-pyridyl_ortho-aryl_azoles","MAPK14"
+"GW435821X_KCGS","Cc1cc(O)cc(C)c1\C=C\c1cncc(c1)C(N)=O","KCGS","3-vinyl_pyridines","CRAF"
+"GW439255X","Cc1cc(O)cc(C)c1\C=C\c1cncc(c1)C(=O)OC(C)(C)C","PKIS","3-vinyl_pyridines","RAF"
+"GW440132A","COC1=CC2=C(C=C1OC)C(NC3=CC=C(C(O)=C3)NC(C4=CC=C(C=C4)C)=O)=CC=N2.Cl","PKIS2","4-anilinoquinoline",
+"GW440135A","COC1=CC2=C(C=C1OC)C(NC3=CC=C(C=C3)OCC4=CC=C(NC(C)=O)C=C4)=CC=N2.Cl","PKIS2","4-anilinoquinoline",
+"GW440137A","C1(NC2=CC=NC3=C2C=CC(C4=NC=CC=C4)=C3)=CC5=C(NN=C5)C=C1.Cl","PKIS2","4-anilinoquinoline",
+"GW440138A","C1(NC2=CC=NC3=C2C=CC(C4=NC=CC=C4)=C3)=CC5=C(NC=C5)C=C1.Cl","PKIS2","4-anilinoquinoline",
+"GW440139A","Cl.Cc1ccc(O)cc1Nc1ccnc2cc(ccc12)-c1ccccn1","PKIS","4-anilino_quinolines","RET"
+"GW440146A","CC1=CC=C(C(NC2=CC=C(C=C2O)NC3=CC=NC4=C3C=CC(C5=NC=CC=C5)=C4)=O)C=C1.Cl","PKIS2","4-anilinoquinoline",
+"GW440148A","CC(NC1=CC=C(COC2=CC=C(NC3=CC=NC4=C3C=CC(C5=NC=CC=C5)=C4)C=C2)C=C1)=O.Cl","PKIS2","4-anilinoquinoline",
+"GW441756X","Cn1cc(C=C2C(=O)Nc3cccnc23)c2ccccc12","PKIS","Oxindoles","NTRK1"
+"GW441806A","Cl.Cc1cc(O)cc(C)c1\C=C\c1cncc(c1)-c1nn[nH]n1","PKIS","3-vinyl_pyridines","RAF"
+"GW442130X","COc1ccccc1-c1cc(\C=C2/C(=O)Nc3ncc(Br)cc23)cc(Br)c1O","PKIS","Oxindoles","NTRK1"
+"GW445012X","CNC(=O)c1cncc(\C=C\c2c(C)cccc2C)c1","PKIS","3-vinyl_pyridines","RAF"
+"GW445014X","CNC(=O)c1cncc(\C=C\c2c(Cl)cccc2Cl)c1","PKIS","3-vinyl_pyridines","RAF"
+"GW445015X","CNC(=O)c1cncc(\C=C\c2ccccc2C)c1","PKIS","3-vinyl_pyridines","RAF"
+"GW445017X","CNC(=O)c1cncc(\C=C\c2ccccc2Cl)c1","PKIS","3-vinyl_pyridines","RAF"
+"GW450241X","CCc1cccc(CC)c1\C=C\c1cncc(c1)C(=O)NC","PKIS","3-vinyl_pyridines","RAF"
+"GW457859A","CC1=CC2=C(C(C3=CC=C(F)C=C3)=NN2C=C1)C4=CC=NC=C4.Cl","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW458344A","Cl.Cc1cc(cc(C)c1\C=C\c1cncc(c1)-c1nn[nH]n1)-c1ccco1","PKIS","3-vinyl_pyridines","RAF"
+"GW458787A","Cl.CS(=O)(=O)CCNCc1ccc(o1)-c1ccc2ncnc(Nc3ccc(OCc4ccccc4)cc3)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW459057A","Cl.Cc1cc(cc(C)c1\C=C\c1cncc(c1)-c1nn[nH]n1)-c1ccccn1","PKIS","3-vinyl_pyridines","RAF"
+"GW459135A","COCCOC1=CC2=NC=NC(NC3=CC=CC(C#C)=C3)=C2C=C1OCCOC.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GW461104A","Cl.CS(=O)(=O)CCNCc1nc(cs1)-c1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW461484A","CC1=CN2N=C(C(C3=CC=NC=C3)=C2C=C1)C4=CC=C(C=C4)F.Cl","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW461487A","CC1=CC=CC2=C(C(C3=CC=C(F)C=C3)=NN12)C4=CC=NC=C4.Cl","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW466413A","CC1=C(C=CC=C1NC2=C3C(C=CC(C(F)(F)F)=C3)=NC=C2)O.Cl","PKIS2","4-anilinoquinoline",
+"GW468513X","COC1=CC=CC2=C(C(C3=CC=C(F)C=C3)=NN12)C4=CC=NC=C4","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW475620X","FC1=CC=CN2N=C(C(C3=CC=NC=C3)=C12)C4=CC=C(F)C=C4","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW482059X","OC1=CC=C(C(C)C)C(NC2=CC=NC3=CC=C(C(F)(F)F)C=C32)=C1","PKIS2","4-anilinoquinoline",
+"GW493036X","CC1=C(NC(C2=CC=NC=C2)=C1C(C)=O)C3=CC=NC=C3","PKIS2","4-pyridinyl-azole",
+"GW494601A","OC1=CC=CC(NC2=C3C(C=C(C4=CC=NC=C4)C=C3)=NC=C2)=C1.Cl","PKIS2","4-anilinoquinoline",
+"GW494610A","COC1=C(OC)C(OC)=CC(NC2=C3C(C=C(C4=CC=NC=C4)C=C3)=NC=C2)=C1.Cl","PKIS2","4-anilinoquinoline",
+"GW494702A","OC1=C(NC(C2=CC=C(C)C=C2)=O)C=CC(NC3=C4C(C=C(C5=NC=CS5)C=C4)=NC=C3)=C1.Cl","PKIS2","4-anilinoquinoline",
+"GW497681X","FC(F)(F)C(C=C1)=CC=C1CNC2=NC(C)=CC(NCC(C3=CC=CC=C3)C4=CC=CC=C4)=N2","PKIS2","2,4-diaminopyrimidine",
+"GW513184X","COc1cc(C=NNc2ncnc3n(ncc23)-c2ccccc2)ccc1O","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW514784X","FC(C=C1)=CC=C1C2=NN3C(OCC(F)(F)F)=CC=CC3=C2C4=CC=NC=C4","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW514786X","FC1=CC=C(C2=NN3C(C=CC=C3SC)=C2C4=NC=NC=C4)C=C1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GW515532X","FC1=CC=C(C=C1)C2=NN(C(C)=CC=C3)C3=C2C4=CC=NC=N4","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GW525701_KCGS","Cn1ccc(n1)-c1cccc(Nc2ccnc3cc(ccc23)-c2nccs2)c1","KCGS","4-anilinoquinoline",
+"GW548057X","NC1=NC(C2=CC=CC=N2)=C(C3=C(C=CC=C4)C4=NC=C3)S1","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW549390X","N(c1ncc(o1)-c1ccccc1)c1ccccc1","PKIS","2-amino_oxazoles","VEGFR"
+"GW551191X","FC1=CC(Cl)=CC=C1NC2=C(C=CC(I)=C3)C3=NC=C2","PKIS2","4-anilinoquinoline",
+"GW552771X","OC1=CC(NC2=C(C=CC(I)=C3)C3=NC=C2)=CC=C1F","PKIS2","4-anilinoquinoline",
+"GW554060X","NC1=NNC2=C1C(C3=CC=CC=C3)=C(N=N2)C4=CC=CC=C4","PKIS2","6-aminopurines and related",
+"GW557777X","CC1=CC=C(O)C=C1NC2=CC=NC3=CC(C4=CC=C(O4)CN5CCCCC5)=CC=C23","PKIS2","4-anilinoquinoline",
+"GW559768X","Cc1ccc(O)cc1Nc1ccnc2ccc(cc12)S(C)(=O)=O","PKIS","4-anilino_quinolines","RET"
+"GW560106X","FC1=C(NC2=C(C=CC(C3=CC=C(CN4CCSCC4)O3)=C5)C5=NC=C2)C=CC(Cl)=C1","PKIS2","4-anilinoquinoline",
+"GW560109X","FC1=C(NC2=C(C=CC(C3=CC=C(CN4CCOCC4)O3)=C5)C5=NC=C2)C=CC(Cl)=C1","PKIS2","4-anilinoquinoline",
+"GW560116X","FC1=C(NC2=C(C=CC(C3=CC=C(CN4CCCCC4)O3)=C5)C5=NC=C2)C=CC(Cl)=C1","PKIS2","4-anilinoquinoline",
+"GW560459X","FC1=CC=CC=C1C2=C(C3=CC=NC4=CC=CC=C43)SC(N)=N2","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW561436X","Fc1ccc(cc1)-c1nn2cc(ccc2c1-c1ccnc(NC2CC2)n1)C#N","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"GW566221B","CS(=O)(=O)CCNCc1coc(c1)c2ccc3ncnc(Nc4ccc(OCc5ccccc5)cc4)c3c2","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW567140X","CN(CC1)CCN1CC2=CC=C(O2)C3=CC4=NC=CC(NC5=CC=C(OC6=NC=CC=C6)C=C5)=C4C=C3","PKIS2","4-anilino-quinazoline and analogues",
+"GW567142A","C12=NC=CC(NC3=CC=C(OC4=NC=CC=C4)C=C3)=C1C=CC(C5=CC=C(CN6CCNCC6)O5)=C2.C78=NC=CC(NC9=CC=C(OC%10=NC=CC=C%10)C=C9)=C7C=CC(C%11=CC=C(CN%12CCNCC%12)O%11)=C8.Cl.Cl.Cl","PKIS2","4-anilinoquinoline",
+"GW567143X","C12=NC=CC(NC3=CC=C(OC4=NC=CC=C4)C=C3)=C1C=CC(C5=CC=C(CN6CCCCC6)O5)=C2","PKIS2","4-anilinoquinoline",
+"GW567145X","C12=NC=CC(NC3=CC=C(OC4=NC=CC=C4)C=C3)=C1C=CC(C5=CC=C(CNCCN6CCOCC6)O5)=C2","PKIS2","4-anilinoquinoline",
+"GW567148X","CN(C)CC1=CC=C(O1)C2=CC3=NC=CC(NC4=CC=C(OC5=NC=CC=C5)C=C4)=C3C=C2","PKIS2","4-anilinoquinoline",
+"GW567808A","Cl.CS(=O)(=O)CCNCc1ccc(o1)-c1ccc2ncnc(Nc3ccc(OCc4cccc(c4)C(F)(F)F)cc3)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW568326X","Nc1nccc(n1)-c1c(nn2cc(ccc12)C(F)(F)F)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"GW569293E","OC(=O)\C=C\C(O)=O.OCCCNc1nccc(n1)-c1c(nn2cc(ccc12)C(F)(F)F)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"GW569716A","CS(CCNCC1=NC(C2=CC=C(N=CN=C3NC4=CC(C=NN5CC6=CC=CC=C6)=C5C=C4)C3=C2)=CS1)(=O)=O.CS(CCNCC7=NC(C8=CC=C(N=CN=C9NC%10=CC(C=NN%11CC%12=CC=CC=C%12)=C%11C=C%10)C9=C8)=CS7)(=O)=O.Cl.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GW572399X","NS(=O)(=O)c1ccc(Nc2ncc(o2)-c2ccccc2)cc1","PKIS","2-amino_oxazoles","VEGFR"
+"GW572401X","CCN(CC)S(=O)(=O)c1ccc(OC)c(Nc2ncc(o2)-c2ccccc2)c1","PKIS","2-amino_oxazoles","VEGFR"
+"GW572738X","Fc1ccccc1C(=O)Nc1sc2CCCCc2c1C#N","PKIS","3-cyano_thiophenes","JNK"
+"GW574782A","Cl.CS(=O)(=O)CCNCc1ccc(o1)-c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(c3)C(F)(F)F)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW574783B_PKIS1","Cl.CS(=O)(=O)CCNCc1ccc(o1)-c1ccc2ncnc(Nc3ccc(OCc4ccccc4)c(Cl)c3)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW575533A","Cl.COc1ccc(Nc2ncc(o2)-c2ccccc2)cc1OC","PKIS","2-amino_oxazoles","VEGFR"
+"GW575808A","Cl.Cc1ccc(Nc2ccnc(Nc3cccc(c3)C(N)=O)n2)cc1O","PKIS","2,4-diamino_pyrimidines","LCK"
+"GW576484X","CS(=O)(=O)CCNCc1ccc(o1)-c1ccc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(c3)C(F)(F)F)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW576604X","C1(C2=NC=CC(C3=CNN=C3C4=CC=CC=N4)=C2)=CC=CC=C1","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW576609A","OC(=O)C(F)(F)F.Fc1cccc(COc2ccc(Nc3ncnc4ccc(cc34)-c3ccc(CN4CCS(=O)CC4)o3)cc2Cl)c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW576924A","Cl.Fc1cc(Nc2ncnc3ccc(cc23)-c2ccc(CN3CCS(=O)CC3)o2)ccc1OCc1ccccc1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW577382X","COC1=C(OC)C=C(C=C1OC)NC2=CC=NC3=CC=C(C(F)(F)F)C=C23","PKIS2","4-anilinoquinoline",
+"GW577921A","Cl.COc1ccccc1Nc1ncc(o1)-c1ccccc1","PKIS","2-amino_oxazoles","VEGFR"
+"GW578342X","CN1CCN(CC2=CC(C3=CC=C4C(N=CC=C4NC5=CC=C(OC6=CC=CC=C6)C=C5)=C3)=CC=C2)CC1","PKIS2","4-anilinoquinoline",
+"GW578748X","COc1cc(\C=N\Nc2ncnc3[nH]ncc23)ccc1O","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW579362A","CC(C=C1)=C(O)C=C1NC2=NC(NC3=CC(CS(C4)(=O)=O)=C4C=C3)=NC=C2.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW580509X","CCS(=O)(=O)c1ccc(OC)c(Nc2ncc(o2)-c2cccc(OC)c2)c1","PKIS","2-amino_oxazoles","VEGFR"
+"GW581744X","NC(=O)c1ccc2c(c(nn2c1)-c1ccc(F)cc1)-c1ccnc(NCCCO)n1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"GW582764A","CS(CCNCC1=NC(C2=CC=C(N=CN=C3NC4=CC=C(OCC5=CC=CC=C5)C(Cl)=C4)C3=C2)=CS1)(=O)=O.CS(CCNCC6=NC(C7=CC=C(N=CN=C8NC9=CC=C(OCC%10=CC=CC=C%10)C(Cl)=C9)C8=C7)=CS6)(=O)=O.Cl.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GW582868A","OC1=C(C)C=CC(NC2=NC(NC3=CC=C(C)C(F)=C3)=NC=C2)=C1.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW583340C","ClC1=CC(NC2=NC=NC3=CC=C(C4=CSC(CNCCS(C)(=O)=O)=N4)C=C32)=CC=C1OCC5=CC(F)=CC=C5.Cl","PKIS2","4-anilino-quinazoline and analogues",
+"GW583373A","Cl.Clc1cc(Nc2ncnc3ccc(cc23)-c2ccc(CN3CCS(=O)CC3)o2)ccc1OCc1ccccc1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW589933X","NS(=O)(=O)c1ccc(NC=C2C(=O)Nc3ccc4ncsc4c23)cc1","PKIS","Oxindoles","CDK2"
+"GW589961A","Cl.COC(=O)Nc1nc2ccc(Oc3ccc(NC(=O)Nc4cccc(Cl)c4)cc3)cc2[nH]1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW591947A","O=S(C1=CC=C(OC)C(NC(O2)=NC=C2C3=CC=C(F)C=C3)=C1)(CC)=O.Cl","PKIS2","2-anilino-5-aryl-oxazole",
+"GW595885X","CC1=NN=C(C2=CC=C(C)C(C3=CC=C(C(NC4=CC=C(OC)C=C4)=O)C=C3)=C2)O1","PKIS2","Biphenylamide",
+"GW599550X","FC(F)(F)C(C=C1)=CC=C1C2=NC=CC(C3=CNN=C3C4=CC=CC=N4)=C2","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW607049C","OS(O)(=O)=O.COC(=O)Nc1nc2ccc(Sc3ccc(NC(=O)Nc4cc(ccc4F)C(F)(F)F)cc3)cc2[nH]1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW607117X","Cc1nnc(o1)-c1ccc(C)c(c1)-c1ccc(cc1)C(=O)Nc1cccc(c1)C#N","PKIS","Biaryl_amides","MAPK14"
+"GW608005X","CC1=NN=C(C2=CC=C(C)C(C3=CC=C(C(O)=O)C=C3)=C2)O1","PKIS2","Biphenylamide",
+"GW612286X","COc1cc(Nc2nccc(Nc3ccc4c(C)n[nH]c4c3)n2)cc(OC)c1OC","PKIS","2,4-diamino_pyrimidines","VEGFR"
+"GW615311X","Fc1cccc(COc2ccc(Nc3ncnc4ccc(cc34)-c3ccc(COCCS(=O)(=O)c4ccccc4)o3)cc2Cl)c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW616030X","CS(=O)(=O)CCN(CC#N)Cc1ccc(o1)-c1ccc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW618013A","CS(O)(=O)=O.CN(C)CCCNc1nccc(n1)-c1c(nn2cc(ccc12)C(F)(F)F)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"GW620972X","O=C(Nc1sc2CCCCc2c1C#N)c1cccc2ccccc12","PKIS","3-cyano_thiophenes","JNK"
+"GW621431X","CCS(=O)(=O)c1ccc(OC)c(Nc2ncc(o2)-c2cccc(c2)C(C)=O)c1","PKIS","2-amino_oxazoles","VEGFR"
+"GW621581X","FC(C=C1)=CC=C1C2=NN3C=C(C(F)(F)F)C=CC3=C2C4=CC=NC(NCCCN5CCN(C)CC5)=N4","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GW621823A","Cl.CCCN(CCS(C)(=O)=O)Cc1ccc(o1)-c1ccc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW621970X_KCGS","CCS(=O)(=O)c1ccc(OC)c(Nc2ncc(o2)-c2cccc(F)c2)c1","KCGS","2-amino_oxazoles","VEGFR2"
+"GW622055X","CCS(=O)(=O)c1ccc(OC)c(Nc2ncc(o2)-c2ccccc2Cl)c1","PKIS","2-amino_oxazoles","VEGFR"
+"GW622475X","O=C(N)C1=CN2N=C(C3=CC=C(F)C=C3)C(C4=CC=NC(NCCCN5CCN(C)CC5)=N4)=C2C=C1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GW627512B","COc1cc(Nc2ncc(o2)-c2ccccc2)cc(OC)c1OC","PKIS","2-amino_oxazoles","VEGFR"
+"GW627834A","Cl.N#Cc1cccc(Nc2ncc(o2)-c2ccccc2)c1","PKIS","2-amino_oxazoles","VEGFR"
+"GW630813X","FC(F)(F)C1=CN2C(C=C1)=C(C3=CC=NC(NCCCO)=N3)C(C4=CC(C(F)(F)F)=CC=C4)=N2","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GW630823A","FC(C1=CC(NC2=C(C)C=CC(O)=C2)=C3C(C=CC(C4=CC=NC=C4)=C3)=N1)(F)F.Cl","PKIS2","4-anilinoquinoline",
+"GW631581B","COc1cc(Nc2ncc(o2)-c2ccccc2)cc(OC)c1","PKIS","2-amino_oxazoles","VEGFR"
+"GW632046X","Cc1cccc(Nc2ncc(o2)-c2ccccc2)c1","PKIS","2-amino_oxazoles","VEGFR"
+"GW632580X","COc1ccc(COc2ccc(Cc3cnc(N)nc3N)cc2OC)cc1","PKIS","3-benzyl_pyrimidines","CSF1R"
+"GW633459A","Cl.Fc1cccc(COc2ccc(Nc3ncnc4ccc(cc34)-c3ccc(CNCCS(=O)(=O)c4ccccc4)o3)cc2Cl)c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW635815X","O=C(C1=CSC=C1)NC2=NC(C=C3CN4CCN(S(=O)(C(C)C)=O)CC4)=C(C=C3)N2C[C@H](O)C5=CC=CC=C5","PKIS2","1-substituted-2-aminobenzimidazole",
+"GW639905A","N#CCC1=CC=C(C=C1)NC2=NC=CC(NC3=CC=C(OC4=CC=CC=C4)C=C3)=N2.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW641155A","Cl.N(c1ncc(o1)-c1ccccc1)c1ccc(Oc2ccccc2)cc1","PKIS","2-amino_oxazoles","VEGFR"
+"GW642125X","COc1ccc(cc1)-c1coc2ncnc(N)c12","PKIS","Furopyrimidines_and_related","TIE2, VEGFR2"
+"GW642138X","COc1ccc(cc1)-c1cc2c(N)ncnc2o1","PKIS","Furopyrimidines_and_related","TIE2, VEGFR2"
+"GW643971X","COc1cc(C=NNc2ncnc3n(Cc4ccccc4)ncc23)ccc1O","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW644007X","COc1cc(ccc1O)\C=N\Nc1ncnc2n(ncc12)C(C)C","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW651576X","Fc1cccc(COc2ccc(Nc3ncncc3C#Cc3ccccc3)cc2Cl)c1","PKIS","4-anilino_5-alkynyl_pyrimidines","EGFR, ErbB2"
+"GW654607A","O=C(OC)NC1=NC2=CC=C(OC3=CC=C(NC(NC4=C(F)C=CC(C(F)(F)F)=C4)=O)C=C3)C=C2N1.Cl","PKIS2","2-aminobenzimidazole",
+"GW654652C","Cl.CCS(=O)(=O)c1ccc(OC)c(Nc2nccc(n2)N(C)c2ccc3c(C)n[nH]c3c2)c1","PKIS","2,4-diamino_pyrimidines","VEGFR"
+"GW659008A","O=C(N)C1=CC(NC2=NC=CC(NC3=CC=C(OC4=CC=CC(Cl)=C4)C(Cl)=C3)=N2)=CC=C1.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW659009A","O=C(N)C1=CC(NC2=NC=CC(NC3=CC=C(OC4=C(Cl)C=CC=C4Cl)C(Cl)=C3)=N2)=CC=C1.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW659386A_PKIS1","Cl.COC(=O)Nc1nc2cc(Oc3cccc(NC(=O)Nc4cc(ccc4F)C(F)(F)F)c3)ccc2[nH]1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW659893X","Nc1ccc(cc1)C#Cc1cncnc1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1","PKIS","4-anilino_5-alkynyl_pyrimidines","EGFR, ErbB2"
+"GW663929X","O=C(NCCCN1CCOCC1)C2=CC=CC(NC3=NC=CC(NC4=CC=C(C=C4)OC5=CC=CC=C5)=N3)=C2","PKIS2","2,4-dianilinopyrimidine",
+"GW664114X","N#CC1=CN=C2C(C=CC(C3=CN=C(CNCCN4CCOCC4)S3)=C2)=C1NC5=CC=C(OC6=CC=CC=C6)C=C5","PKIS2","4-anilinoquinoline",
+"GW673715X","CCc1cccc(NC(=O)Nc2ccc(Oc3ccc4nc(NC(=O)OC)[nH]c4c3)cc2)c1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW678313X","CCS(=O)(=O)c1ccc(OC)c(Nc2ncc(o2)-c2cccc(c2)-c2ccccc2F)c1","PKIS","2-amino_oxazoles","VEGFR"
+"GW679395X","CC1=CC=CC(C2=NC=CC(C3=CNN=C3C4=CC=CC=N4)=C2)=C1","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW679396X","FC(F)(F)C1=C(C=CC=C1)C2=NC=CC(C3=CNN=C3C4=CC=CC=N4)=C2","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW679410X","COc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1","PKIS","4-pyridyl_ortho-aryl_azoles","TGFBR"
+"GW679662X","CC1=NN=C(C2=CC=C(C)C(C3=CC=C(C(NCC4CC4)=O)C=C3)=C2)O1","PKIS2","Biphenylamide",
+"GW680061X","CC1=C(C=CC=C1)C2=NC=CC(C3=CNN=C3C4=CC=CC=N4)=C2","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW680191X","CS(=O)(=O)CCNCCCCOc1ccc2ncnc(Nc3cccc(c3)C#C)c2c1","PKIS","4-anilino_quinazolines_and_related","EGFR, ErbB2"
+"GW680338X","COC1=CC=CC(C2=NC=CC(C3=CNN=C3C4=CC=CC=N4)=C2)=C1","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW680903X","O=C(OC)NC1=NC2=C(C=C(OC3=CC=C(CC(NC4=CC(C(F)(F)F)=CC=C4F)=O)C=C3)C=C2)N1","PKIS2","2-aminobenzimidazole",
+"GW680908A","Cl.COC(=O)Nc1nc2ccc(cc2[nH]1)S(=O)(=O)c1ccc(NC(=O)Nc2cc(ccc2F)C(F)(F)F)cc1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW680975X","Fc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1","PKIS","4-pyridyl_ortho-aryl_azoles","TGFBR"
+"GW681170A","O=C(OC)NC1=NC(C=C(OC2=CC=C(NC(NC3=CC(C(F)(F)F)=CC=C3F)=O)C=N2)C=C4)=C4N1.O=C(OC)NC5=NC(C=C(OC6=CC=C(NC(NC7=CC(C(F)(F)F)=CC=C7F)=O)C=N6)C=C8)=C8N5.Cl.Cl","PKIS2","2-aminobenzimidazole",
+"GW681251X","ClC1=CC=C(C=C1)C2=NC=CC(C3=CNN=C3C4=CC=CC=N4)=C2","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW682569X","CC1=NNC2=C1C=CC(NC3=NC(NC4=CC(CN5CCOCC5)=CC=C4)=NC=C3)=C2","PKIS2","2,4-dianilinopyrimidine",
+"GW682841X","CC(C)c1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1","PKIS","4-pyridyl_ortho-aryl_azoles","TGFBR"
+"GW683003X","FC(F)(F)CNc1nccc(n1)-c1cnn2ncccc12","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","CDK4"
+"GW683109X","C(CNc1nccc(n1)-c1cnn2ncccc12)CN1CCOCC1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","CDK4"
+"GW683134A_KCGS","Cl.Fc1ccc(cc1NC(=O)Nc1ccc(Oc2ccc3[nH]c(NC(=O)c4ccco4)nc3c2)cc1)C(F)(F)F","KCGS","Benzimidazolyl_diaryl_ureas","TIE-2, VEGFR-2,TIE-2 (auto-phos)"
+"GW683768X","CCc1nn2ncccc2c1-c1ccnc(NC2CC2)n1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","CDK4"
+"GW684083X","NC1=NC(C2=CC=CN=C2)=C(S1)C3=CC=NC4=CC=CC=C34","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW684088X","CC1=CC=C(C=C1)C2=CC(C3=CNN=C3C4=CC=CC=N4)=CC=N2","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles","TGFBR1"
+"GW684374X","CCCCC1=NN2N=CC=CC2=C1C3=CC=NC(NC4CC4)=N3","PKIS2","4-pyrimidinyl-azoles",
+"GW684626B","Fc1cccc(COc2ccc(Nc3ncnc4sc(cc34)-c3cccs3)cc2Cl)c1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GW684941X","CN(CC1)CCN1C(C=C2)=CC=C2NC3=NC=CC(C4=C(C=CC=N5)N5N=C4CCCC)=N3","PKIS2","4-pyrimidinyl-azoles",
+"GW689066X","ClC1=CC(NC2=NC=NC3=NN4C=CC=CC4=C32)=CC=C1OCC5=CC=CC(F)=C5","PKIS2","4-anilino-quinazoline and analogues",
+"GW692089A","FC(F)(F)C1=CC(NC(NC2=CC=C(OC3=CC=C(N=C(NC(OC)=O)N4C)C4=C3)C=C2)=O)=C(F)C=C1.Cl","PKIS2","2-aminobenzimidazole",
+"GW693028X","N#CC1=CC=C(C=C1)C2=CC(C3=CNN=C3C4=CC=CC=N4)=CC=N2","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW693481X","Nc1nc(c(s1)-c1ccc2ncccc2n1)-c1ccccn1","PKIS","2-pyridinyl_imidazoles_and_related","TGFBR"
+"GW693542X","NC1=NC(C2=NC=CS2)=C(S1)C3=CC=NC4=CC=CC=C34","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW693881A","Cl.Fc1cccc(COc2ccc(Nc3ncnc4cc(sc34)-c3ccc[nH]3)cc2Cl)c1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GW693917A","Cl.COC(=O)Nc1nc2ccc(Oc3ccc(NC(=O)Nc4cc(ccc4F)C(F)(F)F)cc3)cc2s1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW694077X","C1(C2=CC=CC=N2)=NNC=C1NC3=CC=NC4=CC=CC=C34","PKIS2","4-anilinoquinoline",
+"GW694234A","Cl.COC(=O)Nc1nc2cc(Oc3ccc(NC(=O)Nc4cccc(Br)c4)cc3)ccc2[nH]1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW694590A","Cl.COC(=O)Nc1nc2cc(Oc3ccc(NC(=O)Nc4ccccc4)cc3)ccc2[nH]1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW695874X","C(CN1CCOCC1)Oc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1","PKIS","4-pyridyl_ortho-aryl_azoles","TGFBR"
+"GW696155X","CN(CC1)CCN1C(C=C2)=CC=C2NC3=NC(C4=C5C=CC(OC(C)C)=NN5N=C4)=CC=N3","PKIS2","4-pyrimidinyl-azoles",
+"GW697465A","O=C(OC)NC1=NC(C=C(OC2=CC=C(NC(NC3=CC(C(F)(F)F)=CC=C3Cl)=O)C=C2)C=C4)=C4N1.Cl","PKIS2","2-aminobenzimidazole",
+"GW697999A","O=C(OC)NC1=NC2=CC(OC3=CC=C(NC(NC4=CC=CC(SC)=C4)=O)C=C3)=CC=C2N1.Cl","PKIS2","2-aminobenzimidazole",
+"GW700494A","Cl.CN1CCN(CCCNc2nc3ccc(Oc4ccc(NC(=O)Nc5cc(ccc5F)C(F)(F)F)cc4)cc3[nH]2)CC1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW701032X","COc1ccc(CNC(=O)c2ccc(cc2)-c2cc(ccc2C)-c2nnc(C)o2)cc1","PKIS","Biaryl_amides","MAPK14"
+"GW701424A","O=C(OC)NC1=NC(C=C(OC2=CC=C(NC(NC3=CC(F)=CC=C3F)=O)C=C2)C=C4)=C4N1.Cl","PKIS2","2-aminobenzimidazole",
+"GW701427A","Cl.COC(=O)Nc1nc2cc(Oc3ccc(NC(=O)Nc4cccc(c4)C(O)=O)cc3)ccc2[nH]1","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW702865X","CC(C=CC(C1=NN=C(C)O1)=C2)=C2C3=CC=C(C(NC4=CC=C(NS(=O)(C)=O)C=C4)=O)C=C3","PKIS2","Biphenylamide",
+"GW703087X","CC(=O)Nc1cccc(c1)C#Cc1cncnc1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1","PKIS","4-anilino_5-alkynyl_pyrimidines","EGFR, ErbB2"
+"GW707818B","ClC1=CC(NC2=NC=NC3=C2C=C(C4=CC=CN4)S3)=CC=C1OCC5=CC(F)=CC=C5","PKIS2","4-anilino-quinazoline and analogues",
+"GW708336X","C1CC1Nc1nccc(n1)-c1cnn2nc(ccc12)N1CCOCC1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","CDK4"
+"GW708893X","Cc1nnc(o1)-c1ccc(C)c(c1)-c1ccc(cc1)C(=O)NCc1ccc(Cl)cc1","PKIS","Biaryl_amides","MAPK14"
+"GW709042A","Cl.Fc1ccc(cc1NC(=O)Nc1ccc(Oc2ccc3[nH]c(NC(=O)c4ccccc4)nc3c2)cc1)C(F)(F)F","PKIS","Benzimidazolyl_diaryl_ureas","TIE2, VEGFR2"
+"GW709199X","FC(F)(F)C(C=C1)=CC=C1/C=C/C2=CN=CN=C2NC3=CC(N=C(CC4=CC=CC=C4)N5)=C5C=C3","PKIS2","4-anilino-quinazoline and analogues",
+"GW709213X","C1(NCC2=CC=C(C3=NC=CC(C4=CNN=C4C5=CC=CC=N5)=C3)C=C2)CCOCC1","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW711782X","C(Cn1ccnc1)Oc1ccc(cc1)-c1cc(ccn1)-c1c[nH]nc1-c1ccccn1","PKIS","4-pyridyl_ortho-aryl_azoles","TGFBR"
+"GW734508X","Cc1nnc(o1)-c1cccc(c1)-c1ccc(cc1)C(=O)NCC1CC1","PKIS","Biaryl_amides","MAPK14"
+"GW743024X","Cc1ccc(NC(=O)c2ccoc2)cc1-c1ccc(cc1)C(=O)NCC1CC1","PKIS","Biaryl_amides","MAPK14"
+"GW759710A","Cl.NC(=O)c1cccc(Nc2nccc(Nc3cccc(F)c3)n2)c1","PKIS","2,4-diamino_pyrimidines","LCK"
+"GW767488X","CN(C)CC(O)COC(C=C1)=CC=C1NC2=NC(C3=C(C=CC(N4CCOCC4)=N5)N5N=C3)=CC=N2","PKIS2","4-pyrimidinyl-azoles",
+"GW768504A","CN(CC1)CCN1CCNC2=NC(C=C(OC3=CC=C(NC(NC4=CC(C(F)(F)F)=CC=C4F)=O)C=C3)C=C5)=C5N2.CN(CC6)CCN6CCNC7=NC(C=C(OC8=CC=C(NC(NC9=CC(C(F)(F)F)=CC=C9F)=O)C=C8)C=C%10)=C%10N7.Cl.Cl","PKIS2","2-aminobenzimidazole",
+"GW768505A","Cl.COc1ccc(cc1)-c1oc2ncnc(N)c2c1-c1ccc(NC(=O)Nc2cc(ccc2F)C(F)(F)F)cc1","PKIS","Furopyrimidines_and_related","TIE2, VEGFR2"
+"GW769076X","Cc1ccc(NC(=O)c2ccnc(c2)N2CCCC2)cc1-c1ccc(cc1)C(=O)NCC1CC1","PKIS","Biaryl_amides","MAPK14"
+"GW770220A","Cl.CN(c1ccc2c(C)nn(C)c2c1)c1ccnc(Nc2cccc(c2)S(N)(=O)=O)n1","PKIS","2,4-diamino_pyrimidines","VEGFR"
+"GW770249A_KCGS","Nc1ncnc2occ(-c3ccc(NC(=O)Nc4cc(ccc4F)C(F)(F)F)cc3)c12","KCGS","Furopyrimidines_and_related",
+"GW771127A","Cl.CN(c1ccc2c(C)n(C)nc2c1)c1ccnc(Nc2cccc(c2)S(N)(=O)=O)n1","PKIS","2,4-diamino_pyrimidines","VEGFR"
+"GW772405X","CNC(=O)c1cccc(c1)C#Cc1cncnc1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1","PKIS","4-anilino_5-alkynyl_pyrimidines","EGFR, ErbB2"
+"GW775604X","O=C(NCC1CC1)C2=CC=C(C3=C(C)C=CC(NC(C4=CC(N5CCN(C)CC5)=NC=C4)=O)=C3)C=C2","PKIS2","Biphenylamide",
+"GW775608X","Cc1ccc(NC(=O)c2ccnc(c2)N2CCOCC2)cc1-c1ccc(cc1)C(=O)NCC1CC1","PKIS","Biaryl_amides","MAPK14"
+"GW775610X","O=C(NCC1CC1)C2=CC=C(C3=C(C)C=CC(NC(C4=CC(N5CCCCC5)=NC=C4)=O)=C3)C=C2","PKIS2","Biphenylamide",
+"GW776245A","N1(CC2=CC=C(C3=NC=CC(C4=CNN=C4C5=CC=CC=N5)=C3)C=C2)CCOCC1.Cl","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW777257X","CC1=C2C(C=CC(C3=C(C4=CC=CC=N4)N=C(N)S3)=N2)=NC=C1","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"GW778894X","N#Cc1cccc(Nc2nccc(n2)-c2cnn3ncccc23)c1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","CDK4"
+"GW779439X_PKIS1","CN1CCN(CC1)c1ccc(Nc2nccc(n2)-c2cnn3ncccc23)cc1C(F)(F)F","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","CDK4"
+"GW780056X","CCN(CC)Cc1ccc(Nc2nccc(n2)-c2cnn3ncccc23)cc1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","CDK4"
+"GW780159X","Nc1nc(c(s1)-c1ccc2ncccc2n1)-c1cccc(Cl)c1","PKIS","2-pyridinyl_imidazoles_and_related","TGFBR"
+"GW781483X","ClC1=C(F)C=CC(NC2=NC=NC3=C2C=C(NC(C=C)=O)C(OCCCN4CCOCC4)=C3)=C1","PKIS2","4-anilino-quinazoline and analogues",
+"GW781673X","Clc1ccc(CNc2nccc(n2)-c2cnn3ncccc23)cc1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","CDK4"
+"GW782612X","NC(=O)c1cccc(Nc2nccc(Nc3cccc4[nH]ncc34)n2)c1","PKIS","2,4-diamino_pyrimidines","LCK"
+"GW782907X","Cc1ccc(cc1-c1ccc(cc1)C(=O)NCC1CC1)C(=O)NC1CCCCC1","PKIS","Biaryl_amides","MAPK14"
+"GW782912X","Cc1ccc(cc1-c1ccc(cc1)C(=O)NCC1CC1)C(=O)NC1CCC1","PKIS","Biaryl_amides","MAPK14"
+"GW784041A","CC1=C(NC2=NC(NC3=CC=C(C4=CN=CN4)C=C3)=NC=C2)C=C(OC)C=C1.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW784307A","Cl.COc1cccc(c1)-n1ncc2c(N\N=C\c3ccc(cc3)C(=O)NCCN(C)C)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW784684X","CN1CCN(Cc2ccc(o2)-c2cc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3s2)CC1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GW784752X","COc1cccc(c1)-n1ncc2c(N\N=C\c3ccncc3)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW785404X","CCn1c(nc2ccc(F)cc12)-c1nonc1N","PKIS","Furazan_benzimidazoles","MSK"
+"GW785804X","Nc1nc(c(s1)-c1ccc2ncccc2n1)-c1ccc(F)cc1","PKIS","2-pyridinyl_imidazoles_and_related","TGFBR"
+"GW785974X","CC(C)NC(=O)c1ccc(C)c(c1)-c1ccc(cc1)C(=O)NCC1CC1","PKIS","Biaryl_amides","MAPK14"
+"GW786460X","Cc1cccc(n1)-c1n[nH]cc1-c1ccc2ncccc2n1","PKIS","2-pyridinyl_imidazoles_and_related","TGFBR"
+"GW787226A","CC1=C(C=C2)C(C=C2N(C)C3=NC(NC4=CC(S(=O)(N)=O)=CC=C4)=NC=C3)=NN1CC5=CC=CC=C5.CC6=C(C=C7)C(C=C7N(C)C8=NC(NC9=CC(S(=O)(N)=O)=CC=C9)=NC=C8)=NN6CC%10=CC=CC=C%10.Cl.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW789449X","NC(C1=C(NC(N)=O)SC(C(C=C2)=CC=C2F)=C1)=O","PKIS2","carboxamide thiophene",
+"GW792479X","O=C(N1CCCC1)C2=CC=C(C=C2)C3=NC=CC(C4=CNN=C4C5=CC=CC=N5)=C3","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles","TGFBR1"
+"GW794607X","CCCNc1cccc(c1)-n1ncc2c(N\N=C\c3ccncc3)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW794726X","CC(=O)Nc1cccc(n1)C#Cc1cncnc1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1","PKIS","4-anilino_5-alkynyl_pyrimidines","EGFR, ErbB2"
+"GW795486X","Nc1ncnc2occ(-c3ccc(NC(=O)Nc4cc(cc(c4)C(F)(F)F)C(F)(F)F)cc3)c12","PKIS","Furopyrimidines_and_related","TIE2, VEGFR2"
+"GW795493X","Nc1ncnc2occ(-c3ccc(NC(=O)Nc4cccc(c4)C(F)(F)F)cc3)c12","PKIS","Furopyrimidines_and_related","TIE2, VEGFR2"
+"GW796920X","Cc1ccc(NC(=O)CC2CC2)cc1-c1ccc(cc1)C(=O)NCC1CC1","PKIS","Biaryl_amides","MAPK14"
+"GW796921X","CCC(=O)Nc1ccc(C)c(c1)-c1ccc(cc1)C(=O)NCC1CC1","PKIS","Biaryl_amides","MAPK14"
+"GW799251X","Nc1nccc(n1)C#Cc1cncnc1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1","PKIS","4-anilino_5-alkynyl_pyrimidines","EGFR, ErbB2"
+"GW800172X","O=C(C1=CC=C(C2=CC(C(NC3CCCC3)=O)=CC=C2C)C=C1)NCC4CC4","PKIS2","Biphenylamide",
+"GW801372X","COc1cc(Nc2nccc(n2)-c2cnn3ncccc23)cc(OC)c1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","GSK3"
+"GW804482X","COc1cccc(COc2cc(sc2C(N)=O)-n2cnc3ccccc23)c1","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GW805758X","CC(C)c1ccc(Nc2nccc(n2)-c2cnn3ncccc23)cc1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","CDK4"
+"GW806290X","C1COc2cc(Nc3nccc(n3)-c3cnn4ncccc34)ccc2O1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","GSK3"
+"GW806742X","CN(c1ccc(NC(=O)Nc2ccc(OC(F)(F)F)cc2)cc1)c1ccnc(Nc2cccc(c2)S(N)(=O)=O)n1","PKIS","2,4-diamino_pyrimidines","VEGFR"
+"GW806776X","O=C(NCC1CC1)c1ccc(cc1)-c1cccc(c1)C(=O)NC1CC1","PKIS","Biaryl_amides","MAPK14"
+"GW807930X","CC(=O)NCc1cccc(c1)C#Cc1cncnc1Nc1ccc(OCc2cccc(F)c2)c(Cl)c1","PKIS","4-anilino_5-alkynyl_pyrimidines","EGFR, ErbB2"
+"GW807982X_KCGS","CCOc1ccc2c(cnn2n1)-c1ccnc(Nc2cc(OC)cc(c2)C(F)(F)F)n1","KCGS","2H-3_pyrimidinyl_pyrazolopyridazines","GSK3"
+"GW809885X","COc1cccc(c1)-n1nc(C)c2c(N\N=C(/C)c3ccncc3)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW809893X","CN(C1=CC=C(NC(NC2=CC(C(F)(F)F)=CC=C2F)=O)C=C1)C3=NC(NC4=CC=C(S(N)(=O)=O)C=C4)=NC=C3","PKIS2","2,4-Dianilinopyrimidine",
+"GW809897X","CN(c1ccc(NC(=O)Nc2c(Cl)cccc2Cl)cc1)c1ccnc(Nc2cccc(CS(C)(=O)=O)c2)n1","PKIS","2,4-diamino_pyrimidines","VEGFR"
+"GW810083X","O=C(N(C)C1CCOCC1)C2=CC=C(C=C2)C3=NC=CC(C4=CNN=C4C5=CC=CC=N5)=C3","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW810372X","COc1ccc2c(cnn2n1)-c1ccnc(Nc2cccc(OC(F)(F)F)c2)n1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","GSK3"
+"GW810437X","O=C(C1=COC=C1)NC2=CC(C3=CC=C(C(NCC4CC4)=O)C=C3)=C(OC)C=C2","PKIS2","Biphenylamide",
+"GW810445X","O=C(NCC1CC1)C2=CC=C(C3=C(F)C=CC(C(NC4CC4)=O)=C3)C=C2","PKIS2","Biphenylamide",
+"GW810576X","COc1cccc(Nc2nccc(n2)-c2cnn3ncccc23)c1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","GSK3"
+"GW810578X","BrC1=CC(NC2=NC=CC(C3=C4C=CC=NN4N=C3)=N2)=CC(C(F)(F)F)=C1","PKIS2","4-pyrimidinyl-azoles",
+"GW811168X","COc1cccc(c1)-n1ncc2c(N\N=C\c3ccc(cc3)S(C)(=O)=O)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW811603A","CN(C1=CC=NC(NC2=CC=C(CS(C)(=O)=O)C=C2)=N1)C3=CC=C4N(C)C(NCC5=CC=CC=C5)=NC4=C3.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW811761X","CCOc1ccc2c(cnn2n1)-c1ccnc(Nc2cccc(c2)C(F)(F)F)n1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","GSK3"
+"GW812171X","O=C(N1CCOCC1)C2=CC=C(C=C2)C3=CC(C4=CNN=C4C5=CC=CC=N5)=CC=N3","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW813244A","CN1C(NCC2=CC=C(F)C=C2)=NC3=CC(N(C4=CC=NC(NC5=CC=C(CS(C)(=O)=O)C=C5)=N4)C)=CC=C13.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW813349X","NC(C(SC(N1C=NC2=C1C=CC(Cl)=C2)=C3)=C3OCC4=CC=CC=C4C)=O","PKIS2","benzimidazole_N-thiophenes",
+"GW813360X","COc1cccc(c1)-n1cnc2c(N\N=C\c3ccncc3)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW814408X","COc1cccc(c1)-c1c[nH]c2c(N\N=C\c3ccncc3)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW817394X","COc1cccc(c1)-n1ncc2c(N\N=C\c3cccc(F)c3)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW817396X","COc1cccc(c1)-n1ncc2c(N\N=C\c3ccc(F)cc3)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW818933X","O=C(NCCC)NC1=CC=C(N(C2=CC=NC(NC3CC3)=N2)C)C=C1","PKIS2","2-amino-4-anilinopyrimidine",
+"GW818941X","C(C=C1)(C2=CC=CC=C2)=NN3C1=C(C4=NC(NC5=CC=C(OCCO6)C6=C5)=NC=C4)C=N3","PKIS2","4-pyrimidinyl-azoles",
+"GW819077X","FC(F)(F)c1cccc(Nc2nccc(n2)-c2cnn3nc(ccc23)-c2ccccc2)c1","PKIS","2H-3_pyrimidinyl_pyrazolopyridazines","GSK3"
+"GW819230X","Cc1ccc(cc1)-c1cc2c(NC(=O)C3CC3)ncnc2o1","PKIS","Furopyrimidines_and_related","GSK3"
+"GW819776X","CC1=NN2N=CC(C3=NC(NC4=CC=C(C(F)(F)F)C=C4)=NC=C3)=C2C=C1","PKIS2","4-pyrimidinyl-azoles",
+"GW820759X","Cc1ccc(cc1-c1ccc2[nH]ncc2c1)C(=O)NC1CC1","PKIS","Biaryl_amides","MAPK14"
+"GW823670X","O=C(C1=CNC(C(NCC2=CC=CS2)=O)=C1)C(C(Cl)=CC=C3)=C3Cl","PKIS2","pyrrole-2-carboxamide",
+"GW824645A_PKIS2","O=S(C1=CC(NC2=CC(C3=CC=C(F)C=C3)=NN2)=CC=C1)(N)=O.Cl","PKIS2","3-amino_pyrazoles",
+"GW827102X","FC(F)(F)c1cccc(c1)-c1nn2ncccc2c1-c1ccnc(Nc2ccc3OCCOc3c2)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW827105X","COc1ccc(cc1)-c1nn2ncccc2c1-c1ccnc(Nc2cccc(c2)C(F)(F)F)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW827106X","COc1ccc(cc1)-c1nn2ncccc2c1-c1ccnc(Nc2ccc3OCCOc3c2)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW827396X","COc1ccc(cc1)-c1nn2ncccc2c1-c1ccnc(Nc2ccc(F)c(F)c2)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW827654A","O=C(NC1=CC=C(CN2CCN(C)CC2)C=C1)NC3=CC=C(N(C4=CC=NC(NC5=CC=C(CS(C)(=O)=O)C=C5)=N4)C)C=C3.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW828205X","FC(F)(F)C1=CC=CC(NC2=NC=CC(C3=C4C=CC=NN4N=C3C5=CC=C(C(F)(F)F)C=C5)=N2)=C1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GW828206X","FC(F)(F)C1=CC=C(C2=NN3N=CC=CC3=C2C4=NC(NC5=CC=CC=C5)=NC=C4)C=C1","PKIS2","4-pyrimidinyl-azoles",
+"GW828525X","FC(F)(F)c1ccc(cc1)-c1nn2ncccc2c1-c1ccnc(Nc2ccc3OCCOc3c2)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW828529X","Fc1ccc(Nc2nccc(n2)-c2c(nn3ncccc23)-c2ccc(cc2)C(F)(F)F)cc1F","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW829055X","Clc1ccc(cc1)-c1nn2ncccc2c1-c1ccnc(Nc2ccccc2)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW829058X","ClC(C=C1)=CC=C1C2=NN3N=CC=CC3=C2C4=CC=NC(NC5=CC(F)=C(F)C=C5)=N4","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GW829115X","COc1ccc(cc1)-c1nn2ncccc2c1-c1ccnc(Nc2ccc(Cl)c(c2)C(F)(F)F)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW829116X","ClC(C=C1)=CC=C1C2=NN3N=CC=CC3=C2C4=CC=NC(NC5=CC(OCCO6)=C6C=C5)=N4","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GW829350X","FC(F)(F)C1=CC=C(C2=NN3N=CC=CC3=C2C4=NC(NC5=CC(C(F)(F)F)=C(Cl)C=C5)=NC=C4)C=C1","PKIS2","4-pyrimidinyl-azoles",
+"GW829351X","ClC1=CC=C(C2=NN3N=CC=CC3=C2C4=NC(NC5=CC(C(F)(F)F)=C(Cl)C=C5)=NC=C4)C=C1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"GW829874X","COc1cccc(\C=N\Nc2ncnc3n(ncc23)-c2cccc(OC)c2)c1","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW829877X","COc1cccc(c1)-n1ncc2c(N\N=C\c3ccc(C)cc3)ncnc12","PKIS","4-hydrazinly_pyrazolopyrimidines","GSK3"
+"GW829906X","Cc1ccc2c(c(nn2n1)-c1ccccc1)-c1ccnc(Nc2cccc(c2)C(F)(F)F)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW830263A","Cl.CN(c1ccc(NC(=O)Nc2ccc(cc2)C(=O)N2CCN(C)CC2)cc1)c1ccnc(Nc2ccc(CS(C)(=O)=O)cc2)n1","PKIS","2,4-diamino_pyrimidines","VEGFR"
+"GW830365A","Cl.CN(c1ccc(NC(=O)NCCN2CCOCC2)cc1)c1ccnc(Nc2ccc(CS(C)(=O)=O)cc2)n1","PKIS","2,4-diamino_pyrimidines","VEGFR"
+"GW830707A","CN(C1=CC=C(NC(NC2=CC=CC(Cl)=C2)=O)C=C1)C3=NC(N)=NC=C3.Cl","PKIS2","2-amino-4-anilinopyrimidine",
+"GW830899A","CN(C1=CC=C(NC(N2CCN(CCCN3CCOCC3)CC2)=O)C=C1)C4=NC(NC5=CC=C(CS(C)(=O)=O)C=C5)=NC=C4.Cl","PKIS2","2,4-dianilinopyrimidine",
+"GW830900A","Cl.CN(C)CCNC(=O)Nc1ccc(cc1)N(C)c1ccnc(Nc2ccc(CS(C)(=O)=O)cc2)n1","PKIS","2,4-diamino_pyrimidines","VEGFR"
+"GW831091X","NS(=O)(=O)c1ccc(Nc2cc(n[nH]2)-c2ccc(O)c(F)c2)cc1","PKIS","3-amino_pyrazoles","CDK2"
+"GW832467X","Cc1ccc2c(c(nn2n1)-c1ccc(cc1)C(F)(F)F)-c1ccnc(Nc2ccc3OCCOc3c2)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW832476X","NS(=O)(=O)c1ccc(Nc2cc(n[nH]2)-c2cccc(O)c2)cc1","KCGS","aminopyrazole",
+"GW833373X","Cc1ccc2c(c(nn2n1)-c1ccc(F)cc1)-c1ccnc(Nc2ccccc2)n1","PKIS","2-aryl_3-pyridimidinyl_pyrazolopyridazines","GSK3"
+"GW835314X","CN(C)CCOC1=CC=C(C2=NC=CC(C3=CNN=C3C4=CC=CC=N4)=C2)C=C1","PKIS2","4-pyridinyl (with 2 aryl) _ortho-aryl_azoles",
+"GW837331X","COc1cc(Nc2ncc3c(C)nc(-c4cccc(c4)C(F)(F)F)n3n2)cc(OC)c1OC","PKIS","Imidazotriazine","PLK"
+"GW839464X","O=C(NC1=CC(C(C)(C)C)=NN1C2=CC=C(C)C=C2)NC3=C(C=CC=C4)C4=C(OCCN5CCOCC5)C=C3","PKIS2","diarylurea",
+"GW843682X","COc1cc2ncn(-c3cc(OCc4ccccc4C(F)(F)F)c(s3)C(N)=O)c2cc1OC","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GW846105X","O=C(Nc1sc2N(CCCc2c1C#N)C(=O)C1CC1)c1cccc2ccccc12","PKIS","3-cyano_thiophenes","JNK"
+"GW852849X","COc1cc2ncn(-c3cc(OCc4ccccc4Cl)c(s3)C(N)=O)c2cc1OC","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GW853606X","NC(=O)c1sc(cc1OCc1ccccc1Br)-n1cnc2ccc(cc12)C(F)(F)F","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GW853609X","NC(=O)c1sc(cc1OCc1ccccc1Br)-n1cnc2cc(ccc12)C(F)(F)F","PKIS","Benzimidazole_N-thiophenes","PLK"
+"GW854278X","NC(C(SC(N1C=NC2=C1C=C(OC)C(OC)=C2)=C3)=C3OCC4=C(Br)C=NC=C4)=O","PKIS2","benzimidazole_N-thiophenes",
+"GW855857X","CC1=NC(C2=NC3=CC=CC=C3C(NC4=CC=NC=C4)=N2)=CC=C1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW856795X","OC1=CC(NC2=C3C(C=CC(C(C)(C)C)=C3)=NC=C2)=CC=C1","PKIS2","4-anilinoquinoline",
+"GW856804X","Nc1ncc(-c2cccc(c2)S(N)(=O)=O)c2scc(-c3ccc(F)c(Cl)c3)c12","PKIS","Furopyrimidines_and_related","TIE2, VEGFR2"
+"GW856805X","CC(C)(C)C1=CC2=C(NC3=C(C)C=CC(O)=C3)C=CN=C2C=C1","PKIS2","4-anilinoquinoline",
+"GW857175X","CC1=NC(C2=NC3=CC=CC=C3C(NC4=CC5=C(NN=C5)C=C4)=N2)=CC=C1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW861893X","COc1cc(Nc2ncc3c(C)nc(-c4cccc(Oc5ccccc5)c4)n3n2)cc(OC)c1OC","PKIS","Imidazotriazine","PLK"
+"GW867253X","NS(C1=CC=CC(C2=CC=C3N=CC=C(C4=CC=CC(S(N)(=O)=O)=C4)C3=C2)=C1)(=O)=O","PKIS2","4-6-di-Ar-quinoline",
+"GW867587X","CC1=NC(C2=NC3=CC=CC=C3C(NC4=CC(N=NN5)=C5C=C4)=N2)=CC=C1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW867588X","CC1=NC(C2=NC3=CC=CC=C3C(NC4=CC(SC=N5)=C5C=C4)=N2)=CC=C1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW868318X","COCCNC(C1=CC=C(C2=C(C)C(F)=CC(C(NC3CC3)=O)=C2)C=C1)=O","PKIS2","Biphenylamide","MAPK14"
+"GW869516X","CC1=C2C=NC(NC3=CC(OC)=C(OC)C(OC)=C3)=NN2C(C4=CC(C=CC=C5)=C5N4)=N1","PKIS2","imidazotriazine",
+"GW869640X","CC1=CSC(C2=NC3=CC=CC=C3C(NC4=CC=NC=C4)=N2)=N1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW869641X","CC1=NC(C(N=C2NC3=CC=NC=C3)=NC4=C2SC=C4)=CC=C1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW869810X","Fc1cccc(COc2ccc(Nc3ncnc4cc(sc34)C#C[C@@H]3C[C@H](CN3)OC(=O)N3CCOCC3)cc2Cl)c1","PKIS","Anilino_thienopyrimidines","EGFR, ErbB2"
+"GW869979X","NC(C(SC(N1C=NC(C=C2OC)=C1C=C2OC)=C3)=C3OCC4=CC=C(S(C)(=O)=O)C=C4)=O","PKIS2","benzimidazole_N-thiophenes",
+"GW872411X","CC1=NC(C2=NC3=CC=CC=C3C(NC4=CC(C)=NC=C4)=N2)=CC=C1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW873004X","ClC1=CC(C2=NC3=CC=CC=C3C(NC4=CC=NC=C4)=N2)=CC=C1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW874091X","Cc1nc(-c2ccccc2)n2nc(NCCCN3CCOCC3)ncc12","PKIS","Imidazotriazine","PLK"
+"GW876019X","CC1=NC(C2=NC3=CC=CC=C3C(NC4=CC=CC(C(N)=O)=C4)=N2)=CC=C1","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW876731X","CN1N=CC2=C1C=CC(NC3=NC(C4=CC=CC(C)=N4)=NC5=CC=CC=C35)=C2","PKIS2","2-aryl-4-anilino(pyridin-4-yl)-quinazoline and analogues",
+"GW876790X","CCn1c(nc2cncc(C(=O)NCCNC)c12)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"HG-10-102-01","O=C(C1=CC(OC)=C(NC2=NC=C(Cl)C(NC)=N2)C=C1)N3CCOCC3","KCGS","2-anilino-4-alkylamino-pyrimidine","LRRK2"
+"HTH-01-015","O=C1N(C)C2=C(N=C(NC3=CN(C4CCNCC4)N=C3)N=C2C)N(C)C5=CC6=CC=CC=C6C=C51","KCGS","2-amino-pyrimido-diazepin-6-one",
+"JH-II-127","CNC1=C2C(NC=C2Cl)=NC(NC3=CC=C(C(N4CCOCC4)=O)C=C3OC)=N1","KCGS","2-anilino-4-alkylamino-pyrrolopyrimidine","LRRK2"
+"JNK-IN-7","O=C(NC1=CC=C(NC2=NC=CC(C3=CC=CN=C3)=N2)C(C)=C1)C4=CC=CC(NC(/C=C/CN(C)C)=O)=C4","KCGS","2-anilino-4-aryl-pyrimidine","JNK"
+"K05908","COC1=CC(C2=CN=CC(C3=CN(C4CCNCC4)N=C3)=C2)=CC(OC)=C1OC","KCGS","3-aryl-pyridine",
+"NVP-2","ClC1=CN=C(N[C@H]2CC[C@H](N[C@H](C)COC)CC2)C=C1C3=CC=CC(NCC4(C#N)CCOCC4)=N3","KCGS","2-alkylamino-4-Ar-pyridine",
+"NVS-PAK1-1","O=C(N1C[C@@H](NC2=NC3=CC(F)=CC=C3N(CC(F)F)C4=CC=C(Cl)C=C42)CC1)NC(C)C","KCGS","other","PAK1"
+"PFE-PKIS_1","O=C1C(Br)=C(OCC2=C(F)C=C(F)C=C2)C=C(C)N1C3=CC(C(NCC(N)=O)=O)=CC=C3C","KCGS","1-aryl-pyridone",
+"PFE-PKIS_12","O=C(NCCCN1CCOC1=O)C2=CN=C(NCC3=C(Cl)C=CC(Cl)=C3)N=C2NC4CCCC4","KCGS","2, 4-diamino-5-carboxamide-pyrimidine",
+"PFE-PKIS_21","FC1=C(F)C=CC(C(NOC[C@H](O)CO)=O)=C1NC2=CC=C(I)C=C2F","KCGS","other",
+"PFE-PKIS_25","CN([C@H]1CN(C(CC#N)=O)CC[C@H]1C)C2=C3C(NC=C3)=NC=N2","KCGS","4-amino-pyrrolo-pyrimidine",
+"PFE-PKIS_29","COC(N=C1)=CC=C1C2=CC3=C(C)N=C(N)N=C3N([C@H]4CC[C@H](OCCO)CC4)C2=O","KCGS","pyrimidopyridinone",
+"PFE-PKIS_3","COC1=CC(C2=CC3=CN=C(N)N=C3N=C2NC(NC(C)(C)C)=O)=CC(OC)=C1","KCGS","2-amino-quinazoline",
+"PFE-PKIS_32","CC(C1=CN=C(NC2=NC=C(N3CCNCC3)C=C2)N=C1N4C5CCCC5)=C(C(C)=O)C4=O","KCGS","pyrimidopyridinone",
+"PFE-PKIS_34","CN([C@H]1CN(C(CO)=O)CC[C@H]1C)C2=C3C(NC=C3)=NC=N2","KCGS","4-amino-pyrrolo-pyrimidine",
+"PFE-PKIS_39","CN(N=C1)C=C1C(C=C2)=NN3C2=NN=C3[C@@H](C)C4=CC=C(N=CC=C5)C5=C4","KCGS","6-sub-quinoline",
+"PFE-PKIS_40","O=C1N([C@@H]2CC[C@@H](O)CC2)C3=NC(N)=NC(C)=C3C=C1C4=CC=C(OC)N=C4","KCGS","pyrimidopyridinone",
+"PFE-PKIS_41","CC1=CC(OCC2=C(F)C=C(F)C=C2)=C(Br)C(N1C3=C(C)C=CC(C(NC)=O)=C3)=O","KCGS","1-aryl-pyridone",
+"PFE-PKIS_44","CC(C1=CN=C(NC2=NN(C)C=C2)N=C1N3C4CCCC4)=C(C(C)=O)C3=O","KCGS","pyrimidopyridinone",
+"RO0117162-000","[O-][N+](=O)c1ccc2Nc3n[nH]cc3N=C(c4ccccc4Cl)c2c1","Roche","Pyrazolobenzodiazepines","CDK2"
+"RO0150463-000","Nc1n[nH]c2nc(cc(c12)C(F)(F)F)c3cccs3","Roche","aminopyrazole","CDK2"
+"RO0271528-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4ncccc34)c5ccccc15","Roche","Indolylmaleimide","PRKC"
+"RO0272148-000","Fc1ccc2NC(=O)\C(=C/c3ccc[nH]3)\c2c1","Roche","Oxindoles","CDK2"
+"RO0272159-000","COc1cc[nH]c1\C=C\2/C(=O)Nc3ccccc23","Roche","Oxindoles","CDK2"
+"RO0274406-000","Cc1[nH]nc2Nc3ccc(cc3C(=Nc12)c4ccccc4Cl)[N+](=O)[O-]","Roche","Pyrazolobenzodiazepines","CDK2"
+"RO0274710-000","CC(C)c1[nH]nc2Nc3ccc(cc3C(=Nc12)c4ccccc4Cl)[N+](=O)[O-]","Roche","Pyrazolobenzodiazepines","CDK2"
+"RO0275062-000","Cc1[nH]nc2Nc3ccc(cc3C(=Nc12)c4ccccc4F)C#N","Roche","Pyrazolobenzodiazepines","CDK2"
+"RO0281498-000","COc1ccc2Nc3n[nH]c(C)c3N=C(c4ccccc4Cl)c2c1","Roche","Pyrazolobenzodiazepines","CDK2"
+"RO0281567-000","COc1cc[nH]c1\C=C\2/C(=O)Nc3ccc(F)c(I)c23","Roche","Oxindoles","CDK2"
+"RO0281601-001","Cl.CNCC#Cc1c(F)ccc2NC(=O)\C(=C/c3[nH]ccc3OC)\c12","Roche","Oxindoles","CDK2"
+"RO0281752-000","CC(=O)Nc1ccc2Nc3n[nH]c(C)c3N=C(c4ccccc4Cl)c2c1","Roche","Pyrazolobenzodiazepines","CDK2"
+"RO0282586-000","Cc1[nH]nc2Nc3ccc(cc3C(=Nc12)c4ccccc4F)C(=O)N","Roche","Pyrazolobenzodiazepines","CDK2"
+"RO0282986-001","Cl.COc1cc[nH]c1\C=C\2/C(=O)Nc3ccc(F)c(C#CC4(O)CCNCC4)c23","Roche","Oxindoles","CDK2"
+"RO0283049-001","Cl.CN[C@@H](CO)C#Cc1c(F)ccc2NC(=O)\C(=C/c3[nH]ccc3OC)\c12","Roche","Oxindoles","CDK2"
+"RO0283120-000","COc1cc[nH]c1\C=C\2/C(=O)Nc3ccc(F)c(C#C[C@@H](O)[C@@H](N)[C@@H](C)O)c23","Roche","Oxindoles","CDK2"
+"RO0316045-000","CN1C(=O)C(=C(C1=O)c2c[nH]c3ccccc23)c4c[nH]c5ccccc45","Roche","Bisindolylmaleimide","PRKC"
+"RO0316233-000","O=C1NC(=O)C(=C1c2c[nH]c3ccccc23)c4c[nH]c5ccccc45","Roche","Bisindolylmaleimide","PRKC"
+"RO0316849-000","O=C1NC(=O)C(=C1c2ccccc2)c3c[nH]c4ccccc34","Roche","Indolylmaleimide","PRKC"
+"RO0316873-000","OC1NC(=O)C(=C1c2c[nH]c3ccccc23)c4c[nH]c5ccccc45","Roche","Bisindolylmaleimide","PRKC"
+"RO0317208-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317253-000","Cn1cc(C2=C(C(=O)NC2=O)c3cccc4ccccc34)c5ccccc15","Roche","Indolylmaleimide","PRKC"
+"RO0317254-000","Cn1cc(C2=C(C(=O)NC2=O)c3ccc4ccccc4c3)c5ccccc15","Roche","Indolylmaleimide","PRKC"
+"RO0317257-000","COc1ccc(cc1)C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34","Roche","Indolylmaleimide","PRKC"
+"RO0317302-000","COc1ccc2c(cn(C)c2c1)C3=C(C(=O)NC3=O)c4cn(C)c5ccccc45","Roche","Bisindolylmaleimide","PRKC"
+"RO0317328-000","Cn1cc(C2=C(C(=O)NC2=O)c3ccsc3)c4ccccc14","Roche","Indolylmaleimide","PRKC"
+"RO0317340-000","CSc1c(C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34)c5ccccc5n1C","Roche","Bisindolylmaleimide","PRKC"
+"RO0317365-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4ccc(N)cc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317373-001","Cl.Cn1cc(C2=C(C(=O)NC2=O)c3ccc(N)cc3)c4ccccc14","Roche","Indolylmaleimide","PRKC"
+"RO0317377-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCCO)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317379-000","CS(=O)c1c(C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34)c5ccccc5n1C","Roche","Bisindolylmaleimide","PRKC"
+"RO0317432-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4ccc(OCc5ccccc5)cc34)c6ccccc16","Roche","Bisindolylmaleimide","PRKC"
+"RO0317452-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4c(cccc34)[N+](=O)[O-])c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317471-000","Cn1cc(C2=C(C(=O)NC2=O)c3cccc(N)c3)c4ccccc14","Roche","Indolylmaleimide","PRKC"
+"RO0317474-000","Cn1cc(C2=C(C(=O)NC2=O)c3cccc(c3)[N+](=O)[O-])c4ccccc14","Roche","Indolylmaleimide","PRKC"
+"RO0317476-000","Cn1cc(C2=C(C(=O)NC2=O)c3cccc(Cl)c3)c4ccccc14","Roche","Indolylmaleimide","PRKC"
+"RO0317482-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4c(N)cccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317494-000","COc1cccc2c1c(cn2C)C3=C(C(=O)NC3=O)c4cn(C)c5ccccc45","Roche","Bisindolylmaleimide","PRKC"
+"RO0317510-000","Cc1ccc2c(c1)c(cn2C)C3=C(C(=O)NC3=O)c4cn(C)c5ccccc45","Roche","Bisindolylmaleimide","PRKC"
+"RO0317511-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4cc(N)ccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317549-002","Cl.Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCCN)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317596-000","CC(=O)Nc1ccc2c(cn(C)c2c1)C3=C(C(=O)NC3=O)c4cn(C)c5ccccc45","Roche","Bisindolylmaleimide","PRKC"
+"RO0317597-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4cc(Cl)ccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317612-000","Cc1ccccc1C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34","Roche","Indolylmaleimide","PRKC"
+"RO0317621-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4ccc(Cl)cc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317625-000","Cn1cc(C2=C(C(=O)NC2=O)c3cccc(Br)c3)c4ccccc14","Roche","Indolylmaleimide","PRKC"
+"RO0317699-000","Cc1ccc(C)c(c1)C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34","Roche","Indolylmaleimide","PRKC"
+"RO0317717-000","Cn1cc(C2=C(C(=O)NC2=O)c3ccccc3C(F)(F)F)c4ccccc14","Roche","Indolylmaleimide","PRKC"
+"RO0317753-000","Cn1cc(C2=C(C(=O)NC2=O)c3ccccc3[N+](=O)[O-])c4ccccc14","Roche","Indolylmaleimide","PRKC"
+"RO0317777-000","Cc1c(C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34)c5ccccc5n1C","Roche","Bisindolylmaleimide","PRKC"
+"RO0317843-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCCCCN)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317884-000","Cn1cc(C2=C(C(=O)NC2=O)c3c[nH]c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0317886-000","Cn1cc(C2=C(C(=O)NC2=O)c3cccnc3)c4ccccc14","Roche","Indolylmaleimide","GSK3B"
+"RO0317888-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCCCN)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318036-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCO)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318044-001","Cl.CNCCCn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318045-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCN)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318053-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCCCCO)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318069-000","Cn1cc(C2=C(C(=O)NC2=O)n3ccc4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318161-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCCN\C(=N\[N+](=O)[O-])\N)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318220-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCCSC(=N)N)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318259-000","Cn1cc(C2=C(C(=O)NC2=O)c3c4CCCCn4c5ccccc35)c6ccccc16","Roche","Bisindolylmaleimide","PRKC"
+"RO0318352-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(CCCNC(=N)N)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318365-001","Cl.Cn1cc(C2=C(C(=O)NC2=O)c3c4CNCCn4c5ccccc35)c6ccccc16","Roche","Bisindolylmaleimide","PRKC"
+"RO0318425-001","Cl.Cn1cc(C2=C(C(=O)NC2=O)c3c4CC(CN)CCn4c5ccccc35)c6ccccc16","Roche","Bisindolylmaleimide","PRKC"
+"RO0318549-000","CCCn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0318564-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(c4ccccc4)c5ccccc35)c6ccccc16","Roche","Bisindolylmaleimide","PRKC"
+"RO0318649-000","COc1cccc(c1)C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34","Roche","Indolylmaleimide","PRKC"
+"RO0318676-000","CNCC1CCn2c(C1)c(C3=C(C(=O)NC3=O)c4cn(C)c5ccccc45)c6ccccc26","Roche","Bisindolylmaleimide","PRKC"
+"RO0318830-000","CN(C)CC1CCn2c(C1)c(C3=C(C(=O)NC3=O)c4cn(C)c5ccccc45)c6ccccc26","Roche","Bisindolylmaleimide","PRKC"
+"RO0318987-000","Cn1cc(C2=C(C(=O)NC2=O)c3c4CCCCCn4c5ccccc35)c6ccccc16","Roche","Bisindolylmaleimide","PRKC"
+"RO0319317-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4cc(ccc34)C(=O)N)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0319318-000","Cn1cc(C2=C(C(=O)NC2=O)c3cn(C)c4cc(ccc34)C(=O)O)c5ccccc15","Roche","Bisindolylmaleimide","PRKC"
+"RO0319371-000","Cn1cc(C2=C(C(=O)NC2=O)c3c4CCC(CN)CCn4c5ccccc35)c6ccccc16","Roche","Bisindolylmaleimide","PRKC"
+"RO0319377-000","Cn1cc(C2=C(C(=O)NC2=O)c3c4CN(CCn4c5ccccc35)C(=S)N)c6ccccc16","Roche","Bisindolylmaleimide","GSK3B"
+"RO0320234-001","Cl.CN1C[C@@H]2Cc3c(C4=C(C(=O)NC4=O)c5cn(C)c6ccccc56)c7ccccc7n3C[C@H]2C1","Roche","Bisindolylmaleimide","PRKC"
+"RO0320344-000","O=C1OC(=O)C(=C1c2c[nH]c3ccccc23)c4c[nH]c5ccccc45","Roche","Bisindolylmaleimide","PRKC"
+"RO0320346-000","ON1C(=O)C(=C(C1=O)c2c[nH]c3ccccc23)c4c[nH]c5ccccc45","Roche","Bisindolylmaleimide","PRKC"
+"RO0320432-000","CN(C)C[C@H]1CCn2c(C1)c(C3=C(C(=O)NC3=O)c4cn(C)c5ccccc45)c6ccccc26","Roche","Bisindolylmaleimide","PRKC"
+"RO0320557-001","Cl.CN1C[C@@H]2Cc3c(C4=C(C(=O)NC4=O)c5cn(C)c6ccccc56)c7ccccc7n3C[C@H]2C1","Roche","Bisindolylmaleimide","PRKC"
+"RO0324253-000","CC(=O)N[C@@H](Cc1ccc(OP(=O)(O)O)cc1)C(=O)N[C@H]2CCC(=O)N3CCC[C@H](N3C2=O)C(=O)NCc4ccccc4","Roche","Peptidomimetic ligand","CDKL2"
+"RO0324381-000","CC(=O)N[C@@H](Cc1ccc(OP(=O)(O)O)cc1)C(=O)N[C@H]2CCC(=O)N3CCC[C@H](N3C2=O)C(=O)NCc4ccc(O)cc4","Roche","Peptidomimetic ligand","CDKL2"
+"RO0324438-000","CC(=O)N[C@@H](Cc1ccc(OP(=O)(O)O)cc1)C(=O)N[C@H]2CCC(=O)N3CCC[C@H](N3C2=O)C(=O)NC4CCc5ccccc45","Roche","Peptidomimetic ligand","CDKL2"
+"RO0324476-000","CC(=O)N[C@@H](Cc1ccc(OP(=O)(O)O)cc1)C(=O)N[C@H]2CCC(=O)N3CCC[C@H](N3C2=O)C(=O)NCc4cccc5ccccc45","Roche","Peptidomimetic ligand","CDKL2"
+"RO0324694-000","CCCCCNC(=O)[C@@H]1CCCN2N1C(=O)[C@H](CCC2=O)NC(=O)[C@H](Cc3ccc(OP(=O)(O)O)cc3)NC(=O)C","Roche","Peptidomimetic ligand","CDKL2"
+"RO0325308-000","CC(=O)N[C@@H](Cc1ccc(OP(=O)(O)O)cc1)C(=O)N[C@H]2CCC(=O)N3CCC[C@H](N3C2=O)C(=O)NCc4ccc(Cl)cc4","Roche","Peptidomimetic ligand","CDKL2"
+"RO0325851-000","CCNC(=O)[C@@H]1CCCN2N1C(=O)[C@H](CCC2=O)NC(=O)[C@H](Cc3ccc(OP(=O)(O)O)cc3)NC(=O)C","Roche","Peptidomimetic ligand","CDKL2"
+"RO0480500-002","Cl.COc1ccc(O)c(C(=O)c2ccc(cc2)C(=O)O[C@@H]3CCCNC[C@H]3NC(=O)c4ccncc4)c1F","Roche","Azepane","AKT1"
+"RO0504985-000","COc1cc[nH]c1\C=C\2/C(=O)Nc3ccc(c(N4CC[C@@H](O)C4)c23)[N+](=O)[O-]","Roche","Oxindoles","CDK2"
+"RO0505124-000","CN1CCN(CC1)c2ccc(Nc3nc(N)c(s3)C(=O)c4ccc5OCCOc5c4)cc2","Roche","Diaminothiazole","CDK4"
+"RO0506220-000","COc1cccc(c1)C(=O)c2sc(Nc3ccc(cc3)N4CCN(CC4)C(C)C)nc2N","Roche","Diaminothiazole","CDK4"
+"RO1150868-000","O=C(c1ccccc1)c2cnn(c3ccccc3)c2C#N","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1151080-000","Cc1nn(c(O)c1C(=O)c2ccccc2)c3ccccc3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1151246-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3ccccc3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1151248-000","Cc1ccccc1n2ncc(C(=O)c3ccccc3)c2N","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1153136-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3ccc(cc3)C#CCN4CCOCC4","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1153198-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3ccc(cc3)C#N","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1153320-001","Cl.Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(c3)C#CCN4CCOCC4","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1153321-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(c3)C#N","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1153427-001","Cl.Nc1c(cnn1c2ccc(F)cc2)C(=O)c3ccc(CCCN4CCOCC4)cc3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1153583-001","Cl.Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(CCCN4CCOCC4)c3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1153836-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(c3)C#CCO","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1153853-000","Fc1ccc(cc1)c2c([nH]c3cccnc23)c4ccncc4","Roche","4-Azaindoles","MAPK14"
+"RO1154309-001","Cl.CN1CCN(CC#Cc2cccc(c2)C(=O)c3cnn(c3N)c4ccc(F)cc4)CC1","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1154461-001","Cl.Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(c3)C#CCN4CCCCC4","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1154507-000","Fc1ccc(cc1)c2c(c3ccncc3)n(CCN4CCOCC4)c5cccnc25","Roche","4-Azaindoles","MAPK14"
+"RO1154641-001","Cl.CN(C)CC#Cc1cccc(c1)C(=O)c2cnn(c2N)c3ccc(F)cc3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1155240-000","Cn1c(c2ccncc2)c(c3ccc(F)cc3)c4ncccc14","Roche","4-Azaindoles","MAPK14"
+"RO1155697-000","Fc1ccc(cc1)c2c([nH]c3nccnc23)c4ccncc4","Roche","4-Azaindoles","MAPK14"
+"RO1155798-000","OCCn1c(c2ccncc2)c(c3ccc(F)cc3)c4ncccc14","Roche","4-Azaindoles","MAPK14"
+"RO1160347-001","Cl.CN1CCN(CCc2cccc(c2)C(=O)c3cnn(c3N)c4ccc(F)cc4)CC1","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1162009-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(CCS(=O)(=O)N)c3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1162529-002","Cl.Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(c3)c4cccnc4","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1163374-000","CO\N=C(/c1ccccc1)\c2cnn(c2N)c3ccccc3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1164194-001","Cl.Nc1c(cnn1c2ccc(F)cc2F)C(=O)c3cccc(c3)c4cccnc4","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1165037-001","Cl.Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(c3)c4ccncc4","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1166259-000","Nc1c(cnn1c2ccc(F)cc2F)C(=O)c3cccc(c3)c4ccc[n+]([O-])c4","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO1166300-001","Cl.Nc1c(cnn1c2ccc(F)cc2F)C(=O)c3cccc(c3)c4ccncc4","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO3200567-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(c3)C(O)CO","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO3200934-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(CCC4(O)CCCC4)c3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO3200935-000","CC(C)(O)CCc1cccc(c1)C(=O)c2cnn(c2N)c3ccc(F)cc3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO3201196-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(OC[C@H](O)CO)c3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO3201331-000","CS(=O)(=O)CCc1cccc(c1)C(=O)c2cnn(c2N)c3ccc(F)cc3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO3201790-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(c3)C(O)(CO)CO","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO3202002-001","Cl.Nc1c(cnn1c2ccc(F)cc2)C(=O)c3ccc(cc3)c4cccnc4","Roche","Benzoyl amino pyrazoles","MAPK14"
+"RO3202312-001","Cl.CC(CO)Nc1cc(ccn1)c2[nH]c3cccnc3c2c4ccc(F)cc4","Roche","4-Azaindoles","MAPK14"
+"RO3206145-001","Cl.C[C@H](O)CNc1cc(ccn1)c2[nH]c3cccnc3c2c4ccc(F)cc4","Roche","4-Azaindoles","MAPK14"
+"RO3206173-000","Cn1cc(C2=C(C(=O)NC2=O)c3cccc(OC[C@H](O)CO)c3)c4ccccc14","Roche","Indolylmaleimide","GSK3B"
+"RO3206363-000","COc1ccc(cc1OC)C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34","Roche","Indolylmaleimide","GSK3B"
+"RO3208546-000","Cn1cc(C2=C(C(=O)NC2=O)c3ccc(OC[C@@H](O)CO)cc3)c4ccccc14","Roche","Indolylmaleimide","GSK3B"
+"RO3245084-000","COc1ccc(OC)c(c1)C2=C(C(=O)NC2=O)c3cn(C)c4ccccc34","Roche","Indolylmaleimide","GSK3B"
+"RO3300167-000","COc1cccc(c1)C2=C(C(=O)NC2=O)c3c(C)n(C)c4ccccc34","Roche","Indolylmaleimide","GSK3B"
+"RO3300230-000","COc1cccc(c1)C2=C(C(=O)NC2=O)c3cn(C)c4ccc(Cl)cc34","Roche","Indolylmaleimide","GSK3B"
+"RO3300896-000","COc1cccc(c1)C2=C(C(=O)NC2=O)c3cn(C)c4cc(F)ccc34","Roche","Indolylmaleimide","GSK3B"
+"RO3300953-000","COc1cccc(c1)C2=C(C(=O)NC2=O)c3cn(C)c4cccc(OC)c34","Roche","Indolylmaleimide","GSK3B"
+"RO3301011-000","Cn1cc(C2=C(Sc3ccccc3)C(=O)NC2=O)c4ccccc14","Roche","Indolylmaleimide","GSK3B"
+"RO3301012-000","COc1cccc(c1)C2=C(C(=O)NC2=O)c3cn(C)c4c(C)cccc34","Roche","Indolylmaleimide","GSK3B"
+"RO3301277-000","Cn1cc(C2=C(Oc3ccccc3)C(=O)NC2=O)c4ccccc14","Roche","Indolylmaleimide","GSK3B"
+"RO3301767-000","Cn1cc(C2=C(Nc3ccccc3)C(=O)NC2=O)c4ccccc14","Roche","Indolylmaleimide","GSK3B"
+"RO3303031-000","Cn1cc(C2=C(N3CCOCC3)C(=O)NC2=O)c4ccccc14","Roche","Indolylmaleimide","GSK3B"
+"RO3303470-000","CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)c4ccccc4Cl","Roche","Pyrimidinopyridones","MAPK14"
+"RO3303724-001","Cl.Cn1cc(C2=C(C(=O)NC2=O)c3cccc(NCC(O)CO)c3)c4cc(Cl)ccc14","Roche","Indolylmaleimide","GSK3B"
+"RO3304757-001","Cl.CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4ccccc4","Roche","Pyrimidinopyridones","MAPK14"
+"RO3304774-001","Cl.CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4cccc(F)c4","Roche","Pyrimidinopyridones","MAPK14"
+"RO3304805-001","Cl.CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4ccccc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3304806-000","CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3304882-001","Cl.CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4ccc(F)cc4","Roche","Pyrimidinopyridones","MAPK14"
+"RO3305377-001","Cl.CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Cc4ccccc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3305411-001","Cl.CN1C(=O)C(=Cc2cnc(NC(C)(C)CO)nc12)Oc3ccc(F)cc3F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3305413-001","Cl.CN1C(=O)C(=Cc2cnc(N[C@@H]3CC[C@@H](O)CC3)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3308271-001","Cl.CN1C(=O)C(=Cc2cnc(NC3CCS(=O)(=O)CC3)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3308757-001","Cl.CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Cc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3308967-001","Cl.CN1C(=O)C(=Cc2cnc(NCC(C)(C)O)nc12)Oc3ccc(F)cc3F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3309180-001","Cl.CC(C)Nc1ncc2C=C(Oc3ccc(F)cc3F)C(=O)N(C)c2n1","Roche","Pyrimidinopyridones","MAPK14"
+"RO3309294-001","Cl.CN1C(=O)C(=Cc2cnc(NCCS(=O)(=O)C)nc12)Oc3ccc(F)cc3F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3310123-001","Cl.CN1C(=O)C(=Cc2cnc(NC(CO)CO)nc12)Oc3ccc(F)cc3F","Roche","Pyrimidinopyridones","MAPK14"
+"RO3310867-000","Fc1ccc(OC2=Cc3cnc(NC4CCOCC4)nc3NC2=O)c(F)c1","Roche","Pyrimidinopyridones","MAPK14"
+"RO3311017-001","Cl.CN1C(=O)C(=Cc2cnc(N[C@H]3CCOC3)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO4241967-000","Cc1cc(C)c2c(n1)sc3c(N)ncnc23","Roche","pyrido-thieno-pyrimidine","CDC7"
+"RO4241984-000","Cc1nc2sc3c(N)ncnc3c2c(C)c1C","Roche","pyrido-thieno-pyrimidine","CDC7"
+"RO4367438-000","CCN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO4367842-001","Cl.COc1ccc(O)c(C(=O)c2ccc(cc2)C(=O)N[C@@H]3CCCNC[C@H]3NC(=O)c4ccncc4)c1F","Roche","Azepane","AKT1"
+"RO4383596-000","COc1ccc(cc1)N2Cc3cnc(Nc4ccccc4)nc3N([C@@H]5CC[C@@H](O)C5)C2=O","Roche","pyrimidopyrimidone","KDR, FGFR, PDGFR"
+"RO4399247-000","Fc1ccc(OC2=Cc3cnc(NC4CCOCC4)nc3N(C5CC5)C2=O)c(F)c1","Roche","Pyrimidinopyridones","MAPK14"
+"RO4442080-000","O=C1N=C(NCc2ccccc2)S/C/1=C\c3ccc4ncccc4c3","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4442245-000","OCCCN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO4493940-000","O=C1N=C(Nc2ccccc2)S/C/1=C\c3ccc4ncccc4c3","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4493941-000","O=C1N=C(NCCCc2ccccc2)S/C/1=C\c3ccc4ncccc4c3","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4493944-000","CCc1c(C)nc2sc3c(N)ncnc3c2c1C","Roche","pyrido-thieno-pyrimidine","CDC7"
+"RO4498476-000","COc1ccc(CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2)cc1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4498479-000","Clc1ccc(CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2)cc1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4498483-000","Fc1ccccc1CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4498484-000","Clc1ccccc1CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4503314-000","CCOc1ccccc1CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4503315-000","COc1ccccc1CNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4503316-000","COc1ccccc1CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4503319-000","OC[C@H](Cc1ccccc1)NC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4506917-000","Clc1ccccc1CNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4506918-000","Brc1ccccc1CNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4508334-000","Brc1ccc(CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2)cc1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4508340-000","Fc1ccc(CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2)cc1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4508344-000","Fc1cccc(CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2)c1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4508346-000","O=C1N=C(NCCc2ccccn2)S/C/1=C\c3ccc4ncccc4c3","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4508348-000","O=C1N=C(NCCc2cccs2)S/C/1=C\c3ccc4ncccc4c3","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4509200-000","OC[C@@H](Cc1ccccc1)NC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4509201-000","Clc1cccc(CCNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2)c1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4509407-000","NC1=NC(=N)\C(=C\c2ccc3ncccc3c2)\S1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4514610-000","COc1ccccc1C(=O)c2cnc(NC3CCN(CC3)S(=O)(=O)C)nc2N","Roche","2,4-diamino-5-ketopyrimidines ","CDK"
+"RO4517872-000","COc1ccc(F)cc1C(=O)c2cnc(NC3CCN(CC3)S(=O)(=O)C)nc2N","Roche","2,4-diamino-5-ketopyrimidines ","CDK"
+"RO4554339-000","OC[C@@H](NC1=NC(=O)\C(=C\c2ccc3ncccc3c2)\S1)c4ccccc4","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4554340-000","OC[C@H](NC1=NC(=O)\C(=C\c2ccc3ncccc3c2)\S1)c4ccccc4","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4569139-000","NC1=NC(=O)\C(=C\c2ccc3ncccc3c2)\S1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4582641-000","OCC(CNC1=NC(=O)\C(=C\c2ccc3ncccc3c2)\S1)c4ccccc4","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4595655-000","COc1cc(F)c(F)cc1C(=O)c2cnc(NC3CCN(CC3)S(=O)(=O)C)nc2N","Roche","2,4-diamino-5-ketopyrimidines ","CDK"
+"RO4595946-000","COC[C@H](NC1=NC(=O)\C(=C\c2ccc3ncccc3c2)\S1)c4ccccc4","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4595949-000","CNC1=NC(=O)\C(=C\c2ccc3ncccc3c2)\S1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4600445-000","Clc1cccc(Cl)c1CNC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4600703-000","COc1cc(F)c(F)c(F)c1C(=O)c2cnc(NC3CCN(CC3)S(=O)(=O)C)nc2N","Roche","2,4-diamino-5-ketopyrimidines ","CDK"
+"RO4602005-000","COc1cccc(F)c1C(=O)c2cnc(NC3CCN(CC3)S(=O)(=O)C)nc2N","Roche","2,4-diamino-5-ketopyrimidines ","CDK"
+"RO4603632-000","O=C1NC(=O)\C(=C\c2ccc3ncccc3c2)\S1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4607009-000","C\C(=C/1\SC(=NC1=O)NCc2cccs2)\c3ccc4ncccc4c3","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4613269-000","CONC1=NC(=O)\C(=C\c2ccc3ncccc3c2)\S1","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4624208-000","O=C1N=C(NCc2cccs2)O/C/1=C\c3ccc4ncccc4c3","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4629078-000","O=C1N=C(NCc2cccs2)SC1Cc3ccc4ncccc4c3","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4874953-001","Cl.O=C1N=C(NCc2ccccn2)S/C/1=C\c3ccc4ncccc4c3","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4915610-000","O=C1N=C(N[C@@H]2C[C@H]2c3ccccc3)S/C/1=C\c4ccc5ncccc5c4","Roche","quinolinyl-methylene-thiazolinones","CDK1"
+"RO4930481-000","CS(=O)(=O)N1CCC(CC1)Nc2ncc(C(=O)c3c(F)cccc3F)c(N)n2","Roche","2,4-diamino-5-ketopyrimidines ","CDK"
+"RO4944065-000","CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Sc4ccccc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO5027956-000","CS(=O)(=O)CCN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO5033700-000","CS(=O)(=O)CCCN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO5036538-000","Fc1ccc(OC2=Cc3cnc(NC4CCOCC4)nc3N(C5CCS(=O)(=O)CC5)C2=O)c(F)c1","Roche","Pyrimidinopyridones","MAPK14"
+"RO5036558-000","CC(C)(O)CN1C(=O)C(=Cc2cnc(NC3CCOCC3)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO5040027-000","Fc1ccc(OC2=Cc3cnc(NC4CCOCC4)nc3N(CC#N)C2=O)c(F)c1","Roche","Pyrimidinopyridones","MAPK14"
+"RO5043011-000","CN1C(=O)C(=Cc2cnc(NC3CCN(CC3)C(=O)C)nc12)Oc4ccc(F)cc4F","Roche","Pyrimidinopyridones","MAPK14"
+"RO5043312-000","C[C@H](CS(=O)(=O)C)Nc1ncc2C=C(Oc3ccc(F)cc3F)C(=O)N(C)c2n1","Roche","Pyrimidinopyridones","MAPK14"
+"RO5044198-000","C[C@@H](CS(=O)(=O)C)Nc1ncc2C=C(Oc3ccc(F)cc3F)C(=O)N(C)c2n1","Roche","Pyrimidinopyridones","MAPK14"
+"RO5045977-000","CS(=O)(=O)N1CCC(CC1)N2C(=O)C(=Cc3cnc(NC4CCOCC4)nc23)Oc5ccc(F)cc5F","Roche","Pyrimidinopyridones","MAPK14"
+"RO5067310-000","C[C@@H](Cn1ncnn1)Nc2ncc3C=C(Oc4ccc(F)cc4F)C(=O)N(C)c3n2","Roche","Pyrimidinopyridones","MAPK14"
+"RO5068760-000","C[C@H]([C@H](N1C(=O)N[C@@H](C1=O)c2ccc(OC[C@H](O)CO)cc2)C(=O)Nc3ccc(I)cc3F)c4ccccc4","Roche","other","MAP2K1,MAP2K2"
+"RO5083957-000","CNc1ncc2C=C(Oc3ccc(F)cc3F)C(=O)N(C)c2n1","Roche","Pyrimidinopyridones","MAPK14"
+"RO5198354-000","Cn1cc(C2=C(C(=O)NC2=O)c3cccc(OCC(O)CO)c3)c4ccccc14","Roche","Indolylmaleimide","GSK3B"
+"RO5301104-000","Nc1c(cnn1c2ccc(F)cc2)C(=O)c3cccc(OCCN4CCOCC4)c3","Roche","Benzoyl amino pyrazoles","MAPK14"
+"SB-202620","FC1=CC=C(C=C1)C(N=C2C3=CC=C(C(O)=O)C=C3)=C(N2)C4=CC=NC=C4","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-210313","Fc1ccc(cc1)-c1ncn(CCCN2CCOCC2)c1-c1ccncc1","PKIS","4-pyridyl_ortho-aryl_azoles","MAPK14"
+"SB-210486","FC1=CC=C(C=C1)C2=C(C3=CC=NC=C3)N(CCCNCC4=CC=CC=C4)C=N2","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-211742","FC1=CC=C(C=C1)C2=C(C3=NC=CC=C3)N(CCCN4CCOCC4)C=N2","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-211743","FC1=CC=C(C=C1)C2=C(C3=CN=CC=C3)N(CCCN4CCOCC4)C=N2","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-213663","FC1=CC=C(C=C1)C2=C(C3=CC=NC=C3)NC(C4=C(S(C)(=O)=O)C=CC=C4)=N2","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-216385","Nc1nccc(n1)-c1c(ncn1CCCN1CCOCC1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-217146-A","CSC1=NC=CC(C(N(CCCN2CCOCC2)C=N3)=C3C4=CC=C(F)C=C4)=N1.Cl","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-217360","FC1=CC=C(C=C1)C(N=CN2)=C2C3=CC=NC=C3","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-217780","FC(F)(F)C1=CC=C(C=C1)C2=C(C3=CC=NC=C3)N(CCCN4CCOCC4)C=N2","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-219952","NC1=NC(C(N(C=N2)C(CC3)CCN3C(OCC)=O)=C2C4=CC=C(F)C=C4)=CC=N1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-219980","NC1=NC(C(N(C=N2)C(CC3)CCN3CC4=CC=CC=C4)=C2C5=CC=C(F)C=C5)=CC=N1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-220025-A","Cl.Nc1nccc(n1)-c1c(ncn1C1CCNCC1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-220455","CN1CCC(CC1)n1cnc(c1-c1ccnc(N)n1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-221466","CC1(C)CC(CC(C)(C)N1)n1cnc(c1-c1ccnc(N)n1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-222516","CNC1=NC=CC(C(N(CCCN2CCOCC2)C=N3)=C3C4=CC=C(F)C=C4)=N1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-222517","CC1=CC(C(N(CCCN2CCOCC2)C=N3)=C3C4=CC=C(F)C=C4)=NC(N)=N1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-222903","CNC1=NC(C(N2C(CC3)CCN3C)=C(N=C2)C(C=C4)=CC=C4F)=CC=N1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-223132","NC1=NC(C(N(C=N2)C(CC3)CCN3C(C)C)=C2C4=CC=C(F)C=C4)=CC=N1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-223133","Nc1nccc(n1)-c1c(ncn1C1CCC(O)CC1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-226605","FC1=CC=C(C=C1)C(N=C2)=C(C3=NC(NCC)=NC=C3)N2C(CC4)CCN4C","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-226879","CN1CCC(CC1)n1cnc(c1-c1ccnc(NCCO)n1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-229482","FC1=CC=C(C=C1)C(N=C2)=C(C3=NC(NC4CCNCC4)=NC=C3)N2C(CC5)CCN5C","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-236560","NC1=NC=CC(C(N(C=N2)C(CC3)CCN3CC(F)(F)F)=C2C4=CC=C(F)C=C4)=N1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-236687","CN1CCC(CC1)n1cnc(c1-c1ccnc(Nc2ccccc2)n1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-238039-R","FC1=CC=C(C=C1)C(N=C2)=C(C3=NC(NC4=CC=CC=C4)=NC=C3)N2C5CCNCC5.FC6=CC=C(C=C6)C(N=C7)=C(C8=NC(NC9=CC=CC=C9)=NC=C8)N7C%10CCNCC%10.Cl.Cl.Cl","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-239272","Fc1ccc(cc1)-c1ncn(C2CCNCC2)c1-c1ccnc(Oc2ccccc2)n1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-242717","Fc1ccc(Oc2nccc(n2)-c2c(ncn2C2CCNCC2)-c2ccc(F)cc2)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-242718","NC(=O)c1ccc(Oc2nccc(n2)-c2c(ncn2C2CCNCC2)-c2ccc(F)cc2)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-242719","CCc1ccc(Oc2nccc(n2)-c2c(ncn2C2CCNCC2)-c2ccc(F)cc2)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-242721","Fc1ccc(cc1)-c1ncn(C2CCNCC2)c1-c1ccnc(Oc2ccc(cc2)C#N)n1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-245391","FC1=CC=C(C=C1)C(N=C2)=C(C3=NC(OC4=CC=C(C5=CC=CC=C5)C=C4)=NC=C3)N2C6CCNCC6","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-245392","Fc1ccc(cc1)-c1ncn(C2CCNCC2)c1-c1ccnc(Oc2ccc(Oc3ccccc3)cc2)n1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-249175","FC1=CC=C(C=C1)C(N=C2)=C(C3=NC(OCC)=NC=C3)N2C4CCNCC4","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-250715","Fc1ccc(cc1)-c1ncn(C2CCNCC2)c1-c1ccnc(Oc2ccc3OCOc3c2)n1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-251505","Fc1ccc(cc1)-c1ncn(C2CCNCC2)c1-c1ccnc(Oc2cccc(F)c2)n1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-251527","COc1ccccc1Oc1nccc(n1)-c1c(ncn1C1CCNCC1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-253226","Fc1ccc(cc1)-c1ncn(C2CCNCC2)c1-c1ccnc(Oc2cccc(c2)C(F)(F)F)n1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-253228","Fc1ccc(cc1)-c1ncn(C2CCNCC2)c1-c1ccnc(Oc2ccc(F)c(F)c2)n1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-254169","CS(=O)(=O)c1ccc(Oc2nccc(n2)-c2c(ncn2C2CCNCC2)-c2ccc(F)cc2)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-264865","NC(=O)Cc1ccccc1Oc1nccc(n1)-c1c(ncn1C1CCNCC1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-264866","NC(=O)CCc1ccccc1Oc1nccc(n1)-c1c(ncn1C1CCNCC1)-c1ccc(F)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-278538","CC(C)(C)c1ccc(Oc2nccc(n2)-c2c(ncn2C2CCNCC2)-c2ccc(F)cc2)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-278539","Fc1ccc(cc1)-c1ncn(C2CCNCC2)c1-c1ccnc(Oc2ccc(Cl)cc2)n1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-282852","COC1=NC=CC(C(N(CCCN2CCOCC2)C=N3)=C3C4=CC=C(F)C=C4)=N1","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-282975-A","CC1=NC=CC(C(N(CCCN2CCOCC2)C=N3)=C3C(C=C4)=CC=C4F)=N1.Cl","PKIS2","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-284847-BT","OC(=O)C(F)(F)F.Cc1cccc(Oc2nccc(n2)-c2c(ncn2C2CCNCC2)-c2ccc(F)cc2)c1C","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-284851-BT","FC1=CC=C(C=C1)C(N=C2)=C(C3=NC(OC4=CC(C)=CC(C)=C4)=NC=C3)N2C5CCNCC5.OC(C(F)(F)F)=O.FC6=CC=C(C=C6)C(N=C7)=C(C8=NC(OC9=CC(C)=CC(C)=C9)=NC=C8)N7C%10CCNCC%10.OC(C(F)(F)F)=O.OC(C(F)(F)F)=O","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-284852-BT","FC1=CC=C(C=C1)C(N=C2)=C(C3=NC(OC4=C(C)C=CC(C)=C4)=NC=C3)N2C5CCNCC5.OC(C(F)(F)F)=O.FC6=CC=C(C=C6)C(N=C7)=C(C8=NC(OC9=C(C)C=CC(C)=C9)=NC=C8)N7C%10CCNCC%10.OC(C(F)(F)F)=O.OC(C(F)(F)F)=O","PKIS2","4-pyrimidinyl_ortho-aryl_azoles",
+"SB-285234-W","[Li+].[O-]C(=O)c1ccc(Oc2nccc(n2)-c2c(ncn2C2CCNCC2)-c2ccc(F)cc2)cc1","PKIS","4-pyrimidinyl_ortho-aryl_azoles","MAPK14"
+"SB-300079","O=C(N1C)C(C2=CC=CC=C2)=C(NC3=CC=CC=C3)C1=O","PKIS2","3-anilino-4-aryl maleimide",
+"SB-317651","O=C(N1)C(C(C=C2)=CC=C2Cl)=C(C1=O)NC3=CC(Cl)=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-317658","O=C(N1)C(C(C=C2)=CC=C2Cl)=C(C1=O)NC(C=C3)=CC=C3SC","PKIS2","3-anilino-4-aryl maleimide",
+"SB-317661","O=C(N1)C(C(C=C2)=CC=C2Cl)=C(C1=O)NC3=CC=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-326892","O=C(N1)C(C(C=C2)=CC=C2OC)=C(C1=O)NC3=CC=CC(Cl)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-331032","O=C(N1)C(C2=CC(OC)=CC=C2)=C(C1=O)NC(C=C3)=CC=C3SC","PKIS2","3-anilino-4-aryl maleimide",
+"SB-333612","Clc1ccc(cc1)C1=C(N2CCc3ccccc23)C(=O)NC1=O","PKIS","Maleimide","GSK3"
+"SB-333613","O=C(N1)C(C(C=C2)=CC=C2Cl)=C(C1=O)NC3=CC(O)=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-334860","O=C(N1)C(C2=CC=CC=C2)=C(C1=O)N(C)C3=CC=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-334865","O=C(N1)C(C2=CC(OC)=CC=C2)=C(C1=O)N(C)C3=CC=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-340867","O=C(N1)C(C(C=C2)=CC=C2Cl)=C(C1=O)NC3=CC=C(O)C=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-341528","O=C(N1)C(C2=CC(Cl)=CC=C2)=C(C1=O)NC(C=C3)=CC=C3SC","PKIS2","3-anilino-4-aryl maleimide",
+"SB-341556","O=C(N1)C(C2=CC(OC)=CC=C2)=C(C1=O)NC3=CC=CC(Cl)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-342409","O=C(N1)C(C2=C(Cl)C=CC=C2)=C(C1=O)NC3=CC(Cl)=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-342411","O=C(N1)C(C2=C(Cl)C=CC=C2)=C(C1=O)NC(C=C3)=CC=C3SC","PKIS2","3-anilino-4-aryl maleimide",
+"SB-347804","Fc1ccc(cc1)C(=O)Nc1sc2CCCCc2c1C#N","PKIS","3-cyano_thiophenes","JNK"
+"SB-358518","Oc1c(Cl)cc(NC2=C(C(=O)NC2=O)c2cccc(c2)N(=O)=O)cc1Cl","PKIS","Maleimide","GSK3"
+"SB-360737","O=C(N1)C(C(C=C2)=CC=C2Cl)=C(C1=O)NC3=CC=CC(C(O)=O)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-360741","OC(=O)c1cc(NC2=C(C(=O)NC2=O)c2ccc(Cl)cc2)ccc1Cl","PKIS","Maleimide","GSK3"
+"SB-361058","COc1ccc(cc1)C1=C(N2CCc3ccccc23)C(=O)NC1=O","PKIS","Maleimide","GSK3"
+"SB-373598","O=C(N1)C(N(CC2)C3=C2C=CC=C3)=C(C1=O)C4=C(Cl)C=CC=C4","PKIS2","3-anilino-4-aryl maleimide",
+"SB-376715","O=C(N1)C(C2=C(Cl)C=CC=C2)=C(C1=O)NC3=CC=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-376719","COc1ccccc1C1=C(Nc2ccccc2)C(=O)NC1=O","PKIS","Maleimide","GSK3"
+"SB-381891","O=C(N1)C(C2=C(OC)C=CC=C2)=C(C1=O)NC3=CC(O)=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-381904","O=C(N1)C(C2=C(OC)C=CC=C2)=C(C1=O)NC(C=C3)=CC(Cl)=C3O","PKIS2","3-anilino-4-aryl maleimide",
+"SB-386023-B","OC1=CC(C(N=C2C3=CC=CC=C3)=C(N2)C4=CC=NC=C4)=CC=C1Cl.OC5=CC(C(N=C6C7=CC=CC=C7)=C(N6)C8=CC=NC=C8)=CC=C5Cl.Cl.Cl","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-390523","Oc1c(Cl)cc(NC2=C(C(=O)NC2=O)c2ccccc2Cl)cc1Cl","PKIS","Maleimide","GSK3"
+"SB-390526","O=C(N1)C(C2=C(Cl)C=CC=C2)=C(C1=O)NC3=CC=CC(C(O)=O)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-390527","Oc1cccc(NC2=C(C(=O)NC2=O)c2ccccc2Cl)c1","PKIS","Maleimide","GSK3"
+"SB-390530","O=C(N1)C(C2=CC=CC=C2)=C(C1=O)NC3=CC(Cl)=C(O)C(Cl)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-390532","O=C(N1)C(C2=CC=CC=C2)=C(C1=O)NC3=CC=C(Cl)C(C(O)=O)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-390534","O=C(N1)C(NC2=CC=CC(O)=C2)=C(C1=O)C3=CC=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-390765","O=C(N1)C(C(C=C2)=CC=C2OC)=C(C1=O)NC3=CC=CC(C(O)=O)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-390766","O=C(N1)C(C(C=C2)=CC=C2OC)=C(C1=O)NC3=CC=CC(O)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-390767","O=C(N1)C(NC2=CC(Cl)=C(O)C(Cl)=C2)=C(C1=O)C3=CC(OC)=CC=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-390769","O=C(N1)C(C2=CC(OC)=CC=C2)=C(C1=O)NC3=CC=C(Cl)C(C(O)=O)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-390770","O=C(N1)C(C2=CC(OC)=CC=C2)=C(C1=O)NC3=CC=CC(C(O)=O)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-390771","O=C(N1)C(C2=CC(OC)=CC=C2)=C(C1=O)NC3=CC=CC(O)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-400868-A","Cl.C1Cc2nc(c(-c3ccc4OCOc4c3)n2C1)-c1ccccn1","PKIS","2-pyridinyl_imidazoles_and_related","TGFBR"
+"SB-404290","O=C(N1C)C(C(C=C2)=CC=C2Cl)=C(C1=O)NC(C=C3)=CC(C(O)=O)=C3Cl","PKIS2","3-anilino-4-aryl maleimide",
+"SB-404321","O=C(N1C)C(C(C=C2)=CC=C2Cl)=C(NC(C=C3Cl)=CC(Cl)=C3O)C1=O","PKIS2","3-anilino-4-aryl maleimide",
+"SB-405367","O=C(N1)C(C(C=C2)=CC=C2Cl)=C(C1=O)NC3=CC=C(O)C(Cl)=C3","PKIS2","3-anilino-4-aryl maleimide",
+"SB-408010","O=C(N1)C(N(CC2)C3=C2C=CC=C3)=C(C1=O)C4=CC(Cl)=CC=C4","PKIS2","3-anilino-4-aryl maleimide",
+"SB-409513","OC(=O)c1cc(NC2=C(C(=O)NC2=O)c2cccc(Cl)c2)ccc1Cl","PKIS","Maleimide","GSK3"
+"SB-409514","Oc1ccc(NC2=C(C(=O)NC2=O)c2cccc(Cl)c2)cc1Cl","PKIS","Maleimide","GSK3"
+"SB-428218-A","OC1=CC=C(C=C1)C(N=C2C3=CC=CC=C3)=C(N2)C4=CC=NC=C4.Cl","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-431533","OCc1ccc(cc1)-c1nc(c([nH]1)-c1ccc2OCOc2c1)-c1ccccn1","PKIS","2-pyridinyl_imidazoles_and_related","TGFBR"
+"SB-431542-A","Cl.NC(=O)c1ccc(cc1)-c1nc(c([nH]1)-c1ccc2OCOc2c1)-c1ccccn1","PKIS","2-pyridinyl_imidazoles_and_related","TGFBR"
+"SB-437013","COc1ccc2cc(ccc2c1)-c1c(nc(-c2ccc(cc2)S(C)=O)n1C)-c1ccncc1","PKIS","4-pyridyl_ortho-aryl_azoles","TIE2"
+"SB-476429-A","Cl.NCc1ccc(cc1)-c1nc(c([nH]1)-c1ccncc1)-c1ccc(Cl)c(O)c1","PKIS","4-pyridyl_ortho-aryl_azoles","RAF"
+"SB-477794-AAA","OC1=CC(C(N=C2C(C)(C)CN)=C(N2)C3=CC=NC=C3)=CC=C1Cl.OC(C(F)(F)F)=O","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-517081_KCGS","Nc1n[nH]c2ncc(cc12)-c1ccccc1","KCGS","3-amino-5-aryl-pyrazolopyridine",
+"SB-517389","NC1=NNC(N=N2)=C1C=C2C3=CC=CC=C3","PKIS2","3-amino-5-aryl-pyrazolopyridine",
+"SB-548492","CC(NC1=NNC2=NC=C(C3=CC=CC=C3)C=C21)=O","PKIS2","3-amino-5-aryl-pyrazolopyridine",
+"SB-589132","NC1=NC=NC2=C1C(C(C=C3)=CC=C3OC)=C(C4=CC=C(OC)C=C4)O2","PKIS2","4-amino-3-aryl-thienopyridine and analogues",
+"SB-590885_KCGS","CN(C)CCOC1=CC=C(C2=NC(C3=CC=C4/C(CCC4=C3)=N\O)=C(C5=CC=NC=C5)N2)C=C1","KCGS","4-pyridyl_ortho-aryl_azoles","BRAF"
+"SB-601273","O=C1C(C2=C(Cl)C=CC=C2Cl)=CC3=CN=C(NC(C=C4)=CC=C4OCCN(CC)CC)N=C3N1C","PKIS2","pyridopyrimidinone",
+"SB-601436","O=C(CCC)NC1=NNC2=NC=CC=C12","PKIS2","3-amino-5-aryl-pyrazolopyridine",
+"SB-610250","COC1=CC(C(N=C2C3=CC=CC=C3)=C(N2)C4=CC=NC=C4)=CC=C1","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-610251-B","Cl.Oc1cccc(c1)-c1nc([nH]c1-c1ccncc1)-c1ccccc1","PKIS","4-pyridyl_ortho-aryl_azoles","RAF"
+"SB-614067-R","Cl.ON=C1CCc2cc(ccc12)-c1nc([nH]c1-c1ccncc1)C1CCNCC1","PKIS","4-pyridyl_ortho-aryl_azoles","RAF"
+"SB-625086-M","CN1C(C2=CC3=CC=C(OC)C=C3C=C2)=C(C4=CC=NC=C4)N=C1C(C=C5)=C(C)C=C5SC.OC(C(F)(F)F)=O","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-627772-A","O=C(CCCN(C)C)NC1=NNC2=NN=C(C3=CC=CC=C3)C=C21.Cl","PKIS2","others",
+"SB-630812","COc1ccc2cc(ccc2c1)-c1c(nc(-c2ccc(cc2C)S(C)=O)n1C)-c1ccncc1","PKIS","4-pyridyl_ortho-aryl_azoles","TIE2"
+"SB-633825","COc1ccc2cc(ccc2c1)-c1c(nc(-c2ccc(cc2C)S(C)(=O)=O)n1C)-c1ccncc1","PKIS","4-pyridyl_ortho-aryl_azoles","TIE2"
+"SB-642057","O=C(CCC)NC1=NNC2=NC=C(C3=C(C=CC=C4)C4=CC=C3)C=C21","PKIS2","3-amino-5-aryl-pyrazolopyridine",
+"SB-642124-AAA","NC1=NNC2=CN=C(C3=CC=CC=C3)C=C21","PKIS2","3-amino-5-aryl-pyrazolopyridine",
+"SB-657836-AAA","OC(=O)C(O)=O.O=C(CN1CCOCC1)Nc1sc2CCCCc2c1C#N","PKIS","3-cyano_thiophenes","JNK"
+"SB-660566","CC(C)C1=C(C=CC=C1)C2=NC(C3=CC4=CC=C(OC)C=C4C=C3)=C(C5=CC=NC=C5)N2","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-675259-M","OC(=O)C(F)(F)F.O=C(Nc1n[nH]c2nnc(cc12)-c1cccnc1)C1CC1","PKIS","3-amino_pyrazolopyridazines","GSK3"
+"SB-678557-A","Cl.CN1CCC(CC1)C(=O)Nc1n[nH]c2nnc(cc12)-c1ccccc1","PKIS","3-amino_pyrazolopyridazines","GSK3"
+"SB-682330-A","Cl.CN(C)CCOc1ccc(cc1)-c1cc(c(o1)-c1ccncc1)-c1ccc2C(CCc2c1)=NO","PKIS","4-pyridyl_ortho-aryl_azoles","RAF"
+"SB-684387-B","OC1=CC(C(C=C2C(C=C3)=CC=C3OCCN(C)C)=C(N2)C4=CC=NC=C4)=CC=C1Cl.OC5=CC(C(C=C6C(C=C7)=CC=C7OCCN(C)C)=C(N6)C8=CC=NC=C8)=CC=C5Cl.Cl.Cl","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SB-686709-A","Cl.CCN1CCC(CC1)C(=O)Nc1n[nH]c2nnc(cc12)-c1cccc(F)c1F","PKIS","3-amino_pyrazolopyridazines","GSK3"
+"SB-693162","NC1=NON=C1C2=NC3=C(C=CC=C3)N2CC","PKIS2","aminofurazan",
+"SB-693578","C1(C(C2=CC=CC=C2)=CC=N3)=C3NC=C1","PKIS2","4-aryl-7-azaindole",
+"SB-698596-AC","O[C@H]([C@@H](O)C(O)=O)C(O)=O.CCN1CCC(CC(=O)Nc2n[nH]c3nnc(cc23)-c2cccc(F)c2F)CC1","PKIS","3-amino_pyrazolopyridazines","GSK3"
+"SB-708998","BrC1=C(C2=CC=CC=C2)N=C3C(C(NC(C4CC4)=O)=NN3)=C1","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-708999","O=C(C1CC1)NC2=NNC3=NC(C4=CC=CC=C4)=CC=C32","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-710363","O=C(C1CC1)NC2=NNC3=NC(C(C=C4)=CC=C4O)=CC=C32","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-710397_KCGS","CN(C)CCN(C)C(=O)c1cc(c(o1)-c1ccc(Cl)c(O)c1)-c1ccncc1","KCGS","4-Ar-pyridine",
+"SB-710903","O=C(C1CC1)NC2=NNC3=C2C=CC(C4=CC(OC)=CC=C4)=N3","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-711237","COc1ccc(cc1)-c1ccc2c(NC(=O)C3CC3)n[nH]c2n1","PKIS","3-amino_pyrazolopyridines","GSK3"
+"SB-711239","COc1ccccc1-c1ccc2c(NC(=O)C3CC3)n[nH]c2n1","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-711805","O=C(C1CC1)NC2=NNC3=C2C=CC(C4=CC(O)=CC=C4)=N3","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-711880","O=C(C1CC1)NC2=NNC3=C2C=CC(C4=C(O)C=CC=C4)=N3","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-725317","Oc1ccc(cc1)-c1nc2[nH]nc(NC(=O)C3CC3)c2cc1Br","PKIS","3-amino_pyrazolopyridines","GSK3"
+"SB-731254-M","NC1=C2C(C(C=C3)=CC=C3NC(CC4=CC(F)=CC=C4F)=O)=CSC2=NC=N1.OC(C(F)(F)F)=O","PKIS2","4-amino-3-aryl-thienopyridine and analogues",
+"SB-731284","O=C(C1CC1)NC2=NNC3=CC(C4=CC=CS4)=CC=C32","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-731579","BrC1=C(C(C=C2)=CC=C2O)N=C3C(C(NC(CCCN(CC4)CCN4CC)=O)=NN3)=C1","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-732881","CN1CCC(CC1)C(=O)Nc1n[nH]c2nc(-c3ccc(O)cc3)c(Br)cc12","PKIS","3-amino_pyrazolopyridines","GSK3"
+"SB-732881-H","OC(=O)\C=C/C(O)=O.CN1CCC(CC1)C(=O)Nc1n[nH]c2nc(-c3ccc(O)cc3)c(Br)cc12","PKIS","3-amino_pyrazolopyridines","GSK3"
+"SB-732932_KCGS","O=C(Nc1n[nH]c2cc(ccc12)-c1ccsc1)C1CC1","KCGS","3-acylamino-6-aryl-indazole","GSK3a, CDK2"
+"SB-732941","O=C(Nc1n[nH]c2cc(ccc12)-c1ccccc1)C1CC1","PKIS","Indazole-3-carboxamides","GSK3"
+"SB-733371","O=C(C1CC1)NC2=NNC3=CC(C4=CC=CC=C4F)=CC=C32","PKIS2","3-acylamino-6-aryl-indazole",
+"SB-733416","CCN1C(C2=CC=CC=C2)=NC3=CN=CC=C13","PKIS2","Imidazolopyridine",
+"SB-733887","CCN1C(C2=COC=C2)=NC3=CN=CC=C13","PKIS2","Imidazolopyridine",
+"SB-733894","O=C(C1CC1)NC2=NNC3=CC(C4=CC=CC(F)=C4F)=CC=C32","PKIS2","3-acylamino-6-aryl-indazole","GSK3a, CDK2"
+"SB-734117","Nc1nonc1-c1nc2cnccc2n1C1CCCCC1","PKIS","Furazan_benzimidazoles","MSK"
+"SB-734909","ClC1=C(C2=CC=CC=C2)N=C3C(C(NC(C4CC4)=O)=NN3)=C1","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-735216","CCN1C(C2=CC=NC=C2)=NC3=CN=CC=C13","PKIS2","Imidazolopyridine",
+"SB-735297","BrC1=C(C2=CC=CS2)N=C3C(C(NC(C4CC4)=O)=NN3)=C1","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-735464","O=C(C1CC1)NC2=NNC3=C2C=CC(C4=CC(F)=CC=C4)=C3","PKIS2","3-acylamino-6-aryl-indazole","GSK3a, CDK2"
+"SB-735465","Fc1ccc(F)c(c1)-c1ccc2c(NC(=O)C3CC3)n[nH]c2c1","PKIS","Indazole-3-carboxamides","GSK3"
+"SB-735467","Fc1ccc(cc1)-c1ccc2c(NC(=O)C3CC3)n[nH]c2c1","PKIS","Indazole-3-carboxamides","GSK3"
+"SB-736290","Cn1c(nc2cnccc12)-c1nonc1N","PKIS","Furazan_benzimidazoles","MSK"
+"SB-736302","Nc1nonc1-c1nc2cnccc2n1C1CC1","PKIS","Furazan_benzimidazoles","MSK"
+"SB-736398","CCN1C(C2=CC=CC=N2)=NC3=CN=CC=C13","PKIS2","Imidazolopyridine",
+"SB-736715","CCN1C(C2=C(O)N=CC=C2)=NC3=CN=CC=C13","PKIS2","Imidazolopyridine",
+"SB-737198","CCOc1nccc2n(CC)c(nc12)-c1nonc1N","PKIS","Furazan_benzimidazoles","MSK"
+"SB-737447","O=C(C1CC1)NC2=NNC3=CC(C4=CC=CO4)=CC=C32","PKIS2","3-acylamino-6-aryl-indazole",
+"SB-737856","NC1=NOC(C)=C1C2=NC3=CN=CC=C3N2CC","PKIS2","aminofurazan",
+"SB-738004","BrC1=C2N(CC)C(C3=NON=C3N)=NC2=CN=C1","PKIS2","aminofurazan",
+"SB-738481","O=C(C1CC1)NC2=NNC3=CC(C4=COC=C4)=CC=C32","PKIS2","3-acylamino-6-aryl-indazole",
+"SB-738482","NS(=O)(=O)c1ccc(cc1)-c1ccc2c(NC(=O)C3CC3)n[nH]c2c1","PKIS","Indazole-3-carboxamides","GSK3"
+"SB-738561","CCn1c(nc2ccncc12)-c1nonc1N","PKIS","Furazan_benzimidazoles","MSK"
+"SB-739245-AC","O[C@H]([C@@H](O)C(O)=O)C(O)=O.CCN1CCC(CC(=O)Nc2n[nH]c3nc(-c4cccs4)c(Br)cc23)CC1","PKIS","3-amino_pyrazolopyridines","GSK3"
+"SB-739452","Brc1cc2c(NC(=O)C3CC3)n[nH]c2nc1-c1ccco1","PKIS","3-amino_pyrazolopyridines","GSK3"
+"SB-741905","NS(=O)(=O)c1cccc(c1)-c1ccc2c(NC(=O)C3CC3)n[nH]c2c1","PKIS","Indazole-3-carboxamides","GSK3"
+"SB-742034-AC","BrC1=C(C2=CC=CO2)N=C3C(C(NC(C(CC4)CN4CC5=CC=CC=C5)=O)=NN3)=C1.O[C@@H](C(O)=O)[C@H](C(O)=O)O","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-742251","BrC1=C(C2=NC=CS2)N=C3C(C(NC(C4CC4)=O)=NN3)=C1","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-742352-AC","BrC1=C(C2=CC=CO2)N=C3C(C(NC(C(C=C4)=CC=C4CN5CCCC5)=O)=NN3)=C1.O[C@@H](C(O)=O)[C@H](C(O)=O)O","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-742609","BrC1=C(C2=NC=CS2)N=C3C(C(NC(C4CCCC4)=O)=NN3)=C1","PKIS2","3-amino-6-aryl-pyrazolopyridine","GSK3a, CDK2"
+"SB-742864","CS(=O)(=O)Nc1cccc(c1)-c1ccc2c(NC(=O)C3CC3)n[nH]c2c1","PKIS","Indazole-3-carboxamides","GSK3"
+"SB-742865","CS(=O)(=O)Nc1ccc(cc1)-c1ccc2c(NC(=O)C3CC3)n[nH]c2c1","PKIS","Indazole-3-carboxamides","GSK3"
+"SB-743341","BrC1=C(C2=CC=CS2)N=C3C(C(NC(C4CCCC4)=O)=NN3)=C1","PKIS2","3-amino-6-aryl-pyrazolopyridine",
+"SB-743899","O=C(Nc1n[nH]c2nc(ccc12)-c1ccco1)C1CC1","PKIS","3-amino_pyrazolopyridines","GSK3"
+"SB-744941","CCn1c(nc2c(nccc12)N1CCCC1)-c1nonc1N","PKIS","Furazan_benzimidazoles","MSK"
+"SB-747651A","NC1=NON=C1C(N2CC)=NC3=C2C(CNC4CCNCC4)=CN=C3","KCGS","aminofurazan",
+"SB-750140","NCc1ccc(cc1)-n1c(nc2cnccc12)-c1nonc1N","PKIS","Furazan_benzimidazoles","MSK"
+"SB-750250-M","CN1N=C(C(C=C2)=CC(F)=C2NC(NC3=CC=C4C(C=CC=C4)=C3)=O)C(C=N5)=C1N=C5NCCN6CCOCC6.OC(C(F)(F)F)=O","PKIS2","diarylurea",
+"SB-751148","CCc1nccc2n(CC)c(nc12)-c1nonc1N","PKIS","Furazan_benzimidazoles","MSK"
+"SB-751399-B","CN(C)CCCn1c(nc2cnccc12)-c1nonc1N","PKIS","Furazan_benzimidazoles","RPS6KA5"
+"SB-759335-B","Cl.CCn1c(nc2cncc(C(=O)N3CCNCC3)c12)-c1nonc1N","PKIS","Furazan_benzimidazoles","AKT"
+"SB-772077-B","Cl.CCn1c(nc2cncc(C(=O)N3CC[C@H](N)C3)c12)-c1nonc1N","PKIS","Furazan_benzimidazoles","RHO"
+"SB-814597","Fc1ccc(C(=O)Nc2sc3CCCCc3c2C#N)c2ccccc12","PKIS","3-cyano_thiophenes","JNK"
+"SGC-AAK1-1","O=S(N(CC)CC)(NC1=CC(C2=CC3=C(C(NC(C4CC4)=O)=NN3)C=C2)=CC=C1)=O","KCGS","6-Ar-indazole","AAK1, BMP2K"
+"SKF-104365","FC1=CC=C(C=C1)C(N(CCS2)C2=N3)=C3C4=NC=CC=C4","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SKF-104493-B2","COC1=CC=C(C=C1)C2=C(C3=CC=NC=C3)N(CCC4)C4=N2.OS(O)(=O)=O.COC5=CC=C(C=C5)C6=C(C7=CC=NC=C7)N(CCC8)C8=N6.OS(O)(=O)=O","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SKF-105561","CSC1=CC=C(C=C1)C2=C(C3=CC=NC=C3)N(CCC4)C4=N2","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SKF-105942","CS(C1=CC=C(C=C1)C2=C(C3=CC=NC=C3)N(CCC4)C4=N2)(=O)=O","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SKF-106164-A2","CCSC1=CC=C(C=C1)C2=C(C3=CC=NC=C3)N(CCC4)C4=N2.CCSC5=CC=C(C=C5)C6=C(C7=CC=NC=C7)N(CCC8)C8=N6.Cl.Cl","PKIS2","4-pyridinyl_ortho-aryl_azoles",
+"SKF-12778","NC1=NC(N)=NC(N2)=C1N=C2C3=CC=CC=C3","PKIS2","6-aminopurines and related",
+"SKF-18267","NC1=NC=NC2=C1C=NN2C","PKIS2","6-aminopurines and related",
+"SKF-18355","CNC1=NC=NC2=C1C=NN2","PKIS2","6-aminopurines and related",
+"SKF-31736","CN(C)C1=NC=NC2=C1NC=N2","PKIS2","6-aminopurines and related",
+"SKF-62604","O=C1NC(=O)C(=C1Nc1ccccc1)c1ccccc1","PKIS","Maleimide","GSK3"
+"SKF-86002-A2","Cl.Fc1ccc(cc1)-c1nc2SCCn2c1-c1ccncc1","PKIS","4-pyridyl_ortho-aryl_azoles","MAPK14"
+"SKF-86055","Fc1ccc(cc1)-c1c(nc2SCCn12)-c1ccncc1","PKIS","4-pyridyl_ortho-aryl_azoles","TGFBR"
+"SKF-96418","CCN1C2=C(N=C1)C(NCC3=CC=CC=C3)=NC=N2","PKIS2","6-aminopurines and related",
+"SKF-97184","NC1=NC=NC2=C1N=CN2C3=CC=CC4=C3C=CC=C4","PKIS2","6-aminopurines and related",
+"SKF-97236","NC1=NC=NC2=C1N=CN2C(C=C3)=CC=C3OC","PKIS2","6-aminopurines and related",
+"SKF-97255","NC1=NC=NC2=C1N=C(CCCCC)N2CCCCC","PKIS2","6-aminopurines and related",
+"SKF-97263","NC1=NC=NC2=C1N=CN2C(C=C3)=CC=C3C(C)(C)C","PKIS2","6-aminopurines and related",
+"SKF-97293","NC1=NC=NC2=C1N=C(C3=CC=CC=C3)N2C4=CC=CC=C4","PKIS2","6-aminopurines and related",
+"SKF-97359","NC1=NC=NC2=C1N=CN2C(C)(C)C","PKIS2","6-aminopurines and related",
+"SKF-97416","NC1=NC=NC2=C1N=CN2C3=CC=CC(OC)=C3","PKIS2","6-aminopurines and related",
+"SKF-97510","CC1=C(C=CC=C1)N(C=N2)C3=C2C(N)=NC=N3","PKIS2","6-aminopurines and related",
+"SKF-97560","NC1=NC=NC2=C1N=CN2C3=CC(F)=CC=C3","PKIS2","6-aminopurines and related",
+"SKF-97620","CCC(CC)(CC)N(C=N1)C2=C1C(N)=NC=N2","PKIS2","6-aminopurines and related",
+"SKF-97623","NC1=NC=NC2=C1N=CN2C","PKIS2","6-aminopurines and related",
+"TH257","O=C(N(CCCC)CC1=CC=CC=C1)C(C=C2)=CC=C2S(NC3=CC=CC=C3)(=O)=O","KCGS","other",
+"THZ1","ClC1=CN=C(N=C1C2=CNC3=CC=CC=C23)NC4=CC=CC(NC(C5=CC=C(NC(/C=C/CN(C)C)=O)C=C5)=O)=C4","KCGS","2-anilino-4-aryl-pyrimidine","CDK7"
+"THZ531","CN(C)C\C=C\C(=O)NC1=CC=C(C=C1)C(=O)N1CCC[C@H](C1)NC1=NC=C(Cl)C(=N1)C1=CNC2=CC=CC=C12","KCGS","2-amino-4-aryl-pyrimidine","CDK12,CDK13"
+"TPKI-100","COC(=O)C1=C(C2=CC=CC=C2)C2=CC(Br)=CC=C2C(=O)N1CC1=CC=C(C=C1)S(C)(=O)=O","KCGS","isoquinolone","JNK"
+"TPKI-105","CCC(=O)C1=C(C2=CC=CC=C2)C2=CC(Cl)=CC=C2C(=O)N1CC1=NN(CC(N)=O)C(=C1)S(C)(=O)=O","KCGS","isoquinolone","JNK"
+"TPKI-106","CCC1=NC(=C(S1)C1=CC=NC=C1)C1=CC(C)=CC=C1","KCGS","4-Ar-pyridine","MAPK14"
+"TPKI-16","Cn1c2ncn(OC[C@H](O)CO)c(=O)c2c(Nc3ccc(I)cc3F)c(F)c1=O","KCGS","other",
+"TPKI-24","COc1cc(ccc1Nc2ncc3N(C)C(=O)C(F)(F)CN(C4CCCC4)c3n2)C(=O)NC5CCN(C)CC5","KCGS","2-amino-pyrimido-diazepin-6-one","PLK1"
+"TPKI-26","CC[C@]1(F)CN(C2CCCC2)c3nc(Nc4ccc(cc4OC)C(=O)NC5CCN(C)CC5)ncc3N(C)C1=O","KCGS","2-amino-pyrimido-diazepin-6-one","PLK1"
+"TPKI-39","O=C(NC1=CC=CC=C1)NC1=CC=CC(OC2=NN3C=CN=C3C=C2)=C1","KCGS","5,6-fused imidazole/pyrazole","VEGFR2"
+"TPKI-58","CC(C)(C)C1=CC=C(C=C1)C(=O)NC1=CN2C=C(C=CC2=N1)C1=CC=CN=C1","KCGS","5,6-fused imidazole/pyrazole","MAP3K5"
+"TPKI-69","CN1C=CC2=C1C(OC1=CC=C(NC(=O)NC3=CC=CC=C3)C=C1)=NC=N2","KCGS","4-XAr-5-sub-pyrrolo-pyrimidine","VEGFR2"
+"TPKI-72","CN1C=CC2=C1C(OC1=CC=C(NC3=NC4=C(N3)C=CC=C4)C=C1)=NC=N2","KCGS","4-XAr-5-sub-pyrrolo-pyrimidine","VEGFR2"
+"TPKI-85","CC1=NN=C(N1)C1=CC=C2OC=C(C2=C1)C1=CC=C(C=C1)S(C)=O","KCGS","5-Ar-benzofuran","GSK3B"
+"TPKI-91","COC1=CC=C(CSC2=NN=C(O2)C2=CC3=C(C=C2)N=CS3)C=C1C(F)(F)F","KCGS","6-Ar-benzothiazole","GSK3B"
+"TPKI-97","COC(=O)C1=C(C2=CC=CC=C2)C2=CC(OC)=CC=C2C(=O)N1CC1=CC=CC=C1","KCGS","isoquinolone","JNK"
+"TX-85-1","CC(=O)N1CCN(CC1)C2CCC(CC2)N3C4=C(C(=N3)C5=CC(=C(C=C5)OC6=CC=CC=C6)NC(=O)C=C)C(=NC=N4)N","KCGS","fused amino-pyrimidine","ERBB3"
+"UNC-AA-1-0017","O=S(N(C)CC)(NC1=CC(C2=CC3=C(C(NC(C4CC4)=O)=NN3)C=C2)=CC=C1)=O","KCGS","6-Ar-indazole","AAK1, BMP2K"
+"VE-821","NC1=C(C(N([H])C2=CC=CC=C2)=O)N=C(C3=CC=C(S(=O)(C)=O)C=C3)C=N1","KCGS","2-amino-5-Ar-pyrazine","ATR"
+"VE-822","CC(C)S(=O)(=O)C1=CC=C(C=C1)C2=CN=C(C(=N2)C3=CC(=NO3)C4=CC=C(C=C4)CNC)N","KCGS","2-amino-5-Ar-pyrazine","ATR"
+"Vertex11e","[H]N1C(C(N[C@H](CO)C2=CC=CC(Cl)=C2)=O)=CC(C3=NC(NC4=C(Cl)C=C(F)C=C4)=NC=C3C)=C1","KCGS","2-anilino-4-aryl-pyrimidine","MAPK1"
+"WZ4003","CN(CC3)CCN3C(C=C2)=CC(OC)=C2NC1=NC=C(Cl)C(OC4=CC(NC(CC)=O)=CC=C4)=N1","KCGS","2-anilino-4-O-Ar-pyrimidine",
+"XMD-17-51","CN(C1=CN=C(NC2=CN(C3CCNCC3)N=C2)N=C1N(C)C4=C5C=CC=C4)C5=O","KCGS","2-amino-pyrimido-diazepin-6-one",
+"XMD8-87","O=C1C2=C(C=CC=C2)N(C)C3=NC(N(C4=C(OC)C=C(N5CCN(C)CC5)C=C4)[H])=NC=C3N1","KCGS","2-amino-pyrimido-diazepin-6-one",
+"XMD8-92","O=C1N(C)C2=CN=C(NC3=CC=C(N4CCC(O)CC4)C=C3OCC)N=C2N(C)C5=CC=CC=C15","KCGS","2-amino-pyrimido-diazepin-6-one","MAPK7"

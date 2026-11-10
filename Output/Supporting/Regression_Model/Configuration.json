@@ -1,0 +1,21 @@
+{
+  "fingerprint": {
+    "FP_Type": "ECFP",
+    "Radius": 2,
+    "nBits": 1024,
+    "useChirality": true
+  },
+  "params": {
+    "n_estimators": 1000,
+    "max_depth": 6,
+    "learning_rate": 0.014843268113819029,
+    "min_child_weight": 0.5265818679962058,
+    "subsample": 0.8914599160243123,
+    "colsample_bynode": 0.4241044293561872,
+    "gamma": 0.002220910906434148,
+    "reg_alpha": 0.005051480392434941,
+    "reg_lambda": 0.34016681810227767
+  },
+  "CV_RMSE": 0.06473578394430946,
+  "seed": 2026
+}

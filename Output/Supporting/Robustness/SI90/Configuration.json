@@ -1,0 +1,28 @@
+{
+  "definition": "SI90",
+  "metric_cutoff": 0.08157894736842106,
+  "cutoff_method": "Kneedle on curated cohort",
+  "fingerprint": {
+    "FP_Type": "ECFP",
+    "Radius": 2,
+    "nBits": 1024,
+    "useChirality": true
+  },
+  "params": {
+    "n_estimators": 1000,
+    "max_depth": 10,
+    "learning_rate": 0.04242762446443537,
+    "min_child_weight": 0.6918688331618209,
+    "subsample": 0.9895817632398416,
+    "colsample_bynode": 0.11202967190800567,
+    "gamma": 0.20306762566465428,
+    "reg_alpha": 0.003064006508761679,
+    "reg_lambda": 0.06929724778328868
+  },
+  "seed": 2026,
+  "optuna_trials": 500,
+  "CV_folds": 5,
+  "test_size": 0.2,
+  "prediction_threshold": 0.4749999999999999,
+  "CV_PR_AUC": 0.6227256293858761
+}

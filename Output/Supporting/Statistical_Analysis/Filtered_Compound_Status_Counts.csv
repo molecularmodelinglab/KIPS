@@ -1,0 +1,6 @@
+Category,Compounds_N,Filtered_KIPS_N,Percent_Filtered_KIPS
+Approved drugs (ChEMBL max phase 4),8,1538,0.5201560468140443
+Clinical candidates (ChEMBL max phase 1–3),30,1538,1.950585175552666
+Portal-annotated tool compounds (all listed),99,1538,6.436931079323798
+Portal subset: not flagged unsuitable,93,1538,6.046814044213264
+Portal subset: flagged unsuitable,6,1538,0.3901170351105332
